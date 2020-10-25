@@ -1,0 +1,2 @@
+[18-Aug-2020 13:10:10 Asia/Kolkata] PHP Fatal error:  Cannot redeclare ServerFilterModel::count_filtered_purchase_order() in /home1/ab2674/sme.amarbebsha.com/devs/application/models/ServerFilterModel.php on line 1541
+[06-Sep-2020 10:28:19 Asia/Kolkata] PHP Fatal error:  Cannot redeclare SetupController::salaryEditByVoucher() in /home1/ab2674/sme.amarbebsha.com/devs/application/controllers/lpg/SetupController.php on line 697

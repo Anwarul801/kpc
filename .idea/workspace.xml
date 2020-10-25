@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8891b0d4-961c-4d59-adc5-b77f988f0187" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12210">
+              <caret line="555" column="77" lean-forward="false" selection-start-line="555" selection-start-column="47" selection-end-line="555" selection-end-column="77" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SalesDeliveryChallanController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/lpg/SalesDeliveryChallanController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="174" column="29" lean-forward="false" selection-start-line="174" selection-start-column="26" selection-end-line="174" selection-end-column="29" />
+              <folding>
+                <marker date="1600753607088" expanded="true" signature="11570:11710" ph="UPDATE so_po... " />
+                <marker date="1600753607088" expanded="true" signature="18662:18971" ph="SELECT SUM(s... so_po_productes" />
+                <marker date="1600753607088" expanded="true" signature="40279:40419" ph="UPDATE so_po... " />
+                <marker date="1600753607088" expanded="true" signature="43941:44250" ph="SELECT SUM(s... so_po_productes" />
+                <marker date="1600753607088" expanded="true" signature="52521:52661" ph="UPDATE so_po... " />
+                <marker date="1600753607088" expanded="true" signature="56183:56492" ph="SELECT SUM(s... so_po_productes" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sales_delivery_challan.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/distributor/sales_order/sales_delivery_challan.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="633" column="70" lean-forward="true" selection-start-line="633" selection-start-column="70" selection-end-line="633" selection-end-column="70" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log-2020-10-13.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/logs/log-2020-10-13.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="539">
+              <caret line="481" column="81" lean-forward="false" selection-start-line="481" selection-start-column="75" selection-end-line="481" selection-end-column="81" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log-2020-10-14.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/logs/log-2020-10-14.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="588" column="55" lean-forward="false" selection-start-line="588" selection-start-column="52" selection-end-line="598" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaterialReceivedController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/lpg/MaterialReceivedController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9746">
+              <caret line="443" column="18" lean-forward="false" selection-start-line="443" selection-start-column="18" selection-end-line="443" selection-end-column="18" />
+              <folding>
+                <marker date="1602585344809" expanded="true" signature="12353:12493" ph="UPDATE so_po... " />
+                <marker date="1602585344809" expanded="true" signature="19226:19535" ph="SELECT SUM(s... so_po_productes" />
+                <marker date="1602585344809" expanded="true" signature="41337:41477" ph="UPDATE so_po... " />
+                <marker date="1602585344809" expanded="true" signature="44999:45308" ph="SELECT SUM(s... so_po_productes" />
+                <marker date="1602585344809" expanded="true" signature="53585:53725" ph="UPDATE so_po... " />
+                <marker date="1602585344809" expanded="true" signature="57247:57556" ph="SELECT SUM(s... so_po_productes" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PurchaseOrderController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/lpg/PurchaseOrderController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10208">
+              <caret line="593" column="8" lean-forward="false" selection-start-line="593" selection-start-column="8" selection-end-line="593" selection-end-column="74" />
+              <folding>
+                <element signature="e#3662#10472#0#PHP" expanded="false" />
+                <marker date="1602580649523" expanded="true" signature="41394:41533" ph="UPDATE so_po... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sales_order_view.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/distributor/sales_order/sales_order_view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9724">
+              <caret line="442" column="132" lean-forward="false" selection-start-line="442" selection-start-column="113" selection-end-line="442" selection-end-column="132" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="purchase_order_edit.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/distributor/purchase_order/purchase_order_edit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14080">
+              <caret line="640" column="0" lean-forward="true" selection-start-line="640" selection-start-column="0" selection-end-line="640" selection-end-column="0" />
+              <folding>
+                <marker date="1602581353282" expanded="true" signature="51786:51792" ph=" " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sales_order_edit.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/distributor/sales_order/sales_order_edit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10472">
+              <caret line="476" column="86" lean-forward="false" selection-start-line="476" selection-start-column="86" selection-end-line="476" selection-end-column="86" />
+              <folding>
+                <marker date="1602580781883" expanded="true" signature="42673:42679" ph=" " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>reference</find>
+      <find>balance</find>
+      <find>AllBranch</find>
+      <find>balanceSheet</find>
+      <find>balanceSheetWithAllBranch</find>
+      <find>referenceAdd(</find>
+      <find>balance_sheet_query_with_all_branch</find>
+      <find>Stock Quantity Not Available</find>
+      <find>$(document).on(&quot;keyup&quot;, &quot;.add_quantity&quot;, function () {</find>
+      <find>arrt-box-qty</find>
+      <find>addUser</find>
+      <find>Maindb_username</find>
+      <find>add_quantity</find>
+      <find>show_item</find>
+      <find>addUser(</find>
+      <find>Carton</find>
+      <find>sales_order</find>
+      <find>check_parmission_by_user_role</find>
+      <find>unit_custom_field_1</find>
+      <find>purchase_order_add</find>
+      <find>unitConvertion</find>
+      <find>purchase_order</find>
+      <find>sales_order_add</find>
+      <find>so_po_details</find>
+      <find>sales_delivery_challan</find>
+      <find>Total</find>
+      <find>get_so_po_product_for_mrn_sdc</find>
+      <find>po_issue_qty_td</find>
+      <find>get_supplier_customer_details</find>
+      <find>getSodetails</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\xampp\htdocs\kpc\application</dir>
+      <dir>E:\xampp\htdocs\kpc\application\controllers</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/application/views/distributor/inventory/unit/unitAdd.php" />
+        <option value="$PROJECT_DIR$/application/views/distributor/inventory/unit/unit.php" />
+        <option value="$PROJECT_DIR$/application/controllers/lpg/UnitController.php" />
+        <option value="$PROJECT_DIR$/application/logs/log-2020-10-05.php" />
+        <option value="$PROJECT_DIR$/application/views/distributor/inventory/unit/unitEdit.php" />
+        <option value="$PROJECT_DIR$/application/models/Common_model.php" />
+        <option value="$PROJECT_DIR$/application/controllers/lpg/InvProductController.php" />
+        <option value="$PROJECT_DIR$/application/views/distributor/sales/salesOrder/salesOrderView.php" />
+        <option value="$PROJECT_DIR$/application/controllers/lpg/ServerFilterController.php" />
+        <option value="$PROJECT_DIR$/application/config/routes.php" />
+        <option value="$PROJECT_DIR$/application/controllers/lpg/SalesController.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp19228/sme.amarbebsha.com/accounts/application/views/distributor/account/report/balanceSheetWithAllBranch.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp22374/sme.amarbebsha.com/accounts/application/controllers/lpg/AccountController.php" />
+        <option value="$PROJECT_DIR$/application/controllers/lpg/SalesOrderController.php" />
+        <option value="$PROJECT_DIR$/application/config/config.php" />
+        <option value="$PROJECT_DIR$/application/logs/log-2020-10-08.php" />
+        <option value="$PROJECT_DIR$/application/controllers/AuthController.php" />
+        <option value="$PROJECT_DIR$/application/controllers/lpg/UserController.php" />
+        <option value="$PROJECT_DIR$/application/views/distributor/sales_order/sales_order_add.php" />
+        <option value="$PROJECT_DIR$/application/views/distributor/purchase_order/purchase_order_add.php" />
+        <option value="$PROJECT_DIR$/application/controllers/lpg/PurchaseOrderController.php" />
+        <option value="$PROJECT_DIR$/application/views/distributor/sales_order/sales_order_edit.php" />
+        <option value="$PROJECT_DIR$/application/views/distributor/purchase_order/purchase_order_edit.php" />
+        <option value="$PROJECT_DIR$/application/views/distributor/sales_order/sales_order_view.php" />
+        <option value="$PROJECT_DIR$/application/views/distributor/purchase_order/purchase_order_view.php" />
+        <option value="$PROJECT_DIR$/application/logs/log-2020-10-13.php" />
+        <option value="$PROJECT_DIR$/application/controllers/lpg/MaterialReceivedController.php" />
+        <option value="$PROJECT_DIR$/application/views/distributor/sales_order/sales_delivery_challan.php" />
+        <option value="$PROJECT_DIR$/application/logs/log-2020-10-14.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kpc" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="kpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kpc" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="kpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kpc" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="kpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kpc" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lpg" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="kpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kpc" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="logs" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="kpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kpc" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="kpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kpc" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="distributor" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="kpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kpc" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="distributor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="purchase_order" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="kpc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kpc" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="distributor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sales_order" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\kpc\application\views\distributor\sales_order" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8891b0d4-961c-4d59-adc5-b77f988f0187" name="Default" comment="" />
+      <created>1601869421614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601869421614</updated>
+      <workItem from="1601869423135" duration="14391000" />
+      <workItem from="1602042844815" duration="1734000" />
+      <workItem from="1602127160483" duration="15569000" />
+      <workItem from="1602571635583" duration="12109000" />
+      <workItem from="1602585824055" duration="3000" />
+      <workItem from="1602648962058" duration="229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="44035000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18155198" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/views/distributor/sales_order/sales_delivery_challan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6094">
+          <caret line="277" column="29" lean-forward="false" selection-start-line="277" selection-start-column="29" selection-end-line="277" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/distributor/sales_order/sales_order_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9944">
+          <caret line="452" column="78" lean-forward="false" selection-start-line="452" selection-start-column="38" selection-end-line="452" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/distributor/sales_order/sales_order_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8492">
+          <caret line="386" column="95" lean-forward="false" selection-start-line="386" selection-start-column="95" selection-end-line="386" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12320">
+          <caret line="560" column="73" lean-forward="false" selection-start-line="560" selection-start-column="63" selection-end-line="560" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/distributor/sales_order/sales_delivery_challan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5984">
+          <caret line="277" column="29" lean-forward="true" selection-start-line="277" selection-start-column="29" selection-end-line="277" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/lpg/SalesOrderController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10450">
+          <caret line="475" column="0" lean-forward="false" selection-start-line="475" selection-start-column="0" selection-end-line="475" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/distributor/sales/salesInvoiceLpg/sale_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25410">
+          <caret line="1155" column="39" lean-forward="true" selection-start-line="1155" selection-start-column="39" selection-end-line="1155" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sales_lpg/saleInvoice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2728">
+          <caret line="124" column="55" lean-forward="false" selection-start-line="124" selection-start-column="55" selection-end-line="124" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/lpg/ServerFilterController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31592">
+          <caret line="1436" column="102" lean-forward="false" selection-start-line="1436" selection-start-column="89" selection-end-line="1436" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/distributor/inventory/unit/unitAddKpc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../amartiles/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/distributor/inventory/unit/unitEdit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="36" lean-forward="false" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/distributor/inventory/unit/unit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="69" lean-forward="true" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/logs/log-2020-10-05.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/lpg/UnitController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="142" column="13" lean-forward="false" selection-start-line="142" selection-start-column="12" selection-end-line="142" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/distributor/inventory/unit/unitAdd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="46" column="106" lean-forward="false" selection-start-line="46" selection-start-column="71" selection-end-line="46" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Common_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="279" column="32" lean-forward="false" selection-start-line="279" selection-start-column="13" selection-end-line="279" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/lpg/InvProductController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="598" column="141" lean-forward="false" selection-start-line="598" selection-start-column="141" selection-end-line="598" selection-end-column="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/distributor/sales/salesOrder/salesOrderView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="363" column="150" lean-forward="false" selection-start-line="363" selection-start-column="150" selection-end-line="363" selection-end-column="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/lpg/ServerFilterController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31482">
+          <caret line="1436" column="102" lean-forward="false" selection-start-line="1436" selection-start-column="89" selection-end-line="1436" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/customerPaymentController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5390">
+          <caret line="245" column="0" lean-forward="false" selection-start-line="245" selection-start-column="0" selection-end-line="245" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/distributor/sales/salesInvoiceLpg/sale_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1155" column="39" lean-forward="false" selection-start-line="1155" selection-start-column="39" selection-end-line="1155" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sales_lpg/saleInvoice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="124" column="55" lean-forward="false" selection-start-line="124" selection-start-column="55" selection-end-line="124" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp20372/sme.amarbebsha.com/accounts/application/controllers/lpg/AccountReportController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="211" column="81" lean-forward="false" selection-start-line="211" selection-start-column="81" selection-end-line="211" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp19228/sme.amarbebsha.com/accounts/application/views/distributor/account/report/balanceSheetWithAllBranch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="177" column="50" lean-forward="false" selection-start-line="177" selection-start-column="50" selection-end-line="177" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp22374/sme.amarbebsha.com/accounts/application/controllers/lpg/AccountController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="601" column="127" lean-forward="false" selection-start-line="601" selection-start-column="92" selection-end-line="601" selection-end-column="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp25681/sme.amarbebsha.com/accounts/application/logs/log-2020-10-08.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="134" column="15" lean-forward="true" selection-start-line="40" selection-start-column="69" selection-end-line="134" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/lpg/SalesLpgController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1870">
+          <caret line="1103" column="67" lean-forward="false" selection-start-line="1102" selection-start-column="20" selection-end-line="1103" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/lpg/SalesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="2025" column="13" lean-forward="false" selection-start-line="2025" selection-start-column="13" selection-end-line="2025" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp26433/sme.amarbebsha.com/accounts/application/models/AccountsBalanceSheet_Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1386">
+          <caret line="27" column="14" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2596">
+          <caret line="118" column="56" lean-forward="false" selection-start-line="118" selection-start-column="56" selection-end-line="118" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/logs/log-2020-10-08.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/lpg/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="138" column="46" lean-forward="false" selection-start-line="138" selection-start-column="46" selection-end-line="138" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/distributor/sales_order/sales_order_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="1253" column="8" lean-forward="false" selection-start-line="1253" selection-start-column="8" selection-end-line="1253" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/lpg/SalesOrderController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-107">
+          <caret line="620" column="8" lean-forward="true" selection-start-line="620" selection-start-column="8" selection-end-line="621" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/distributor/purchase_order/purchase_order_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="559" column="36" lean-forward="false" selection-start-line="559" selection-start-column="36" selection-end-line="559" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/distributor/purchase_order/purchase_order_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6468">
+          <caret line="294" column="90" lean-forward="false" selection-start-line="294" selection-start-column="90" selection-end-line="294" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12210">
+          <caret line="555" column="77" lean-forward="false" selection-start-line="555" selection-start-column="47" selection-end-line="555" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/distributor/sales_order/sales_delivery_challan_OLD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/lpg/PurchaseOrderController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10208">
+          <caret line="593" column="8" lean-forward="false" selection-start-line="593" selection-start-column="8" selection-end-line="593" selection-end-column="74" />
+          <folding>
+            <element signature="e#3662#10472#0#PHP" expanded="false" />
+            <marker date="1602580649523" expanded="true" signature="41394:41533" ph="UPDATE so_po... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/distributor/sales_order/sales_order_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10472">
+          <caret line="476" column="86" lean-forward="false" selection-start-line="476" selection-start-column="86" selection-end-line="476" selection-end-column="86" />
+          <folding>
+            <marker date="1602580781883" expanded="true" signature="42673:42679" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/distributor/purchase_order/purchase_order_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14080">
+          <caret line="640" column="0" lean-forward="true" selection-start-line="640" selection-start-column="0" selection-end-line="640" selection-end-column="0" />
+          <folding>
+            <marker date="1602581353282" expanded="true" signature="51786:51792" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/distributor/sales_order/sales_order_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9724">
+          <caret line="442" column="132" lean-forward="false" selection-start-line="442" selection-start-column="113" selection-end-line="442" selection-end-column="132" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/lpg/MaterialReceivedController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9746">
+          <caret line="443" column="18" lean-forward="false" selection-start-line="443" selection-start-column="18" selection-end-line="443" selection-end-column="18" />
+          <folding>
+            <marker date="1602585344809" expanded="true" signature="12353:12493" ph="UPDATE so_po... " />
+            <marker date="1602585344809" expanded="true" signature="19226:19535" ph="SELECT SUM(s... so_po_productes" />
+            <marker date="1602585344809" expanded="true" signature="41337:41477" ph="UPDATE so_po... " />
+            <marker date="1602585344809" expanded="true" signature="44999:45308" ph="SELECT SUM(s... so_po_productes" />
+            <marker date="1602585344809" expanded="true" signature="53585:53725" ph="UPDATE so_po... " />
+            <marker date="1602585344809" expanded="true" signature="57247:57556" ph="SELECT SUM(s... so_po_productes" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/distributor/sales_order/sales_delivery_challan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="633" column="70" lean-forward="true" selection-start-line="633" selection-start-column="70" selection-end-line="633" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/lpg/SalesDeliveryChallanController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="174" column="29" lean-forward="false" selection-start-line="174" selection-start-column="26" selection-end-line="174" selection-end-column="29" />
+          <folding>
+            <marker date="1600753607088" expanded="true" signature="11570:11710" ph="UPDATE so_po... " />
+            <marker date="1600753607088" expanded="true" signature="18662:18971" ph="SELECT SUM(s... so_po_productes" />
+            <marker date="1600753607088" expanded="true" signature="40279:40419" ph="UPDATE so_po... " />
+            <marker date="1600753607088" expanded="true" signature="43941:44250" ph="SELECT SUM(s... so_po_productes" />
+            <marker date="1600753607088" expanded="true" signature="52521:52661" ph="UPDATE so_po... " />
+            <marker date="1600753607088" expanded="true" signature="56183:56492" ph="SELECT SUM(s... so_po_productes" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/logs/log-2020-10-13.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="481" column="81" lean-forward="false" selection-start-line="481" selection-start-column="75" selection-end-line="481" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/logs/log-2020-10-14.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="588" column="55" lean-forward="false" selection-start-line="588" selection-start-column="52" selection-end-line="598" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
