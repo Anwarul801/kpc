@@ -27,7 +27,7 @@ date_default_timezone_set('Asia/Kolkata');
   | a PHP script and you can easily do that on your own.
   |
  */
- $config['base_url'] = 'http://localhost/kpc';
+ $config['base_url'] = 'http://localhost/kpc/';
 
 //$config['base_url'] = 'http://ael-bd.net/asadstore/';
 /*if ($_SERVER['HTTP_HOST'] == 'localhost'):
@@ -116,11 +116,11 @@ $config['accounting_master_table_for_warranty_receipt_voucher']='9';
 if ($_SERVER['HTTP_HOST'] == 'localhost'):
     $config['Maindb_username'] = "root";
     $config['Maindb_password'] = "";
-    $config['Maindb_name'] = "ab2674_mastergeneralerp_db";
+    $config['Maindb_name'] = "kpc_master_db";
 else:
-    $config['Maindb_username'] = "ab2674_generaler";
-    $config['Maindb_password'] = "ceo[G+OY;!%=";
-    $config['Maindb_name'] = "ab2674_mastergeneralerp_db";
+    $config['Maindb_username'] = "";
+    $config['Maindb_password'] = "";
+    $config['Maindb_name'] = "";
 
 endif;
 

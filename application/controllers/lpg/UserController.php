@@ -6,7 +6,9 @@
  * Time: 10:21 AM
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
-class UserController extends CI_Controller {
+
+class UserController extends CI_Controller
+{
 
 
     private $timestamp;
@@ -18,7 +20,9 @@ class UserController extends CI_Controller {
     public $business_type;
     public $folder;
     public $folderSub;
-    public function __construct() {
+
+    public function __construct()
+    {
         parent::__construct();
         $this->load->model('Common_model');
         $this->load->model('Finane_Model');
@@ -41,13 +45,11 @@ class UserController extends CI_Controller {
         $this->db = $this->load->database($config_app, TRUE);
 
 
-
-
         if ($this->business_type == "LPG") {
             $this->folder = 'distributor/setup';
             $this->folderSub = 'distributor/setup/';
 
-        }else{
+        } else {
             $this->folder = 'distributor/masterTemplateSmeMobile';
 
             $this->folderSub = 'distributor/setup_mobile/';
@@ -56,47 +58,40 @@ class UserController extends CI_Controller {
     }
 
 
-
-    function userList() {
+    function userList()
+    {
         /*page navbar details*/
         $data['title'] = 'User List';
-        $data['page_type']=$this->page_type;
-        $data['link_page_name']='User Add';
-        $data['link_page_url']=$this->project.'/addUser';
-        $data['link_icon']="<i class='fa fa-plus'></i>";
+        $data['page_type'] = $this->page_type;
+        $data['link_page_name'] = 'User Add';
+        $data['link_page_url'] = $this->project . '/addUser';
+        $data['link_icon'] = "<i class='fa fa-plus'></i>";
         /*page navbar details*/
         $data['userList'] = $this->Common_model->get_data_list_by_single_column('admin', '1', 1);
         $this->load->helper('site_helper');
-        $add  = check_parmission_by_user_role(49);
-        if($add == 0){
+        $add = check_parmission_by_user_role(49);
+        if ($add == 0) {
             $data['mainContent'] = $this->load->view('distributor/not_permisson_page', $data, true);
-            $this->load->view('distributor/masterTemplate', $data);
-        } else{
-            $data['mainContent'] = $this->load->view($this->folderSub.'user/userList', $data, true);
-            $this->load->view('distributor/masterTemplate', $data);
+            $this->load->view('distributor/masterTemplateSmeMobile', $data);
+        } else {
+            $data['mainContent'] = $this->load->view($this->folderSub . 'user/userList', $data, true);
+            $this->load->view('distributor/masterTemplateSmeMobile', $data);
         }
-
-        
     }
 
     function addUser()
     {
 
         if (isPostBack()) {
-
-
             $this->form_validation->set_rules('name', 'User Name', 'required');
             $this->form_validation->set_rules('email', 'User Email', 'required');
             $this->form_validation->set_rules('user_role', 'User Role', 'required');
-
             if ($this->form_validation->run() == FALSE) {
                 $msg = 'Required field can not be empty';
                 $this->session->set_flashdata('error', $msg);
                 redirect(site_url($this->project . '/addUser'));
             } else {
-                $email=$this->input->post('email');
-
-
+                $email = $this->input->post('email');
                 $query = $this->db->field_exists('m_distributorid', 'admin');
                 if ($query != TRUE) {
                     $this->load->dbforge();
@@ -104,16 +99,15 @@ class UserController extends CI_Controller {
                         'm_distributorid' => array(
                             'type' => 'INT',
                             'constraint' => 11,
-                            //'unsigned' => TRUE,
-                            'after' => 'distributor_id')
+                            'after' => 'distributor_id'),
                     );
                     $this->dbforge->add_column('admin', $fields);
                 }
                 $this->db->close();
 
-                $Maindb_username=$this->config->item("Maindb_username");
-                $Maindb_password=$this->config->item("Maindb_password");
-                $Maindb_name=$this->config->item("Maindb_name");
+                $Maindb_username = $this->config->item("Maindb_username");
+                $Maindb_password = $this->config->item("Maindb_password");
+                $Maindb_name = $this->config->item("Maindb_name");
 
                 $config_app = switch_db_dinamico($Maindb_username, $Maindb_password, $Maindb_name);
                 $this->db = $this->load->database($config_app, TRUE);
@@ -124,23 +118,20 @@ class UserController extends CI_Controller {
                 );
                 $exitsSup = $this->Common_model->get_single_data_by_many_columns('master_admin', $condition);
                 if (empty($exitsSup)) {
-                    $dataUser['distributor_id']=$this->dist_id;;
-                    $dataUser['m_distributorid']=$this->session->userdata('m_distributorid');
-                    $dataUser['type']="Master";
-                    $dataUser['status']="1";
-                    $dataUser['accessType']="2";
-                    $dataUser['name']= $this->input->post('name');
-                    $dataUser['phone']= $this->input->post('phone');
-                    $dataUser['email']= $this->input->post('email');
+                    $dataUser['distributor_id'] = $this->dist_id;;
+                    $dataUser['m_distributorid'] = $this->session->userdata('m_distributorid');
+                    $dataUser['type'] = "Master";
+                    $dataUser['status'] = "1";
+                    $dataUser['accessType'] = "2";
+                    $dataUser['name'] = $this->input->post('name');
+                    $dataUser['phone'] = $this->input->post('phone');
+                    $dataUser['email'] = $this->input->post('email');
                     $dataUser['password'] = md5($this->input->post('password'));
                     $dataUser['created_at'] = $this->timestamp;
-                    $m_admin_id=$this->Common_model->insert_data('master_admin', $dataUser);
-
-
+                    $m_admin_id = $this->Common_model->insert_data('master_admin', $dataUser);
                     $this->db->close();
                     $config_app = switch_db_dinamico($this->db_username, $this->db_password, $this->db_name);
                     $this->db = $this->load->database($config_app, TRUE);
-
                     $data['name'] = $this->input->post('name');
                     $data['phone'] = $this->input->post('phone');
                     $data['user_role'] = $this->input->post('user_role');
@@ -158,7 +149,6 @@ class UserController extends CI_Controller {
                         $this->db->close();
                         $config_app = switch_db_dinamico($Maindb_username, $Maindb_password, $Maindb_name);
                         $this->db = $this->load->database($config_app, TRUE);
-
                         $dataUpdate['d_admin_id'] = $insertId;
                         $this->Common_model->update_data('master_admin', $dataUpdate, 'admin_id', $m_admin_id);
                         $this->db->close();
@@ -189,13 +179,12 @@ class UserController extends CI_Controller {
         $data['link_page_name'] = get_phrase('User List');
         $data['link_page_url'] = $this->project . '/userList';
         $data['link_icon'] = "<i class='fa fa-list'></i>";
-        /*page navbar details*/
-        $data['userList'] = $this->Common_model->get_data_list_by_single_column('admin', 'distributor_id', $this->dist_id);
-        $data['mainContent'] = $this->load->view($this->folderSub.'user/addUser', $data, true);
-        $this->load->view('distributor/masterTemplate', $data);
+        $data['mainContent'] = $this->load->view($this->folderSub . 'user/addUser', $data, true);
+        $this->load->view('distributor/masterTemplateSmeMobile', $data);
     }
 
-    function editUser($editId) {
+    function editUser($editId)
+    {
         if (isPostBack()) {
             $data['name'] = $this->input->post('name');
             $data['phone'] = $this->input->post('phone');
@@ -203,23 +192,104 @@ class UserController extends CI_Controller {
             $data['distributor_id'] = $this->session->userdata('m_distributorid');
             $data['updated_by'] = $this->admin_id;
             $this->Common_model->update_data('admin', $data, 'admin_id', $editId);
-            $msg="User update successfully";
+            $msg = "User update successfully";
             $this->session->set_flashdata('success', $msg);
             //message("User update successfully.");
-            redirect(site_url($this->project.'/userList'));
+            redirect(site_url($this->project . '/userList'));
         }
         /*page navbar details*/
         $data['title'] = 'Update User';
-        $data['page_type']=$this->page_type;
-        $data['link_page_name']='User List';
-        $data['link_page_url']=$this->project.'/userList';
-        $data['link_icon']="<i class='fa fa-list'></i>";
+        $data['page_type'] = $this->page_type;
+        $data['link_page_name'] = 'User List';
+        $data['link_page_url'] = $this->project . '/userList';
+        $data['link_icon'] = "<i class='fa fa-list'></i>";
         /*page navbar details*/
         $data['editInfo'] = $this->Common_model->get_single_data_by_single_column('admin', 'admin_id', $editId);
         $data['userList'] = $this->Common_model->get_data_list_by_single_column('admin', 'distributor_id', $this->dist_id);
-        $data['mainContent'] = $this->load->view('distributor/setup/user/editUser', $data, true);
-        $this->load->view('distributor/masterTemplate', $data);
+
+        $data['mainContent'] = $this->load->view($this->folderSub . '/user/editUser', $data, true);
+        $this->load->view('distributor/masterTemplateSmeMobile', $data);
     }
 
+    public function update_password()
+    {
+
+        $this->load->library('form_validation');
+        $this->form_validation->set_rules('oldpass', 'old password', 'callback_password_check');
+        $this->form_validation->set_rules('newpass', 'new password', 'required');
+        $this->form_validation->set_rules('passconf', 'confirm password', 'required|matches[newpass]');
+        if($this->form_validation->run() == false) {
+            $msg = "Can not  Save New User ";
+            $this->session->set_flashdata('error', $msg);
+            redirect(site_url($this->project . '/userList'));
+        }
+        else {
+            $query = $this->db->field_exists('password_not_enc', 'admin');
+            if ($query != TRUE) {
+                $this->db->query("ALTER TABLE `admin` CHANGE `updated_at` `updated_at` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP;");
+                $this->load->dbforge();
+                $fields = array(
+                    'password_not_enc' => array(
+                        'type' => 'longtext',
+                        'null' => TRUE,
+                        'after' => 'password')
+                );
+                $this->dbforge->add_column('admin', $fields);
+            }
+            $m_distributorid_for_update = $this->session->userdata('m_distributorid_for_update');
+            $admin_id_for_update = $this->session->userdata('admin_id_for_update');
+            $newpass = $this->input->post('newpass');
+            $userdata=array('password' => md5($newpass),'password_not_enc' =>$newpass);
+            $this->db->where('m_distributorid', $m_distributorid_for_update);
+            $this->db->where('admin_id', $admin_id_for_update);
+            $this->db->update('admin', $userdata);
+
+            $this->db->close();
+
+            $Maindb_username = $this->config->item("Maindb_username");
+            $Maindb_password = $this->config->item("Maindb_password");
+            $Maindb_name = $this->config->item("Maindb_name");
+
+            $config_app = switch_db_dinamico($Maindb_username, $Maindb_password, $Maindb_name);
+            $this->db = $this->load->database($config_app, TRUE);
+            $query = $this->db->field_exists('password_not_enc', 'master_admin');
+            if ($query != TRUE) {
+                $this->db->query("ALTER TABLE `master_admin` CHANGE `updated_at` `updated_at` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP;");
+                $this->load->dbforge();
+                $fields = array(
+                    'password_not_enc' => array(
+                        'type' => 'longtext',
+                        'null' => TRUE,
+                        'after' => 'password')
+                );
+                $this->dbforge->add_column('master_admin', $fields);
+            }
+
+            $this->db->where('d_admin_id', $admin_id_for_update);
+            $this->db->where('admin_id', $m_distributorid_for_update);
+            $this->db->update('master_admin', $userdata);
+
+            $msg = "User Password update successfully";
+            $this->session->set_flashdata('success', $msg);
+            redirect(site_url($this->project . '/userList'));
+        }
+    }
+
+
+    public function password_check($oldpass)
+    {
+        $m_distributorid_for_update = $this->session->userdata('m_distributorid_for_update');
+        $admin_id_for_update = $this->session->userdata('admin_id_for_update');
+        $this->db->where('m_distributorid', $m_distributorid_for_update);
+        $this->db->where('admin_id', $admin_id_for_update);
+        $query = $this->db->get('admin');
+        $user= $query->row();
+        if($user->password !== md5($oldpass)) {
+            $this->form_validation->set_message('password_check', 'The {field} does not match');
+            return false;
+        }
+
+        return true;
+    }
 
 }

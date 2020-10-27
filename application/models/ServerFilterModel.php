@@ -71,17 +71,13 @@ class ServerFilterModel extends CI_Model
 
     private function _get_productCat_datatables_query()
     {
-        
-        $this->db->select("productcategory.*,admin.name");
-        $this->db->from("productcategory");
-        $this->db->join('admin', 'admin.admin_id=productcategory.updated_by');
+        $this->db->from($this->table);
         $this->db->group_start();
         $this->db->where('dist_id', $this->dist_id);
         $this->db->or_where('dist_id', 1);
         $this->db->group_end();
         $this->db->where('is_active', 'Y');
         $this->db->where('is_delete', 'N');
-
         $i = 0;
 
         foreach ($this->column_search as $item) { // loop column
@@ -155,7 +151,7 @@ class ServerFilterModel extends CI_Model
       
         supplier.supID,
         supplier.supName,
-        supplier.sup_id,admin.name,
+        supplier.sup_id,
         GROUP_CONCAT(stock.property_1 SEPARATOR ', ') as property_1,
         GROUP_CONCAT(stock.property_2 SEPARATOR ', ') as property_2,
         GROUP_CONCAT(stock.property_3 SEPARATOR ', ') as property_3,
@@ -169,7 +165,7 @@ class ServerFilterModel extends CI_Model
         $this->db->join('stock', 'stock.invoice_id=return_info.id');
         $this->db->join('product', 'product.product_id=stock.product_id');
         $this->db->join('productcategory', 'product.category_id=productcategory.category_id');
-        $this->db->join('admin', 'admin.admin_id=return_info.insert_by');
+
         // $this->db->where('sales_invoice_info.dist_id', $this->dist_id);
         $this->db->where('return_info.is_active', 'Y');
 
@@ -225,10 +221,7 @@ class ServerFilterModel extends CI_Model
 
     private function _get_productBrand_datatables_query()
     {
-
-        $this->db->select("brand.*,admin.name");
-        $this->db->from("brand");
-        $this->db->join('admin', 'admin.admin_id=brand.updated_by');
+        $this->db->from($this->table);
         $this->db->group_start();
         $this->db->where('dist_id', $this->dist_id);
         $this->db->or_where('dist_id', 1);
@@ -262,11 +255,10 @@ class ServerFilterModel extends CI_Model
 
     private function _get_product_datatables_query()
     {
-        $this->db->select("productcategory.title,brand.brandName,product.product_code,product.productName,product.purchases_price,product.salesPrice,product.retailPrice,product.status,product.dist_id,product.product_id,unit.unitTtile,admin.name");
+        $this->db->select("productcategory.title,brand.brandName,product.product_code,product.productName,product.purchases_price,product.salesPrice,product.retailPrice,product.status,product.dist_id,product.product_id,unit.unitTtile");
         $this->db->from($this->table);
         $this->db->join('brand', 'brand.brandId = product.brand_id', 'left');
         $this->db->join('productcategory', 'productcategory.category_id = product.category_id', 'left');
-        $this->db->join('admin', 'admin.admin_id=product.updated_by');
         $this->db->join('unit', 'unit.unit_id = product.unit_id', 'left');
         $this->db->group_start();
         $this->db->where('product.dist_id', $this->dist_id);
@@ -342,7 +334,7 @@ class ServerFilterModel extends CI_Model
         sales_invoice_info.paid_amount,
         customer.customerID,
         customer.customerName,
-        customer.customer_id,admin.name,
+        customer.customer_id,
         GROUP_CONCAT(sales_details.property_1 SEPARATOR ', ') as property_1,
         GROUP_CONCAT(sales_details.property_2 SEPARATOR ', ') as property_2,
         GROUP_CONCAT(sales_details.property_3 SEPARATOR ', ') as property_3,
@@ -353,7 +345,7 @@ class ServerFilterModel extends CI_Model
         $this->db->from("sales_invoice_info");
         $this->db->join('customer', 'customer.customer_id=sales_invoice_info.customer_id');
         $this->db->join('sales_details', 'sales_details.sales_invoice_id=sales_invoice_info.sales_invoice_id');
-        $this->db->join('admin', 'admin.admin_id=sales_invoice_info.insert_by');
+
         // $this->db->where('sales_invoice_info.dist_id', $this->dist_id);
         $this->db->where('sales_invoice_info.is_active', 'Y');
         $this->db->where('sales_invoice_info.invoice_for !=', '3');
@@ -403,7 +395,7 @@ class ServerFilterModel extends CI_Model
        
         customer.customerID,
         customer.customerName,
-        customer.customer_id,admin.name,
+        customer.customer_id,
         GROUP_CONCAT(so_po_productes.property_1 SEPARATOR ', ') as property_1,
         GROUP_CONCAT(so_po_productes.property_2 SEPARATOR ', ') as property_2,
         GROUP_CONCAT(so_po_productes.property_3 SEPARATOR ', ') as property_3,
@@ -414,7 +406,7 @@ class ServerFilterModel extends CI_Model
         $this->db->from("so_po_info");
         $this->db->join('customer', 'customer.customer_id=so_po_info.customer_id');
         $this->db->join('so_po_productes', 'so_po_productes.so_po_id=so_po_info.id');
-        $this->db->join('admin', 'admin.admin_id=so_po_info.insert_by');
+
         // $this->db->where('sales_invoice_info.dist_id', $this->dist_id);
         $this->db->where('so_po_info.is_active', 'Y');
         $this->db->where('so_po_info.form_id =', '7');
@@ -557,7 +549,7 @@ class ServerFilterModel extends CI_Model
        
         supplier.sup_id,
         supplier.supName,
-        supplier.supID,admin.name,
+        supplier.supID,
         GROUP_CONCAT(CONCAT(so_po_info.so_po_no, '&*', so_po_info.id) SEPARATOR '#@%&%@#') as so_po_ides,
         GROUP_CONCAT(sdc_mrn_products.property_1 SEPARATOR ', ') as property_1,
         GROUP_CONCAT(sdc_mrn_products.property_2 SEPARATOR ', ') as property_2,
@@ -570,7 +562,7 @@ class ServerFilterModel extends CI_Model
         $this->db->join('supplier', 'supplier.sup_id=sdc_mrn_info.supplier_id','left');
         $this->db->join('sdc_mrn_products', 'sdc_mrn_products.sdc_mrn_info_id=sdc_mrn_info.id','left');
         $this->db->join('so_po_info', 'so_po_info.id=sdc_mrn_products.so_po_id','left');
-        $this->db->join('admin', 'admin.admin_id=sdc_mrn_info.insert_by');
+
         // $this->db->where('sales_invoice_info.dist_id', $this->dist_id);
         $this->db->where('sdc_mrn_info.is_active', 'Y');
         $this->db->where('sdc_mrn_info.form_id =', '32');
@@ -641,7 +633,7 @@ class ServerFilterModel extends CI_Model
       
         customer.customerID,
         customer.customerName,
-        customer.customer_id,admin.name,
+        customer.customer_id,
         GROUP_CONCAT(stock.property_1 SEPARATOR ', ') as property_1,
         GROUP_CONCAT(stock.property_2 SEPARATOR ', ') as property_2,
         GROUP_CONCAT(stock.property_3 SEPARATOR ', ') as property_3,
@@ -654,7 +646,7 @@ class ServerFilterModel extends CI_Model
         $this->db->join('stock', 'stock.invoice_id=return_info.id');
         $this->db->join('product', 'product.product_id=stock.product_id');
         $this->db->join('productcategory', 'product.category_id=productcategory.category_id');
-        $this->db->join('admin', 'admin.admin_id=return_info.insert_by');
+
         // $this->db->where('sales_invoice_info.dist_id', $this->dist_id);
         $this->db->where('return_info.is_active', 'Y');
 
@@ -713,7 +705,6 @@ class ServerFilterModel extends CI_Model
         customer.customerID,
         customer.customerName,
         customer.customer_id,
-        admin.name,
         GROUP_CONCAT(sales_details.property_1 SEPARATOR ', ') as property_1,
         GROUP_CONCAT(sales_details.property_2 SEPARATOR ', ') as property_2,
         GROUP_CONCAT(sales_details.property_3 SEPARATOR ', ') as property_3,
@@ -724,7 +715,7 @@ class ServerFilterModel extends CI_Model
         $this->db->from("sales_invoice_info");
         $this->db->join('customer', 'customer.customer_id=sales_invoice_info.customer_id');
         $this->db->join('sales_details', 'sales_details.sales_invoice_id=sales_invoice_info.sales_invoice_id');
-        $this->db->join('admin', 'admin.admin_id=sales_invoice_info.insert_by');
+
         // $this->db->where('sales_invoice_info.dist_id', $this->dist_id);
         $this->db->where('sales_invoice_info.is_active', 'Y');
         $this->db->where('sales_invoice_info.invoice_for ', '3');
@@ -839,7 +830,6 @@ class ServerFilterModel extends CI_Model
         $this->db->select('purchase_invoice_info.purchase_invoice_id,purchase_invoice_info.invoice_no,purchase_invoice_info.invoice_amount,
         purchase_invoice_info.narration,purchase_invoice_info.invoice_date,
         purchase_invoice_info.paid_amount,supplier.supID,supplier.supName,supplier.sup_id,supplier.sup_id,
-        admin.name,
         
          GROUP_CONCAT(purchase_details.property_1 SEPARATOR ", ") as property_1,
         GROUP_CONCAT(purchase_details.property_2 SEPARATOR ", ") as property_2,
@@ -851,7 +841,6 @@ class ServerFilterModel extends CI_Model
         $this->db->from("purchase_invoice_info");
         $this->db->join('supplier', 'supplier.sup_id=purchase_invoice_info.supplier_id');
         $this->db->join('purchase_details', 'purchase_details.purchase_invoice_id=purchase_invoice_info.purchase_invoice_id');
-        $this->db->join('admin', 'admin.admin_id=purchase_invoice_info.insert_by');
         //$this->db->where('purchase_invoice_info.dist_id', $this->dist_id);
         $this->db->where('purchase_invoice_info.for', 2);
         $this->db->where('purchase_invoice_info.is_active', "Y");
@@ -902,7 +891,7 @@ class ServerFilterModel extends CI_Model
 
         $this->db->select('purchase_invoice_info.purchase_invoice_id,purchase_invoice_info.invoice_no,purchase_invoice_info.invoice_amount,
         purchase_invoice_info.narration,purchase_invoice_info.invoice_date,
-        purchase_invoice_info.paid_amount,supplier.supID,supplier.supName,supplier.sup_id,supplier.sup_id,admin.name,
+        purchase_invoice_info.paid_amount,supplier.supID,supplier.supName,supplier.sup_id,supplier.sup_id,
         
          GROUP_CONCAT(purchase_details.property_1 SEPARATOR ", ") as property_1,
         GROUP_CONCAT(purchase_details.property_2 SEPARATOR ", ") as property_2,
@@ -914,7 +903,6 @@ class ServerFilterModel extends CI_Model
         $this->db->from("purchase_invoice_info");
         $this->db->join('supplier', 'supplier.sup_id=purchase_invoice_info.supplier_id');
         $this->db->join('purchase_details', 'purchase_details.purchase_invoice_id=purchase_invoice_info.purchase_invoice_id');
-        $this->db->join('admin', 'admin.admin_id=purchase_invoice_info.insert_by');
         //$this->db->where('purchase_invoice_info.dist_id', $this->dist_id);
         $this->db->where('purchase_invoice_info.for', 3);
         $this->db->where('purchase_invoice_info.is_active', "Y");
@@ -1151,7 +1139,7 @@ class ServerFilterModel extends CI_Model
     private function _get_journal_datatables_query()
     {
 
-        $this->db->select("ac_accounts_vouchermst.for,admin.name,
+        $this->db->select("ac_accounts_vouchermst.for,
         accounts_vouchertype_autoid.Accounts_VoucherType,
         ac_accounts_vouchermst.Accounts_VoucherMst_AutoID,
         ac_accounts_vouchermst.Accounts_Voucher_No,
@@ -1163,7 +1151,6 @@ class ServerFilterModel extends CI_Model
         $this->db->from("ac_accounts_vouchermst");
         $this->db->join('accounts_vouchertype_autoid', 'accounts_vouchertype_autoid.Accounts_VoucherType_AutoID=ac_accounts_vouchermst.AccouVoucherType_AutoID');
         $this->db->join('branch ', 'branch.branch_id=ac_accounts_vouchermst.BranchAutoId', 'left');
-        $this->db->join('admin', 'admin.admin_id=ac_accounts_vouchermst.Created_By');
         //$this->db->join('ac_tb_accounts_voucherdtl', 'ac_tb_accounts_voucherdtl.Accounts_VoucherMst_AutoID=ac_accounts_vouchermst.Accounts_VoucherMst_AutoID');
         // $this->db->where('ac_accounts_vouchermst.BranchAutoId', $this->dist_id);
         $this->db->where('ac_accounts_vouchermst.AccouVoucherType_AutoID', 3);
@@ -1230,10 +1217,9 @@ class ServerFilterModel extends CI_Model
     {
 
         //'moneyreceit.date', 'moneyreceit.receitID', 'moneyreceit.moneyReceitid','moneyreceit.totalPayment','moneyreceit.checkStatus','moneyreceit.paymentType', 'customer.customerID', 'customer.customerName'
-        $this->db->select("supplier.sup_id,moneyreceit.date,moneyreceit.receitID,moneyreceit.moneyReceitid,moneyreceit.totalPayment,moneyreceit.checkStatus,moneyreceit.paymentType,supplier.supID,supplier.supName,admin.name");
+        $this->db->select("supplier.sup_id,moneyreceit.date,moneyreceit.receitID,moneyreceit.moneyReceitid,moneyreceit.totalPayment,moneyreceit.checkStatus,moneyreceit.paymentType,supplier.supID,supplier.supName");
         $this->db->from("moneyreceit");
         $this->db->join('supplier', 'supplier.sup_id=moneyreceit.customerid', 'left');
-        $this->db->join('admin', 'admin.admin_id=supplier.updated_by');
         //$this->db->where('moneyreceit.dist_id', $this->dist_id);
         $this->db->where('moneyreceit.receiveType', 2);
         $i = 0;
@@ -1263,10 +1249,9 @@ class ServerFilterModel extends CI_Model
     {
 
         //'moneyreceit.date', 'moneyreceit.receitID', 'moneyreceit.moneyReceitid','moneyreceit.totalPayment','moneyreceit.checkStatus','moneyreceit.paymentType', 'customer.customerID', 'customer.customerName'
-        $this->db->select("customer.*,admin.name");
+        $this->db->select("*");
         $this->db->from("customer");
         $this->db->where('dist_id', $this->dist_id);
-        $this->db->join('admin', 'admin.admin_id=customer.updated_by');
         $i = 0;
         foreach ($this->column_search as $item) { // loop column
             if ($_POST['search']['value']) { // if datatable send POST for search
@@ -1294,10 +1279,9 @@ class ServerFilterModel extends CI_Model
     {
 
         //'moneyreceit.date', 'moneyreceit.receitID', 'moneyreceit.moneyReceitid','moneyreceit.totalPayment','moneyreceit.checkStatus','moneyreceit.paymentType', 'customer.customerID', 'customer.customerName'
-        $this->db->select("supplier.*,admin.name");
+        $this->db->select("*");
         $this->db->from("supplier");
         $this->db->where('dist_id', $this->dist_id);
-        $this->db->join('admin', 'admin.admin_id=supplier.updated_by');
         $i = 0;
         foreach ($this->column_search as $item) { // loop column
             if ($_POST['search']['value']) { // if datatable send POST for search
@@ -1958,7 +1942,7 @@ class ServerFilterModel extends CI_Model
        
         customer.customer_id as sup_id,
         customer.customerName as supName,
-        customer.customerID as supID,admin.name,
+        customer.customerID as supID,
         GROUP_CONCAT(CONCAT(so_po_info.so_po_no, '&*', so_po_info.id) SEPARATOR '#@%&%@#') as so_po_ides,
         GROUP_CONCAT(sdc_mrn_products.property_1 SEPARATOR ', ') as property_1,
         GROUP_CONCAT(sdc_mrn_products.property_2 SEPARATOR ', ') as property_2,
@@ -1971,7 +1955,7 @@ class ServerFilterModel extends CI_Model
         $this->db->join('customer', 'customer.customer_id=sdc_mrn_info.customer_id','left');
         $this->db->join('sdc_mrn_products', 'sdc_mrn_products.sdc_mrn_info_id=sdc_mrn_info.id','left');
         $this->db->join('so_po_info', 'so_po_info.id=sdc_mrn_products.so_po_id','left');
-        $this->db->join('admin', 'admin.admin_id=sdc_mrn_info.insert_by');
+
         // $this->db->where('sales_invoice_info.dist_id', $this->dist_id);
         $this->db->where('sdc_mrn_info.is_active', 'Y');
         $this->db->where('sdc_mrn_info.form_id =', '31');

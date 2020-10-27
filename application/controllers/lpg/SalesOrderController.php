@@ -223,9 +223,8 @@ class SalesOrderController extends CI_Controller
         $data['productCat'] = $this->Common_model->getPublicProductCat($this->dist_id);
         $this->load->helper('site_helper');
         $add  = check_parmission_by_user_role(2110);
-        $menu  = check_parmission_by_user_role(26);
         
-        if($add == 0 || $$menu == 0){
+        if($add == 0){
             $data['mainContent'] = $this->load->view('distributor/not_permisson_page', $data, true);
             $this->load->view('distributor/masterTemplate', $data);
         } else{
@@ -1097,7 +1096,7 @@ class SalesOrderController extends CI_Controller
         $data['vehicleList'] = $this->Common_model->get_data_list_by_many_columns('vehicle', $condition);
         $data['customerList'] = $this->Sales_Model->getCustomerList($this->dist_id);
         $data['referenceList'] = $this->Common_model->get_data_list_by_single_column('reference', 'dist_id', $this->dist_id);
-        
+
         $data['mainContent'] = $this->load->view('distributor/sales_order/sales_invoice_against_sales_order_add', $data, true);
         $this->load->view("distributor/masterTemplateSmeMobile", $data);
     }
