@@ -54,6 +54,7 @@ class InvProductController extends CI_Controller
           //validation rules
             $this->form_validation->set_rules('product_code', 'Product Code', 'required');
             $this->form_validation->set_rules('category_id', 'Product Category', 'required');
+            $this->form_validation->set_rules('brand', 'Product Branch', 'required');
             $this->form_validation->set_rules('productName', 'Product Name', 'required');
             //$this->form_validation->set_rules('product_type_id', 'Product Type', 'required');
             if ($this->form_validation->run() == FALSE) {
@@ -89,7 +90,7 @@ class InvProductController extends CI_Controller
                 $data['updated_by'] = $this->admin_id;
 
 
-                
+                $data['subcategoryID'] = $this->input->post('subcategory');
                 $data['modelID'] = $this->input->post('model');
                 $data['colorID'] = $this->input->post('color');
                 $data['sizeID'] = $this->input->post('size');
@@ -250,7 +251,7 @@ class InvProductController extends CI_Controller
            //validation rules
             $this->form_validation->set_rules('product_code', 'Product Code', 'required');
             $this->form_validation->set_rules('category_id', 'Product Category', 'required');
-            
+            $this->form_validation->set_rules('brand', 'Product Branch', 'required');
             $this->form_validation->set_rules('productName', 'Product Name', 'required');
             //$this->form_validation->set_rules('product_type_id', 'Product Type', 'required');
             if ($this->form_validation->run() == FALSE) {
@@ -272,7 +273,7 @@ class InvProductController extends CI_Controller
                 $data['dist_id'] = $this->dist_id;
                 $data['updated_by'] = $this->admin_id;
 
-               
+                $data['subcategoryID'] = $this->input->post('subcategory');
                 $data['modelID'] = $this->input->post('model');
                 $data['colorID'] = $this->input->post('color');
                 $data['sizeID'] = $this->input->post('size');

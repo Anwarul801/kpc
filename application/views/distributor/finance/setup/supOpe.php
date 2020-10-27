@@ -19,7 +19,6 @@ $headlogin = $this->session->userdata('headOffice');
                                 <th><?php echo get_phrase('Sl')?></th>
                                 <th><?php echo get_phrase('Supplier Name')?></th>
                                 <th align="right"><?php echo get_phrase('Payable')?></th>
-                                <th align="right"><?php echo get_phrase('User name')?></th>
                                 <th><?php echo get_phrase('Action')?></th>
                             </tr>
                         </thead>
@@ -55,20 +54,12 @@ $headlogin = $this->session->userdata('headOffice');
                                         endif;
                                         ?>
                                     </td>
-                                    <td><?php $user_id=  $value->updated_by;
-                                            $this->db->select("admin.name");
-                                            $this->db->where('admin.admin_id', $user_id);
-                                            
-                                            $query = $this->db->get('admin')->row_array();
-                                            echo $query['name'];
-                                ?></td>
                                 </tr>
                             <?php endforeach; ?>
                         </tbody>
                         <tfoot>
                         <td colspan="2" align="right"><strong><?php echo get_phrase('Total Payable')?></strong></td>
                         <td align="right"><?php echo number_format($totalPayable); ?></td>
-                        <td></td>
                         <td></td>
                         </tfoot>
                     </table>

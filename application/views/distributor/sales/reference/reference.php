@@ -27,7 +27,6 @@
                             <th><strong><?php echo get_phrase('Email')?></strong></th>
 
                             <th><strong><?php echo get_phrase('Address')?></strong></th>
-                            <th><strong><?php echo get_phrase('User Name')?></strong></th>
                             <th><strong><?php echo get_phrase('Action')?></strong></th>
 
                         </tr>
@@ -51,13 +50,6 @@
                                 <td><?php echo $value->referencePhone; ?></td>
 
                                 <td><?php echo $value->referenceAddress; ?></td>
-                                <td><?php $user_id=  $value->updated_by;
-                                            $this->db->select("admin.name");
-                                            $this->db->where('admin.admin_id', $user_id);
-                                            
-                                            $query = $this->db->get('admin')->row_array();
-                                            echo $query['name'];
-                                ?></td>
 
 
 

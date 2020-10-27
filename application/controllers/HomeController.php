@@ -43,10 +43,6 @@ class HomeController extends CI_Controller
 
     public function moduleDashboard()
     {
-        if (empty($admin_id)) {
-            //$this->session->set_userdata('last_page', current_url());
-            //redirect(base_url(), 'refresh');
-        }
 
 
 
