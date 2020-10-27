@@ -692,8 +692,18 @@ class VoucherController extends CI_Controller
         $data['link_page_url'] = $this->project . '/paymentVoucherAdd';
         $data['link_icon'] = "<i class='fa fa-plus'></i>";
         /*page navbar details*/
-        $data['mainContent'] = $this->load->view('distributor/account/payment_voucher/paymentVoucher', $data, true);
-        $this->load->view('distributor/masterTemplate', $data);
+        $this->load->helper('site_helper');
+        $menu  = check_parmission_by_user_role(23);
+
+        if($menu == 0){
+            $data['mainContent'] = $this->load->view('distributor/not_permisson_page', $data, true);
+            $this->load->view('distributor/masterTemplate', $data);
+        } else{
+            $data['mainContent'] = $this->load->view('distributor/account/payment_voucher/paymentVoucher', $data, true);
+            $this->load->view('distributor/masterTemplate', $data);
+        }
+
+       
     }
 
     function paymentVoucherView($voucherID)
