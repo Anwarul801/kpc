@@ -476,6 +476,12 @@ $route['(:any)/InventoryAdjustmentEdit/(:any)'] = 'lpg/InventoryAdjustmentContro
 $route['(:any)/cylinderTypeReport'] = 'lpg/InventoryController/cylinderTypeReport';
 $route['(:any)/cylinderTypeReport/(:any)'] = 'lpg/InventoryController/cylinderTypeReport2/$2';
 
+$route['(:any)/manufacturingAdd'] = 'lpg/ManufacturingController/manufacturingAdd';
+$route['(:any)/manufacturingList'] = 'lpg/ManufacturingController/manufacturingList';
+$route['(:any)/manufacturingShow/(:any)'] = 'lpg/ManufacturingController/manufacturingShow/$2';
+$route['(:any)/manufacturingDelete/(:any)'] = 'lpg/ManufacturingController/manufacturingDelete/$2';
+$route['(:any)/manufacturingEdit/(:any)'] = 'lpg/ManufacturingController/manufacturingEdit/$2';
+
 
 $route['(:any)/route_info'] = 'lpg/CustomerRoute/route_info';
 $route['(:any)/route_info_edit/(:any)'] = 'lpg/CustomerRoute/route_info_edit/$2';

@@ -2343,3 +2343,12827 @@ INFO - 2020-10-27 11:01:42 --> Helper loaded: language_helper
 INFO - 2020-10-27 11:01:42 --> Language file loaded: language/english/content_lang.php
 INFO - 2020-10-27 11:01:42 --> Final output sent to browser
 DEBUG - 2020-10-27 11:01:42 --> Total execution time: 0.6998
+INFO - 2020-10-27 11:08:22 --> Config Class Initialized
+INFO - 2020-10-27 11:08:22 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:08:22 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:08:22 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:08:22 --> URI Class Initialized
+INFO - 2020-10-27 11:08:22 --> Router Class Initialized
+INFO - 2020-10-27 11:08:22 --> Output Class Initialized
+INFO - 2020-10-27 11:08:22 --> Security Class Initialized
+DEBUG - 2020-10-27 11:08:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:08:22 --> Input Class Initialized
+INFO - 2020-10-27 11:08:22 --> Language Class Initialized
+INFO - 2020-10-27 11:08:22 --> Loader Class Initialized
+INFO - 2020-10-27 11:08:22 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:08:23 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:08:23 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:08:23 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:08:23 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:08:23 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:08:23 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:08:23 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:08:23 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:08:23 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:08:23 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:08:23 --> Email Class Initialized
+DEBUG - 2020-10-27 11:08:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:08:23 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:08:23 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:08:23 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:08:23 --> Controller Class Initialized
+INFO - 2020-10-27 11:08:23 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:08:23 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:08:23 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:08:23 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:08:23 --> Model "Dashboard_Model" initialized
+INFO - 2020-10-27 11:08:23 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:08:23 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:08:23 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Si"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "User_name"
+INFO - 2020-10-27 11:08:23 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/account/receiv_voucher/receiveVoucher.php
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:08:23 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 11:08:24 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 11:08:24 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 11:08:24 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 11:08:24 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:08:24 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 11:08:24 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 11:08:24 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 11:08:24 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 11:08:24 --> Could not find the language line "2019"
+ERROR - 2020-10-27 11:08:24 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:08:24 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 11:08:24 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 11:08:24 --> Final output sent to browser
+DEBUG - 2020-10-27 11:08:24 --> Total execution time: 1.5693
+INFO - 2020-10-27 11:08:26 --> Config Class Initialized
+INFO - 2020-10-27 11:08:26 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:08:26 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:08:26 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:08:26 --> URI Class Initialized
+INFO - 2020-10-27 11:08:26 --> Router Class Initialized
+INFO - 2020-10-27 11:08:26 --> Output Class Initialized
+INFO - 2020-10-27 11:08:26 --> Security Class Initialized
+DEBUG - 2020-10-27 11:08:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:08:26 --> Input Class Initialized
+INFO - 2020-10-27 11:08:26 --> Language Class Initialized
+INFO - 2020-10-27 11:08:26 --> Loader Class Initialized
+INFO - 2020-10-27 11:08:26 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:08:26 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:08:26 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:08:26 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:08:26 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:08:26 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:08:26 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:08:26 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:08:26 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:08:26 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:08:26 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:08:26 --> Email Class Initialized
+DEBUG - 2020-10-27 11:08:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:08:26 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:08:27 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:08:27 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:08:27 --> Controller Class Initialized
+INFO - 2020-10-27 11:08:27 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:08:27 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:08:27 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:08:27 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:08:27 --> Model "ServerFilterModel" initialized
+INFO - 2020-10-27 11:08:27 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:08:27 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:08:27 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 11:08:27 --> Final output sent to browser
+DEBUG - 2020-10-27 11:08:27 --> Total execution time: 0.7173
+INFO - 2020-10-27 11:10:43 --> Config Class Initialized
+INFO - 2020-10-27 11:10:43 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:10:43 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:10:43 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:10:43 --> URI Class Initialized
+INFO - 2020-10-27 11:10:43 --> Router Class Initialized
+INFO - 2020-10-27 11:10:43 --> Output Class Initialized
+INFO - 2020-10-27 11:10:43 --> Security Class Initialized
+DEBUG - 2020-10-27 11:10:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:10:43 --> Input Class Initialized
+INFO - 2020-10-27 11:10:43 --> Language Class Initialized
+INFO - 2020-10-27 11:10:44 --> Loader Class Initialized
+INFO - 2020-10-27 11:10:44 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:10:44 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:10:44 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:10:44 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:10:44 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:10:44 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:10:44 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:10:44 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:10:44 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:10:44 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:10:44 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:10:44 --> Email Class Initialized
+DEBUG - 2020-10-27 11:10:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:10:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:10:44 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:10:44 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:10:44 --> Controller Class Initialized
+INFO - 2020-10-27 11:10:44 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:10:44 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:10:44 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:10:44 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:10:44 --> Model "Dashboard_Model" initialized
+INFO - 2020-10-27 11:10:44 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:10:44 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:10:44 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 11:10:44 --> Could not find the language line "Si"
+ERROR - 2020-10-27 11:10:44 --> Could not find the language line "JV_No"
+ERROR - 2020-10-27 11:10:44 --> Could not find the language line "User_name"
+INFO - 2020-10-27 11:10:44 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/account/journal/journalVoucher.php
+ERROR - 2020-10-27 11:10:44 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 11:10:44 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 11:10:44 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 11:10:44 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 11:10:44 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 11:10:44 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:10:44 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 11:10:44 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 11:10:44 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 11:10:44 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:10:44 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 11:10:44 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 11:10:44 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 11:10:44 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 11:10:44 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 11:10:44 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "2019"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:10:45 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 11:10:45 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 11:10:45 --> Final output sent to browser
+DEBUG - 2020-10-27 11:10:45 --> Total execution time: 1.7043
+INFO - 2020-10-27 11:10:46 --> Config Class Initialized
+INFO - 2020-10-27 11:10:46 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:10:46 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:10:46 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:10:46 --> URI Class Initialized
+INFO - 2020-10-27 11:10:46 --> Router Class Initialized
+INFO - 2020-10-27 11:10:46 --> Output Class Initialized
+INFO - 2020-10-27 11:10:46 --> Security Class Initialized
+DEBUG - 2020-10-27 11:10:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:10:46 --> Input Class Initialized
+INFO - 2020-10-27 11:10:46 --> Language Class Initialized
+INFO - 2020-10-27 11:10:46 --> Loader Class Initialized
+INFO - 2020-10-27 11:10:46 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:10:46 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:10:46 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:10:46 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:10:46 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:10:46 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:10:47 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:10:47 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:10:47 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:10:47 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:10:47 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:10:47 --> Email Class Initialized
+DEBUG - 2020-10-27 11:10:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:10:47 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:10:47 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:10:47 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:10:47 --> Controller Class Initialized
+INFO - 2020-10-27 11:10:47 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:10:47 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:10:47 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:10:47 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:10:47 --> Model "ServerFilterModel" initialized
+INFO - 2020-10-27 11:10:47 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:10:47 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:10:47 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 11:10:47 --> Final output sent to browser
+DEBUG - 2020-10-27 11:10:47 --> Total execution time: 0.6880
+INFO - 2020-10-27 11:12:28 --> Config Class Initialized
+INFO - 2020-10-27 11:12:28 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:12:28 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:12:28 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:12:28 --> URI Class Initialized
+INFO - 2020-10-27 11:12:28 --> Router Class Initialized
+INFO - 2020-10-27 11:12:28 --> Output Class Initialized
+INFO - 2020-10-27 11:12:28 --> Security Class Initialized
+DEBUG - 2020-10-27 11:12:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:12:28 --> Input Class Initialized
+INFO - 2020-10-27 11:12:28 --> Language Class Initialized
+INFO - 2020-10-27 11:12:28 --> Loader Class Initialized
+INFO - 2020-10-27 11:12:28 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:12:28 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:12:28 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:12:28 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:12:28 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:12:28 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:12:28 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:12:28 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:12:28 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:12:28 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:12:28 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:12:28 --> Email Class Initialized
+DEBUG - 2020-10-27 11:12:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:12:28 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:12:28 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:12:28 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:12:28 --> Controller Class Initialized
+INFO - 2020-10-27 11:12:28 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:12:28 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:12:28 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:12:28 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:12:28 --> Model "Dashboard_Model" initialized
+INFO - 2020-10-27 11:12:28 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:12:28 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:12:28 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 11:12:28 --> Could not find the language line "Si"
+ERROR - 2020-10-27 11:12:28 --> Could not find the language line "JV_No"
+ERROR - 2020-10-27 11:12:28 --> Could not find the language line "User_name"
+INFO - 2020-10-27 11:12:28 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/account/journal/journalVoucher.php
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "2019"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:12:29 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 11:12:29 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 11:12:29 --> Final output sent to browser
+DEBUG - 2020-10-27 11:12:29 --> Total execution time: 1.4554
+INFO - 2020-10-27 11:12:30 --> Config Class Initialized
+INFO - 2020-10-27 11:12:30 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:12:30 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:12:30 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:12:30 --> URI Class Initialized
+INFO - 2020-10-27 11:12:30 --> Router Class Initialized
+INFO - 2020-10-27 11:12:30 --> Output Class Initialized
+INFO - 2020-10-27 11:12:30 --> Security Class Initialized
+DEBUG - 2020-10-27 11:12:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:12:30 --> Input Class Initialized
+INFO - 2020-10-27 11:12:30 --> Language Class Initialized
+INFO - 2020-10-27 11:12:30 --> Loader Class Initialized
+INFO - 2020-10-27 11:12:30 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:12:30 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:12:30 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:12:30 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:12:30 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:12:30 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:12:30 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:12:30 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:12:30 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:12:30 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:12:30 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:12:30 --> Email Class Initialized
+DEBUG - 2020-10-27 11:12:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:12:30 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:12:30 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:12:30 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:12:30 --> Controller Class Initialized
+INFO - 2020-10-27 11:12:30 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:12:30 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:12:30 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:12:30 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:12:31 --> Model "ServerFilterModel" initialized
+INFO - 2020-10-27 11:12:31 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:12:31 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:12:31 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 11:12:31 --> Final output sent to browser
+DEBUG - 2020-10-27 11:12:31 --> Total execution time: 0.6753
+INFO - 2020-10-27 11:12:41 --> Config Class Initialized
+INFO - 2020-10-27 11:12:42 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:12:42 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:12:42 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:12:42 --> URI Class Initialized
+INFO - 2020-10-27 11:12:42 --> Router Class Initialized
+INFO - 2020-10-27 11:12:42 --> Output Class Initialized
+INFO - 2020-10-27 11:12:42 --> Security Class Initialized
+DEBUG - 2020-10-27 11:12:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:12:42 --> Input Class Initialized
+INFO - 2020-10-27 11:12:42 --> Language Class Initialized
+INFO - 2020-10-27 11:12:42 --> Loader Class Initialized
+INFO - 2020-10-27 11:12:42 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:12:42 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:12:42 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:12:42 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:12:42 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:12:42 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:12:42 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:12:42 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:12:42 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:12:42 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:12:42 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:12:42 --> Email Class Initialized
+DEBUG - 2020-10-27 11:12:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:12:42 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:12:42 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:12:42 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:12:42 --> Controller Class Initialized
+INFO - 2020-10-27 11:12:42 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:12:42 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:12:42 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:12:42 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:12:42 --> Model "Dashboard_Model" initialized
+INFO - 2020-10-27 11:12:42 --> Model "Accounts_model" initialized
+INFO - 2020-10-27 11:12:42 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:12:42 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:12:42 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 11:12:42 --> Config Class Initialized
+INFO - 2020-10-27 11:12:42 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:12:42 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:12:42 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:12:42 --> URI Class Initialized
+INFO - 2020-10-27 11:12:42 --> Router Class Initialized
+INFO - 2020-10-27 11:12:42 --> Output Class Initialized
+INFO - 2020-10-27 11:12:43 --> Security Class Initialized
+DEBUG - 2020-10-27 11:12:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:12:43 --> Input Class Initialized
+INFO - 2020-10-27 11:12:43 --> Language Class Initialized
+INFO - 2020-10-27 11:12:43 --> Loader Class Initialized
+INFO - 2020-10-27 11:12:43 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:12:43 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:12:43 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:12:43 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:12:43 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:12:43 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:12:43 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:12:43 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:12:43 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:12:43 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:12:43 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:12:43 --> Email Class Initialized
+DEBUG - 2020-10-27 11:12:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:12:43 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:12:43 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:12:43 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:12:43 --> Controller Class Initialized
+INFO - 2020-10-27 11:12:43 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:12:43 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:12:43 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:12:43 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:12:43 --> Model "Dashboard_Model" initialized
+INFO - 2020-10-27 11:12:43 --> Model "Accounts_model" initialized
+INFO - 2020-10-27 11:12:43 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:12:43 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:12:43 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 11:12:43 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/userAccessMobileWithUserRole.php
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 11:12:43 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 11:12:44 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 11:12:44 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 11:12:44 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:12:44 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 11:12:44 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 11:12:44 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 11:12:44 --> Could not find the language line "2019"
+ERROR - 2020-10-27 11:12:44 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:12:44 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 11:12:44 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplateSmeMobile.php
+INFO - 2020-10-27 11:12:44 --> Final output sent to browser
+DEBUG - 2020-10-27 11:12:44 --> Total execution time: 1.2156
+INFO - 2020-10-27 11:12:45 --> Config Class Initialized
+INFO - 2020-10-27 11:12:45 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:12:45 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:12:46 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:12:46 --> URI Class Initialized
+INFO - 2020-10-27 11:12:46 --> Router Class Initialized
+INFO - 2020-10-27 11:12:46 --> Output Class Initialized
+INFO - 2020-10-27 11:12:46 --> Security Class Initialized
+DEBUG - 2020-10-27 11:12:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:12:46 --> Input Class Initialized
+INFO - 2020-10-27 11:12:46 --> Language Class Initialized
+ERROR - 2020-10-27 11:12:46 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 11:12:52 --> Config Class Initialized
+INFO - 2020-10-27 11:12:52 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:12:52 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:12:52 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:12:52 --> URI Class Initialized
+INFO - 2020-10-27 11:12:52 --> Router Class Initialized
+INFO - 2020-10-27 11:12:52 --> Output Class Initialized
+INFO - 2020-10-27 11:12:52 --> Security Class Initialized
+DEBUG - 2020-10-27 11:12:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:12:52 --> Input Class Initialized
+INFO - 2020-10-27 11:12:52 --> Language Class Initialized
+INFO - 2020-10-27 11:12:52 --> Loader Class Initialized
+INFO - 2020-10-27 11:12:52 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:12:52 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:12:52 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:12:52 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:12:52 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:12:52 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:12:52 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:12:52 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:12:52 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:12:52 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:12:52 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:12:52 --> Email Class Initialized
+DEBUG - 2020-10-27 11:12:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:12:52 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:12:52 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:12:52 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:12:52 --> Controller Class Initialized
+INFO - 2020-10-27 11:12:52 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:12:52 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:12:52 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:12:52 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:12:52 --> Model "Dashboard_Model" initialized
+INFO - 2020-10-27 11:12:52 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:12:52 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:12:52 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 11:12:52 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/not_permisson_page.php
+ERROR - 2020-10-27 11:12:52 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 11:12:52 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 11:12:52 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 11:12:52 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 11:12:52 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 11:12:52 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:12:52 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 11:12:52 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 11:12:52 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 11:12:52 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:12:52 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 11:12:52 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 11:12:52 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 11:12:52 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 11:12:52 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 11:12:52 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 11:12:52 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 11:12:52 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 11:12:52 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 11:12:52 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 11:12:52 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 11:12:52 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 11:12:52 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "2019"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:12:53 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 11:12:53 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 11:12:53 --> Final output sent to browser
+DEBUG - 2020-10-27 11:12:53 --> Total execution time: 1.2952
+INFO - 2020-10-27 11:13:09 --> Config Class Initialized
+INFO - 2020-10-27 11:13:09 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:13:09 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:13:09 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:13:09 --> URI Class Initialized
+INFO - 2020-10-27 11:13:09 --> Router Class Initialized
+INFO - 2020-10-27 11:13:09 --> Output Class Initialized
+INFO - 2020-10-27 11:13:09 --> Security Class Initialized
+DEBUG - 2020-10-27 11:13:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:13:09 --> Input Class Initialized
+INFO - 2020-10-27 11:13:09 --> Language Class Initialized
+INFO - 2020-10-27 11:13:09 --> Loader Class Initialized
+INFO - 2020-10-27 11:13:09 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:13:09 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:13:09 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:13:09 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:13:09 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:13:09 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:13:09 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:13:09 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:13:09 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:13:09 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:13:09 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:13:09 --> Email Class Initialized
+DEBUG - 2020-10-27 11:13:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:13:09 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:13:09 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:13:09 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:13:09 --> Controller Class Initialized
+INFO - 2020-10-27 11:13:09 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:13:09 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:13:09 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:13:09 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:13:09 --> Model "Dashboard_Model" initialized
+INFO - 2020-10-27 11:13:09 --> Model "Accounts_model" initialized
+INFO - 2020-10-27 11:13:09 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:13:09 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:13:09 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 11:13:09 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/ajax/menuListShowByUserRole.php
+INFO - 2020-10-27 11:13:09 --> Final output sent to browser
+DEBUG - 2020-10-27 11:13:09 --> Total execution time: 0.5598
+INFO - 2020-10-27 11:13:19 --> Config Class Initialized
+INFO - 2020-10-27 11:13:19 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:13:19 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:13:19 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:13:19 --> URI Class Initialized
+INFO - 2020-10-27 11:13:19 --> Router Class Initialized
+INFO - 2020-10-27 11:13:19 --> Output Class Initialized
+INFO - 2020-10-27 11:13:20 --> Security Class Initialized
+DEBUG - 2020-10-27 11:13:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:13:20 --> Input Class Initialized
+INFO - 2020-10-27 11:13:20 --> Language Class Initialized
+INFO - 2020-10-27 11:13:20 --> Loader Class Initialized
+INFO - 2020-10-27 11:13:20 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:13:20 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:13:20 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:13:20 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:13:20 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:13:20 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:13:20 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:13:20 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:13:20 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:13:20 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:13:20 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:13:20 --> Email Class Initialized
+DEBUG - 2020-10-27 11:13:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:13:20 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:13:20 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:13:20 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:13:20 --> Controller Class Initialized
+INFO - 2020-10-27 11:13:20 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:13:20 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:13:20 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:13:20 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:13:20 --> Model "Dashboard_Model" initialized
+INFO - 2020-10-27 11:13:20 --> Model "Accounts_model" initialized
+INFO - 2020-10-27 11:13:20 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:13:20 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:13:20 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 11:13:20 --> Config Class Initialized
+INFO - 2020-10-27 11:13:20 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:13:20 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:13:20 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:13:20 --> URI Class Initialized
+INFO - 2020-10-27 11:13:20 --> Router Class Initialized
+INFO - 2020-10-27 11:13:20 --> Output Class Initialized
+INFO - 2020-10-27 11:13:20 --> Security Class Initialized
+DEBUG - 2020-10-27 11:13:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:13:20 --> Input Class Initialized
+INFO - 2020-10-27 11:13:20 --> Language Class Initialized
+INFO - 2020-10-27 11:13:20 --> Loader Class Initialized
+INFO - 2020-10-27 11:13:20 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:13:20 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:13:20 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:13:21 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:13:21 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:13:21 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:13:21 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:13:21 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:13:21 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:13:21 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:13:21 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:13:21 --> Email Class Initialized
+DEBUG - 2020-10-27 11:13:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:13:21 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:13:21 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:13:21 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:13:21 --> Controller Class Initialized
+INFO - 2020-10-27 11:13:21 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:13:21 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:13:21 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:13:21 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:13:21 --> Model "Dashboard_Model" initialized
+INFO - 2020-10-27 11:13:21 --> Model "Accounts_model" initialized
+INFO - 2020-10-27 11:13:21 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:13:21 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:13:21 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 11:13:21 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/userAccessMobileWithUserRole.php
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "2019"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:13:21 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 11:13:22 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplateSmeMobile.php
+INFO - 2020-10-27 11:13:22 --> Final output sent to browser
+DEBUG - 2020-10-27 11:13:22 --> Total execution time: 1.2419
+INFO - 2020-10-27 11:13:23 --> Config Class Initialized
+INFO - 2020-10-27 11:13:23 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:13:23 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:13:23 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:13:23 --> URI Class Initialized
+INFO - 2020-10-27 11:13:23 --> Router Class Initialized
+INFO - 2020-10-27 11:13:23 --> Output Class Initialized
+INFO - 2020-10-27 11:13:23 --> Security Class Initialized
+DEBUG - 2020-10-27 11:13:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:13:23 --> Input Class Initialized
+INFO - 2020-10-27 11:13:23 --> Language Class Initialized
+ERROR - 2020-10-27 11:13:23 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 11:14:53 --> Config Class Initialized
+INFO - 2020-10-27 11:14:53 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:14:53 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:14:53 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:14:53 --> URI Class Initialized
+INFO - 2020-10-27 11:14:53 --> Router Class Initialized
+INFO - 2020-10-27 11:14:53 --> Output Class Initialized
+INFO - 2020-10-27 11:14:53 --> Security Class Initialized
+DEBUG - 2020-10-27 11:14:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:14:53 --> Input Class Initialized
+INFO - 2020-10-27 11:14:53 --> Language Class Initialized
+INFO - 2020-10-27 11:14:53 --> Loader Class Initialized
+INFO - 2020-10-27 11:14:53 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:14:53 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:14:53 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:14:53 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:14:53 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:14:53 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:14:53 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:14:53 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:14:53 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:14:53 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:14:53 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:14:53 --> Email Class Initialized
+DEBUG - 2020-10-27 11:14:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:14:53 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:14:54 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:14:54 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:14:54 --> Controller Class Initialized
+INFO - 2020-10-27 11:14:54 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:14:54 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:14:54 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:14:54 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:14:54 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:14:54 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:14:54 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Inventory_Adjustment_Add"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Inventory_Adjustment_List"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Inventory_Adjustment_List"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Price"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Sales_Revenue"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Sales_Empty_Cylinder_With_Refill"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Loader's_Payable"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Loader's_Payable_Sales"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Loading_&_Wages"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Common_Loading_&_Wages"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Common_Transportation"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Cost_of_Goods_Product"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Cost_of_Goods_Product-"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Cost_of_Empty_Cylinder_With_Refill"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Difference_In_Opening_Balance_-"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Difference_In_Opening_Balance"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Empty_Cylinder_Profit_/_Loss-"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Empty_Cylinder_Profit_/_Loss"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Discount_On_Sales"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Inventory_&_Finished_Goods_Stock"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Finished_Product_Finished_Product_[_Mobil_UAE_]_3_Mobil_UAE"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Mobile_5_pro_2020_Pcs_One_Plus"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Motor_Cycle_Hero_Honda_#CDX_98CC__MxSeries_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Mobile_&_Gear_Oil_55T_&_45T_Mobil_GreezWall_55T/500Tk_Pcs_GreezWall"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Motor_Cycle_Spare_Parts_HERO#GEAR_BOX_4Layer_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Mobile_product_208_Pcs_Nokia"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Mobile_6_t_Pcs_One_Plus"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Mobile_2020_Pcs_One_Plus"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Finished_Product_Finished_Product_-_7_pro_[_Nokia_]_2000_pcs_1_lot_Nokia"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Finished_Product_Finished_Product_-_Dadmage_#_5Pro_-_White_[_Hero_Honda_]_test_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Finished_Product_Finished_Product_[_Mobil_UAE_]_3_Pcs_Mobil_UAE"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "One_Plus_[_]"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Atlas_Motors#_Hero_Honda_[_]"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Warranty_Claim_Hero_Honda_Distribution_Ltd_Sup_[_SID20050003_]"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Supplier_16_[_SID20080004_]"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Supplier_20_[_SID20080005_]"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Item_Received_But_Bill_Pending"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Supplier_24-8_[_SID20080006_]"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Supplier0109_[_SID20090007_]"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Damage_Stock"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Damage_Stock_Damage_Stock_#_Hero_Honda_#CDX_98CC_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Damage_Stock_Damage_Product_#_5Pro_Mobile_40000_Pcs_One_Plus"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Damage_Stock_Damage#Hero_Honda_Gear_Box_4Layer_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Mr._Ripon_#_Hero_Honda_CDX_98CC_[_CID20040001_]"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Mr._Ripon_#_Hero_Honda_CDX_98CC_[_CID20040001_]_Empty_Cylinder_Due"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Imran__Jatrabari_Hero_Honda_CDX_1Pcs_[_CID20040002_]"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Imran__Jatrabari_Hero_Honda_CDX_1Pcs_[_CID20040002_]_Empty_Cylinder_Due"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "À¦®à¦¾à¦®à¦¾_[_CID20040003_]"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Honda_Repair_Corner#Gulshan_[_CID20040004_]"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Local_Customer#Repair_Point_10LacLimit_360CrDays_[_CID20040005_]"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Customer_24_CL_1000_[_CID20040006_]"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Local_Saler_Single_[_CID20040007_]"
+ERROR - 2020-10-27 11:14:54 --> Could not find the language line "Customer_CR_1000000_[_CID20040008_]"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Nahid_CR_10000_[_CID20040009_]"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Warranty_Claim_Hero_Honda_Distribution_Ltd_[_CID20050010_]"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Cr_Limit_check_[_CID20070011_]"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Item_Delivery_But_Bill_Pending"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Rakibul_Alam_[_CID20090012_]"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Customer_Cr_limit_1000_[_CID20090013_]"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Cash_#_Honda_Selling_Branch"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Cash_#_Main_Branch_Cash_Ledger"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Godawn_Rent"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Godown_Rent_#_Main_Branch"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Salary_#_Main_Branch"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Warranty_Claim"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Warranty_Claim_Amount"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Liability_For_Warranty_Claim"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Liability_For_Warranty_Claim_Amount"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Maintenance_Cost"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Main_Branch_#_Maintenance_Cost"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Price"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Sales_Revenue"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Sales_Empty_Cylinder_With_Refill"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Loader's_Payable"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Loader's_Payable_Sales"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Loading_&_Wages"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Common_Loading_&_Wages"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Common_Transportation"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Cost_of_Goods_Product"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Cost_of_Goods_Product-"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Cost_of_Empty_Cylinder_With_Refill"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Difference_In_Opening_Balance_-"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Difference_In_Opening_Balance"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Empty_Cylinder_Profit_/_Loss-"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Empty_Cylinder_Profit_/_Loss"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Discount_On_Sales"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Inventory_&_Finished_Goods_Stock"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Finished_Product_Finished_Product_[_Mobil_UAE_]_3_Mobil_UAE"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Mobile_5_pro_2020_Pcs_One_Plus"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Motor_Cycle_Hero_Honda_#CDX_98CC__MxSeries_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Mobile_&_Gear_Oil_55T_&_45T_Mobil_GreezWall_55T/500Tk_Pcs_GreezWall"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Motor_Cycle_Spare_Parts_HERO#GEAR_BOX_4Layer_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Mobile_product_208_Pcs_Nokia"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Mobile_6_t_Pcs_One_Plus"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Mobile_2020_Pcs_One_Plus"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Finished_Product_Finished_Product_-_7_pro_[_Nokia_]_2000_pcs_1_lot_Nokia"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Finished_Product_Finished_Product_-_Dadmage_#_5Pro_-_White_[_Hero_Honda_]_test_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Finished_Product_Finished_Product_[_Mobil_UAE_]_3_Pcs_Mobil_UAE"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "One_Plus_[_]"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Atlas_Motors#_Hero_Honda_[_]"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Warranty_Claim_Hero_Honda_Distribution_Ltd_Sup_[_SID20050003_]"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Supplier_16_[_SID20080004_]"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Supplier_20_[_SID20080005_]"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Item_Received_But_Bill_Pending"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Supplier_24-8_[_SID20080006_]"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Supplier0109_[_SID20090007_]"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Damage_Stock"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Damage_Stock_Damage_Stock_#_Hero_Honda_#CDX_98CC_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Damage_Stock_Damage_Product_#_5Pro_Mobile_40000_Pcs_One_Plus"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Damage_Stock_Damage#Hero_Honda_Gear_Box_4Layer_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Mr._Ripon_#_Hero_Honda_CDX_98CC_[_CID20040001_]"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Mr._Ripon_#_Hero_Honda_CDX_98CC_[_CID20040001_]_Empty_Cylinder_Due"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Imran__Jatrabari_Hero_Honda_CDX_1Pcs_[_CID20040002_]"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Imran__Jatrabari_Hero_Honda_CDX_1Pcs_[_CID20040002_]_Empty_Cylinder_Due"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "À¦®à¦¾à¦®à¦¾_[_CID20040003_]"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Honda_Repair_Corner#Gulshan_[_CID20040004_]"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Local_Customer#Repair_Point_10LacLimit_360CrDays_[_CID20040005_]"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Customer_24_CL_1000_[_CID20040006_]"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Local_Saler_Single_[_CID20040007_]"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Customer_CR_1000000_[_CID20040008_]"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Nahid_CR_10000_[_CID20040009_]"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Warranty_Claim_Hero_Honda_Distribution_Ltd_[_CID20050010_]"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Cr_Limit_check_[_CID20070011_]"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Item_Delivery_But_Bill_Pending"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Rakibul_Alam_[_CID20090012_]"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Customer_Cr_limit_1000_[_CID20090013_]"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Cash_#_Honda_Selling_Branch"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Cash_#_Main_Branch_Cash_Ledger"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Godawn_Rent"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Godown_Rent_#_Main_Branch"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Salary_#_Main_Branch"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Warranty_Claim"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Warranty_Claim_Amount"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Liability_For_Warranty_Claim"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Liability_For_Warranty_Claim_Amount"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Maintenance_Cost"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Main_Branch_#_Maintenance_Cost"
+INFO - 2020-10-27 11:14:55 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/InventoryAdjustment/InventoryAdjustmentAdd.php
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 11:14:55 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "2019"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:14:56 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 11:14:56 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 11:14:56 --> Final output sent to browser
+DEBUG - 2020-10-27 11:14:56 --> Total execution time: 3.2153
+INFO - 2020-10-27 11:14:57 --> Config Class Initialized
+INFO - 2020-10-27 11:14:57 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:14:58 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:14:58 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:14:58 --> URI Class Initialized
+INFO - 2020-10-27 11:14:58 --> Router Class Initialized
+INFO - 2020-10-27 11:14:58 --> Output Class Initialized
+INFO - 2020-10-27 11:14:58 --> Security Class Initialized
+DEBUG - 2020-10-27 11:14:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:14:58 --> Input Class Initialized
+INFO - 2020-10-27 11:14:58 --> Language Class Initialized
+ERROR - 2020-10-27 11:14:58 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 11:31:35 --> Config Class Initialized
+INFO - 2020-10-27 11:31:35 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:31:36 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:31:36 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:31:36 --> URI Class Initialized
+INFO - 2020-10-27 11:31:36 --> Router Class Initialized
+INFO - 2020-10-27 11:31:36 --> Output Class Initialized
+INFO - 2020-10-27 11:31:36 --> Security Class Initialized
+DEBUG - 2020-10-27 11:31:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:31:36 --> Input Class Initialized
+INFO - 2020-10-27 11:31:36 --> Language Class Initialized
+INFO - 2020-10-27 11:31:36 --> Loader Class Initialized
+INFO - 2020-10-27 11:31:36 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:31:36 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:31:36 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:31:36 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:31:36 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:31:36 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:31:36 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:31:36 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:31:36 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:31:36 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:31:36 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:31:36 --> Email Class Initialized
+DEBUG - 2020-10-27 11:31:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:31:36 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:31:36 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:31:36 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:31:36 --> Controller Class Initialized
+INFO - 2020-10-27 11:31:36 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:31:36 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:31:36 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:31:36 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:31:36 --> Model "Purchases_Model" initialized
+INFO - 2020-10-27 11:31:36 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:31:37 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:31:37 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 11:31:37 --> Helper loaded: get_so_po_no_helper
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Purchase_Order_Add"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Purchase_Order_list"
+INFO - 2020-10-27 11:31:37 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/purchase_order/purchase_order_add.php
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "2019"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:31:37 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 11:31:37 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplateSmeMobile.php
+INFO - 2020-10-27 11:31:37 --> Final output sent to browser
+DEBUG - 2020-10-27 11:31:37 --> Total execution time: 2.6468
+INFO - 2020-10-27 11:31:40 --> Config Class Initialized
+INFO - 2020-10-27 11:31:40 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:31:40 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:31:40 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:31:40 --> URI Class Initialized
+INFO - 2020-10-27 11:31:40 --> Router Class Initialized
+INFO - 2020-10-27 11:31:40 --> Output Class Initialized
+INFO - 2020-10-27 11:31:40 --> Security Class Initialized
+DEBUG - 2020-10-27 11:31:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:31:40 --> Input Class Initialized
+INFO - 2020-10-27 11:31:40 --> Language Class Initialized
+INFO - 2020-10-27 11:31:40 --> Loader Class Initialized
+INFO - 2020-10-27 11:31:40 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:31:40 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:31:40 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:31:40 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:31:40 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:31:40 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:31:40 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:31:40 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:31:40 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:31:40 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:31:40 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:31:40 --> Email Class Initialized
+DEBUG - 2020-10-27 11:31:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:31:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:31:41 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:31:41 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:31:41 --> Controller Class Initialized
+INFO - 2020-10-27 11:31:41 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:31:41 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:31:41 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:31:41 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:31:41 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:31:41 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:31:41 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Price"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Sales_Revenue"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Sales_Empty_Cylinder_With_Refill"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Loader's_Payable"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Loader's_Payable_Sales"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Loading_&_Wages"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Common_Loading_&_Wages"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Common_Transportation"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Cost_of_Goods_Product"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Cost_of_Goods_Product-"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Cost_of_Empty_Cylinder_With_Refill"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Difference_In_Opening_Balance_-"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Difference_In_Opening_Balance"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Empty_Cylinder_Profit_/_Loss-"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Empty_Cylinder_Profit_/_Loss"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Discount_On_Sales"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Inventory_&_Finished_Goods_Stock"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Finished_Product_Finished_Product_[_Mobil_UAE_]_3_Mobil_UAE"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Mobile_5_pro_2020_Pcs_One_Plus"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Motor_Cycle_Hero_Honda_#CDX_98CC__MxSeries_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Mobile_&_Gear_Oil_55T_&_45T_Mobil_GreezWall_55T/500Tk_Pcs_GreezWall"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Motor_Cycle_Spare_Parts_HERO#GEAR_BOX_4Layer_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Mobile_product_208_Pcs_Nokia"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Mobile_6_t_Pcs_One_Plus"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Mobile_2020_Pcs_One_Plus"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Finished_Product_Finished_Product_-_7_pro_[_Nokia_]_2000_pcs_1_lot_Nokia"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Finished_Product_Finished_Product_-_Dadmage_#_5Pro_-_White_[_Hero_Honda_]_test_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Finished_Product_Finished_Product_[_Mobil_UAE_]_3_Pcs_Mobil_UAE"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "One_Plus_[_]"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Atlas_Motors#_Hero_Honda_[_]"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Warranty_Claim_Hero_Honda_Distribution_Ltd_Sup_[_SID20050003_]"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Supplier_16_[_SID20080004_]"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Supplier_20_[_SID20080005_]"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Item_Received_But_Bill_Pending"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Supplier_24-8_[_SID20080006_]"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Supplier0109_[_SID20090007_]"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Damage_Stock"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Damage_Stock_Damage_Stock_#_Hero_Honda_#CDX_98CC_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Damage_Stock_Damage_Product_#_5Pro_Mobile_40000_Pcs_One_Plus"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Damage_Stock_Damage#Hero_Honda_Gear_Box_4Layer_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Mr._Ripon_#_Hero_Honda_CDX_98CC_[_CID20040001_]"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Mr._Ripon_#_Hero_Honda_CDX_98CC_[_CID20040001_]_Empty_Cylinder_Due"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Imran__Jatrabari_Hero_Honda_CDX_1Pcs_[_CID20040002_]"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Imran__Jatrabari_Hero_Honda_CDX_1Pcs_[_CID20040002_]_Empty_Cylinder_Due"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "À¦®à¦¾à¦®à¦¾_[_CID20040003_]"
+ERROR - 2020-10-27 11:31:41 --> Could not find the language line "Honda_Repair_Corner#Gulshan_[_CID20040004_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Local_Customer#Repair_Point_10LacLimit_360CrDays_[_CID20040005_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Customer_24_CL_1000_[_CID20040006_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Local_Saler_Single_[_CID20040007_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Customer_CR_1000000_[_CID20040008_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Nahid_CR_10000_[_CID20040009_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Warranty_Claim_Hero_Honda_Distribution_Ltd_[_CID20050010_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Cr_Limit_check_[_CID20070011_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Item_Delivery_But_Bill_Pending"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Rakibul_Alam_[_CID20090012_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Customer_Cr_limit_1000_[_CID20090013_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Cash_#_Honda_Selling_Branch"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Cash_#_Main_Branch_Cash_Ledger"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Godawn_Rent"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Godown_Rent_#_Main_Branch"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Salary_#_Main_Branch"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Warranty_Claim"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Warranty_Claim_Amount"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Liability_For_Warranty_Claim"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Liability_For_Warranty_Claim_Amount"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Maintenance_Cost"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Main_Branch_#_Maintenance_Cost"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Price"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Sales_Revenue"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Sales_Empty_Cylinder_With_Refill"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Loader's_Payable"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Loader's_Payable_Sales"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Loading_&_Wages"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Common_Loading_&_Wages"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Common_Transportation"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Cost_of_Goods_Product"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Cost_of_Goods_Product-"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Cost_of_Empty_Cylinder_With_Refill"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Difference_In_Opening_Balance_-"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Difference_In_Opening_Balance"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Empty_Cylinder_Profit_/_Loss-"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Empty_Cylinder_Profit_/_Loss"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Discount_On_Sales"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Inventory_&_Finished_Goods_Stock"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Finished_Product_Finished_Product_[_Mobil_UAE_]_3_Mobil_UAE"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Mobile_5_pro_2020_Pcs_One_Plus"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Motor_Cycle_Hero_Honda_#CDX_98CC__MxSeries_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Mobile_&_Gear_Oil_55T_&_45T_Mobil_GreezWall_55T/500Tk_Pcs_GreezWall"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Motor_Cycle_Spare_Parts_HERO#GEAR_BOX_4Layer_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Mobile_product_208_Pcs_Nokia"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Mobile_6_t_Pcs_One_Plus"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Mobile_2020_Pcs_One_Plus"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Finished_Product_Finished_Product_-_7_pro_[_Nokia_]_2000_pcs_1_lot_Nokia"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Finished_Product_Finished_Product_-_Dadmage_#_5Pro_-_White_[_Hero_Honda_]_test_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Finished_Product_Finished_Product_[_Mobil_UAE_]_3_Pcs_Mobil_UAE"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "One_Plus_[_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Atlas_Motors#_Hero_Honda_[_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Warranty_Claim_Hero_Honda_Distribution_Ltd_Sup_[_SID20050003_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Supplier_16_[_SID20080004_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Supplier_20_[_SID20080005_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Item_Received_But_Bill_Pending"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Supplier_24-8_[_SID20080006_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Supplier0109_[_SID20090007_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Damage_Stock"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Damage_Stock_Damage_Stock_#_Hero_Honda_#CDX_98CC_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Damage_Stock_Damage_Product_#_5Pro_Mobile_40000_Pcs_One_Plus"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Damage_Stock_Damage#Hero_Honda_Gear_Box_4Layer_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Mr._Ripon_#_Hero_Honda_CDX_98CC_[_CID20040001_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Mr._Ripon_#_Hero_Honda_CDX_98CC_[_CID20040001_]_Empty_Cylinder_Due"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Imran__Jatrabari_Hero_Honda_CDX_1Pcs_[_CID20040002_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Imran__Jatrabari_Hero_Honda_CDX_1Pcs_[_CID20040002_]_Empty_Cylinder_Due"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "À¦®à¦¾à¦®à¦¾_[_CID20040003_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Honda_Repair_Corner#Gulshan_[_CID20040004_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Local_Customer#Repair_Point_10LacLimit_360CrDays_[_CID20040005_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Customer_24_CL_1000_[_CID20040006_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Local_Saler_Single_[_CID20040007_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Customer_CR_1000000_[_CID20040008_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Nahid_CR_10000_[_CID20040009_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Warranty_Claim_Hero_Honda_Distribution_Ltd_[_CID20050010_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Cr_Limit_check_[_CID20070011_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Item_Delivery_But_Bill_Pending"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Rakibul_Alam_[_CID20090012_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Customer_Cr_limit_1000_[_CID20090013_]"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Cash_#_Honda_Selling_Branch"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Cash_#_Main_Branch_Cash_Ledger"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Godawn_Rent"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Godown_Rent_#_Main_Branch"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Salary_#_Main_Branch"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Warranty_Claim"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Warranty_Claim_Amount"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Liability_For_Warranty_Claim"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Liability_For_Warranty_Claim_Amount"
+ERROR - 2020-10-27 11:31:42 --> Could not find the language line "Maintenance_Cost"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Main_Branch_#_Maintenance_Cost"
+INFO - 2020-10-27 11:31:43 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "2019"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:31:43 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 11:31:43 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 11:31:43 --> Final output sent to browser
+DEBUG - 2020-10-27 11:31:43 --> Total execution time: 3.1265
+INFO - 2020-10-27 11:33:40 --> Config Class Initialized
+INFO - 2020-10-27 11:33:40 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:33:40 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:33:40 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:33:40 --> URI Class Initialized
+INFO - 2020-10-27 11:33:40 --> Router Class Initialized
+INFO - 2020-10-27 11:33:40 --> Output Class Initialized
+INFO - 2020-10-27 11:33:40 --> Security Class Initialized
+DEBUG - 2020-10-27 11:33:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:33:40 --> Input Class Initialized
+INFO - 2020-10-27 11:33:40 --> Language Class Initialized
+INFO - 2020-10-27 11:33:40 --> Loader Class Initialized
+INFO - 2020-10-27 11:33:40 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:33:40 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:33:40 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:33:40 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:33:40 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:33:40 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:33:40 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:33:41 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:33:41 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:33:41 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:33:41 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:33:41 --> Email Class Initialized
+DEBUG - 2020-10-27 11:33:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:33:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:33:41 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:33:41 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:33:41 --> Controller Class Initialized
+INFO - 2020-10-27 11:33:41 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:33:41 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:33:41 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:33:41 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:33:41 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:33:41 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:33:41 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Price"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Sales_Revenue"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Sales_Empty_Cylinder_With_Refill"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Loader's_Payable"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Loader's_Payable_Sales"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Loading_&_Wages"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Common_Loading_&_Wages"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Common_Transportation"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Cost_of_Goods_Product"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Cost_of_Goods_Product-"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Cost_of_Empty_Cylinder_With_Refill"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Difference_In_Opening_Balance_-"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Difference_In_Opening_Balance"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Empty_Cylinder_Profit_/_Loss-"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Empty_Cylinder_Profit_/_Loss"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Discount_On_Sales"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Inventory_&_Finished_Goods_Stock"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Finished_Product_Finished_Product_[_Mobil_UAE_]_3_Mobil_UAE"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Mobile_5_pro_2020_Pcs_One_Plus"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Motor_Cycle_Hero_Honda_#CDX_98CC__MxSeries_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Mobile_&_Gear_Oil_55T_&_45T_Mobil_GreezWall_55T/500Tk_Pcs_GreezWall"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Motor_Cycle_Spare_Parts_HERO#GEAR_BOX_4Layer_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Mobile_product_208_Pcs_Nokia"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Mobile_6_t_Pcs_One_Plus"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Mobile_2020_Pcs_One_Plus"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Finished_Product_Finished_Product_-_7_pro_[_Nokia_]_2000_pcs_1_lot_Nokia"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Finished_Product_Finished_Product_-_Dadmage_#_5Pro_-_White_[_Hero_Honda_]_test_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Finished_Product_Finished_Product_[_Mobil_UAE_]_3_Pcs_Mobil_UAE"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "One_Plus_[_]"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Atlas_Motors#_Hero_Honda_[_]"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Warranty_Claim_Hero_Honda_Distribution_Ltd_Sup_[_SID20050003_]"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Supplier_16_[_SID20080004_]"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Supplier_20_[_SID20080005_]"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Item_Received_But_Bill_Pending"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Supplier_24-8_[_SID20080006_]"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Supplier0109_[_SID20090007_]"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Damage_Stock"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Damage_Stock_Damage_Stock_#_Hero_Honda_#CDX_98CC_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Damage_Stock_Damage_Product_#_5Pro_Mobile_40000_Pcs_One_Plus"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Damage_Stock_Damage#Hero_Honda_Gear_Box_4Layer_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Mr._Ripon_#_Hero_Honda_CDX_98CC_[_CID20040001_]"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Mr._Ripon_#_Hero_Honda_CDX_98CC_[_CID20040001_]_Empty_Cylinder_Due"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Imran__Jatrabari_Hero_Honda_CDX_1Pcs_[_CID20040002_]"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Imran__Jatrabari_Hero_Honda_CDX_1Pcs_[_CID20040002_]_Empty_Cylinder_Due"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "À¦®à¦¾à¦®à¦¾_[_CID20040003_]"
+ERROR - 2020-10-27 11:33:41 --> Could not find the language line "Honda_Repair_Corner#Gulshan_[_CID20040004_]"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Local_Customer#Repair_Point_10LacLimit_360CrDays_[_CID20040005_]"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Customer_24_CL_1000_[_CID20040006_]"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Local_Saler_Single_[_CID20040007_]"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Customer_CR_1000000_[_CID20040008_]"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Nahid_CR_10000_[_CID20040009_]"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Warranty_Claim_Hero_Honda_Distribution_Ltd_[_CID20050010_]"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Cr_Limit_check_[_CID20070011_]"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Item_Delivery_But_Bill_Pending"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Rakibul_Alam_[_CID20090012_]"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Customer_Cr_limit_1000_[_CID20090013_]"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Cash_#_Honda_Selling_Branch"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Cash_#_Main_Branch_Cash_Ledger"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Godawn_Rent"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Godown_Rent_#_Main_Branch"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Salary_#_Main_Branch"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Warranty_Claim"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Warranty_Claim_Amount"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Liability_For_Warranty_Claim"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Liability_For_Warranty_Claim_Amount"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Maintenance_Cost"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Main_Branch_#_Maintenance_Cost"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Price"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Sales_Revenue"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Sales_Empty_Cylinder_With_Refill"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Loader's_Payable"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Loader's_Payable_Sales"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Loading_&_Wages"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Common_Loading_&_Wages"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Common_Transportation"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Cost_of_Goods_Product"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Cost_of_Goods_Product-"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Cost_of_Empty_Cylinder_With_Refill"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Difference_In_Opening_Balance_-"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Difference_In_Opening_Balance"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Empty_Cylinder_Profit_/_Loss-"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Empty_Cylinder_Profit_/_Loss"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Discount_On_Sales"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Inventory_&_Finished_Goods_Stock"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Finished_Product_Finished_Product_[_Mobil_UAE_]_3_Mobil_UAE"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Mobile_5_pro_2020_Pcs_One_Plus"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Motor_Cycle_Hero_Honda_#CDX_98CC__MxSeries_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Mobile_&_Gear_Oil_55T_&_45T_Mobil_GreezWall_55T/500Tk_Pcs_GreezWall"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Motor_Cycle_Spare_Parts_HERO#GEAR_BOX_4Layer_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Mobile_product_208_Pcs_Nokia"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Mobile_6_t_Pcs_One_Plus"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Mobile_2020_Pcs_One_Plus"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Finished_Product_Finished_Product_-_7_pro_[_Nokia_]_2000_pcs_1_lot_Nokia"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Finished_Product_Finished_Product_-_Dadmage_#_5Pro_-_White_[_Hero_Honda_]_test_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Finished_Product_Finished_Product_[_Mobil_UAE_]_3_Pcs_Mobil_UAE"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "One_Plus_[_]"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Atlas_Motors#_Hero_Honda_[_]"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Warranty_Claim_Hero_Honda_Distribution_Ltd_Sup_[_SID20050003_]"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Supplier_16_[_SID20080004_]"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Supplier_20_[_SID20080005_]"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Item_Received_But_Bill_Pending"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Supplier_24-8_[_SID20080006_]"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Supplier0109_[_SID20090007_]"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Damage_Stock"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Damage_Stock_Damage_Stock_#_Hero_Honda_#CDX_98CC_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Damage_Stock_Damage_Product_#_5Pro_Mobile_40000_Pcs_One_Plus"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Damage_Stock_Damage#Hero_Honda_Gear_Box_4Layer_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Mr._Ripon_#_Hero_Honda_CDX_98CC_[_CID20040001_]"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Mr._Ripon_#_Hero_Honda_CDX_98CC_[_CID20040001_]_Empty_Cylinder_Due"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Imran__Jatrabari_Hero_Honda_CDX_1Pcs_[_CID20040002_]"
+ERROR - 2020-10-27 11:33:42 --> Could not find the language line "Imran__Jatrabari_Hero_Honda_CDX_1Pcs_[_CID20040002_]_Empty_Cylinder_Due"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "À¦®à¦¾à¦®à¦¾_[_CID20040003_]"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Honda_Repair_Corner#Gulshan_[_CID20040004_]"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Local_Customer#Repair_Point_10LacLimit_360CrDays_[_CID20040005_]"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Customer_24_CL_1000_[_CID20040006_]"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Local_Saler_Single_[_CID20040007_]"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Customer_CR_1000000_[_CID20040008_]"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Nahid_CR_10000_[_CID20040009_]"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Warranty_Claim_Hero_Honda_Distribution_Ltd_[_CID20050010_]"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Cr_Limit_check_[_CID20070011_]"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Item_Delivery_But_Bill_Pending"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Rakibul_Alam_[_CID20090012_]"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Customer_Cr_limit_1000_[_CID20090013_]"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Cash_#_Honda_Selling_Branch"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Cash_#_Main_Branch_Cash_Ledger"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Godawn_Rent"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Godown_Rent_#_Main_Branch"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Salary_#_Main_Branch"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Warranty_Claim"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Warranty_Claim_Amount"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Liability_For_Warranty_Claim"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Liability_For_Warranty_Claim_Amount"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Maintenance_Cost"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Main_Branch_#_Maintenance_Cost"
+INFO - 2020-10-27 11:33:43 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "2019"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:33:43 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 11:33:43 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 11:33:43 --> Final output sent to browser
+DEBUG - 2020-10-27 11:33:44 --> Total execution time: 3.3847
+INFO - 2020-10-27 11:36:23 --> Config Class Initialized
+INFO - 2020-10-27 11:36:23 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:36:23 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:36:23 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:36:23 --> URI Class Initialized
+INFO - 2020-10-27 11:36:23 --> Router Class Initialized
+INFO - 2020-10-27 11:36:23 --> Output Class Initialized
+INFO - 2020-10-27 11:36:23 --> Security Class Initialized
+DEBUG - 2020-10-27 11:36:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:36:24 --> Input Class Initialized
+INFO - 2020-10-27 11:36:24 --> Language Class Initialized
+INFO - 2020-10-27 11:36:24 --> Loader Class Initialized
+INFO - 2020-10-27 11:36:24 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:36:24 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:36:24 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:36:24 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:36:24 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:36:24 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:36:24 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:36:24 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:36:24 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:36:24 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:36:24 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:36:24 --> Email Class Initialized
+DEBUG - 2020-10-27 11:36:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:36:24 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:36:24 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:36:24 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:36:24 --> Controller Class Initialized
+INFO - 2020-10-27 11:36:24 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:36:24 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:36:24 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:36:24 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:36:24 --> Model "Dashboard_Model" initialized
+INFO - 2020-10-27 11:36:24 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:36:25 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:36:25 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Si"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "JV_No"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "User_name"
+INFO - 2020-10-27 11:36:25 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/account/journal/journalVoucher.php
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "2019"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:36:25 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 11:36:25 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 11:36:25 --> Final output sent to browser
+DEBUG - 2020-10-27 11:36:26 --> Total execution time: 2.1682
+INFO - 2020-10-27 11:36:28 --> Config Class Initialized
+INFO - 2020-10-27 11:36:28 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:36:28 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:36:28 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:36:28 --> URI Class Initialized
+INFO - 2020-10-27 11:36:28 --> Router Class Initialized
+INFO - 2020-10-27 11:36:29 --> Output Class Initialized
+INFO - 2020-10-27 11:36:29 --> Security Class Initialized
+DEBUG - 2020-10-27 11:36:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:36:29 --> Input Class Initialized
+INFO - 2020-10-27 11:36:29 --> Language Class Initialized
+INFO - 2020-10-27 11:36:29 --> Loader Class Initialized
+INFO - 2020-10-27 11:36:29 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:36:29 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:36:29 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:36:29 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:36:29 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:36:29 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:36:29 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:36:29 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:36:29 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:36:29 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:36:29 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:36:29 --> Email Class Initialized
+DEBUG - 2020-10-27 11:36:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:36:29 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:36:29 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:36:29 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:36:29 --> Controller Class Initialized
+INFO - 2020-10-27 11:36:29 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:36:29 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:36:29 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:36:29 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:36:29 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:36:29 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:36:29 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Price"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Sales_Revenue"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Sales_Empty_Cylinder_With_Refill"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Loader's_Payable"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Loader's_Payable_Sales"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Loading_&_Wages"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Common_Loading_&_Wages"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Common_Transportation"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Cost_of_Goods_Product"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Cost_of_Goods_Product-"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Cost_of_Empty_Cylinder_With_Refill"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Difference_In_Opening_Balance_-"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Difference_In_Opening_Balance"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Empty_Cylinder_Profit_/_Loss-"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Empty_Cylinder_Profit_/_Loss"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Discount_On_Sales"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Inventory_&_Finished_Goods_Stock"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Finished_Product_Finished_Product_[_Mobil_UAE_]_3_Mobil_UAE"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Mobile_5_pro_2020_Pcs_One_Plus"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Motor_Cycle_Hero_Honda_#CDX_98CC__MxSeries_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Mobile_&_Gear_Oil_55T_&_45T_Mobil_GreezWall_55T/500Tk_Pcs_GreezWall"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Motor_Cycle_Spare_Parts_HERO#GEAR_BOX_4Layer_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Mobile_product_208_Pcs_Nokia"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Mobile_6_t_Pcs_One_Plus"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Mobile_2020_Pcs_One_Plus"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Finished_Product_Finished_Product_-_7_pro_[_Nokia_]_2000_pcs_1_lot_Nokia"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Finished_Product_Finished_Product_-_Dadmage_#_5Pro_-_White_[_Hero_Honda_]_test_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Finished_Product_Finished_Product_[_Mobil_UAE_]_3_Pcs_Mobil_UAE"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "One_Plus_[_]"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Atlas_Motors#_Hero_Honda_[_]"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Warranty_Claim_Hero_Honda_Distribution_Ltd_Sup_[_SID20050003_]"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Supplier_16_[_SID20080004_]"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Supplier_20_[_SID20080005_]"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Item_Received_But_Bill_Pending"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Supplier_24-8_[_SID20080006_]"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Supplier0109_[_SID20090007_]"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Damage_Stock"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Damage_Stock_Damage_Stock_#_Hero_Honda_#CDX_98CC_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:36:29 --> Could not find the language line "Damage_Stock_Damage_Product_#_5Pro_Mobile_40000_Pcs_One_Plus"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Damage_Stock_Damage#Hero_Honda_Gear_Box_4Layer_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Mr._Ripon_#_Hero_Honda_CDX_98CC_[_CID20040001_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Mr._Ripon_#_Hero_Honda_CDX_98CC_[_CID20040001_]_Empty_Cylinder_Due"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Imran__Jatrabari_Hero_Honda_CDX_1Pcs_[_CID20040002_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Imran__Jatrabari_Hero_Honda_CDX_1Pcs_[_CID20040002_]_Empty_Cylinder_Due"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "À¦®à¦¾à¦®à¦¾_[_CID20040003_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Honda_Repair_Corner#Gulshan_[_CID20040004_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Local_Customer#Repair_Point_10LacLimit_360CrDays_[_CID20040005_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Customer_24_CL_1000_[_CID20040006_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Local_Saler_Single_[_CID20040007_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Customer_CR_1000000_[_CID20040008_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Nahid_CR_10000_[_CID20040009_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Warranty_Claim_Hero_Honda_Distribution_Ltd_[_CID20050010_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Cr_Limit_check_[_CID20070011_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Item_Delivery_But_Bill_Pending"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Rakibul_Alam_[_CID20090012_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Customer_Cr_limit_1000_[_CID20090013_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Cash_#_Honda_Selling_Branch"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Cash_#_Main_Branch_Cash_Ledger"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Godawn_Rent"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Godown_Rent_#_Main_Branch"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Salary_#_Main_Branch"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Warranty_Claim"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Warranty_Claim_Amount"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Liability_For_Warranty_Claim"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Liability_For_Warranty_Claim_Amount"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Maintenance_Cost"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Main_Branch_#_Maintenance_Cost"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Price"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Sales_Revenue"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Sales_Empty_Cylinder_With_Refill"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Loader's_Payable"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Loader's_Payable_Sales"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Loading_&_Wages"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Common_Loading_&_Wages"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Common_Transportation"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Cost_of_Goods_Product"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Cost_of_Goods_Product-"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Cost_of_Empty_Cylinder_With_Refill"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Difference_In_Opening_Balance_-"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Difference_In_Opening_Balance"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Empty_Cylinder_Profit_/_Loss-"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Empty_Cylinder_Profit_/_Loss"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Discount_On_Sales"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Inventory_&_Finished_Goods_Stock"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Finished_Product_Finished_Product_[_Mobil_UAE_]_3_Mobil_UAE"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Mobile_5_pro_2020_Pcs_One_Plus"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Motor_Cycle_Hero_Honda_#CDX_98CC__MxSeries_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Mobile_&_Gear_Oil_55T_&_45T_Mobil_GreezWall_55T/500Tk_Pcs_GreezWall"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Motor_Cycle_Spare_Parts_HERO#GEAR_BOX_4Layer_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Mobile_product_208_Pcs_Nokia"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Mobile_6_t_Pcs_One_Plus"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Mobile_2020_Pcs_One_Plus"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Finished_Product_Finished_Product_-_7_pro_[_Nokia_]_2000_pcs_1_lot_Nokia"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Finished_Product_Finished_Product_-_Dadmage_#_5Pro_-_White_[_Hero_Honda_]_test_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Finished_Product_Finished_Product_[_Mobil_UAE_]_3_Pcs_Mobil_UAE"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "One_Plus_[_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Atlas_Motors#_Hero_Honda_[_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Warranty_Claim_Hero_Honda_Distribution_Ltd_Sup_[_SID20050003_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Supplier_16_[_SID20080004_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Supplier_20_[_SID20080005_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Item_Received_But_Bill_Pending"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Supplier_24-8_[_SID20080006_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Supplier0109_[_SID20090007_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Damage_Stock"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Damage_Stock_Damage_Stock_#_Hero_Honda_#CDX_98CC_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Damage_Stock_Damage_Product_#_5Pro_Mobile_40000_Pcs_One_Plus"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Damage_Stock_Damage#Hero_Honda_Gear_Box_4Layer_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Mr._Ripon_#_Hero_Honda_CDX_98CC_[_CID20040001_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Mr._Ripon_#_Hero_Honda_CDX_98CC_[_CID20040001_]_Empty_Cylinder_Due"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Imran__Jatrabari_Hero_Honda_CDX_1Pcs_[_CID20040002_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Imran__Jatrabari_Hero_Honda_CDX_1Pcs_[_CID20040002_]_Empty_Cylinder_Due"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "À¦®à¦¾à¦®à¦¾_[_CID20040003_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Honda_Repair_Corner#Gulshan_[_CID20040004_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Local_Customer#Repair_Point_10LacLimit_360CrDays_[_CID20040005_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Customer_24_CL_1000_[_CID20040006_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Local_Saler_Single_[_CID20040007_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Customer_CR_1000000_[_CID20040008_]"
+ERROR - 2020-10-27 11:36:30 --> Could not find the language line "Nahid_CR_10000_[_CID20040009_]"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Warranty_Claim_Hero_Honda_Distribution_Ltd_[_CID20050010_]"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Cr_Limit_check_[_CID20070011_]"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Item_Delivery_But_Bill_Pending"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Rakibul_Alam_[_CID20090012_]"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Customer_Cr_limit_1000_[_CID20090013_]"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Cash_#_Honda_Selling_Branch"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Cash_#_Main_Branch_Cash_Ledger"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Godawn_Rent"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Godown_Rent_#_Main_Branch"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Salary_#_Main_Branch"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Warranty_Claim"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Warranty_Claim_Amount"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Liability_For_Warranty_Claim"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Liability_For_Warranty_Claim_Amount"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Maintenance_Cost"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Main_Branch_#_Maintenance_Cost"
+INFO - 2020-10-27 11:36:31 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "2019"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:36:31 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 11:36:31 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 11:36:31 --> Final output sent to browser
+DEBUG - 2020-10-27 11:36:32 --> Total execution time: 3.0115
+INFO - 2020-10-27 11:36:33 --> Config Class Initialized
+INFO - 2020-10-27 11:36:33 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:36:33 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:36:34 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:36:34 --> URI Class Initialized
+INFO - 2020-10-27 11:36:34 --> Router Class Initialized
+INFO - 2020-10-27 11:36:34 --> Output Class Initialized
+INFO - 2020-10-27 11:36:34 --> Security Class Initialized
+DEBUG - 2020-10-27 11:36:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:36:34 --> Input Class Initialized
+INFO - 2020-10-27 11:36:34 --> Language Class Initialized
+INFO - 2020-10-27 11:36:34 --> Loader Class Initialized
+INFO - 2020-10-27 11:36:34 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:36:34 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:36:34 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:36:34 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:36:34 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:36:34 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:36:34 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:36:34 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:36:34 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:36:34 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:36:34 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:36:34 --> Email Class Initialized
+DEBUG - 2020-10-27 11:36:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:36:34 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:36:34 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:36:34 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:36:34 --> Controller Class Initialized
+INFO - 2020-10-27 11:36:34 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:36:34 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:36:34 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:36:34 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:36:34 --> Model "ServerFilterModel" initialized
+INFO - 2020-10-27 11:36:34 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:36:34 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:36:34 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 11:36:34 --> Final output sent to browser
+DEBUG - 2020-10-27 11:36:34 --> Total execution time: 0.6334
+INFO - 2020-10-27 11:37:48 --> Config Class Initialized
+INFO - 2020-10-27 11:37:48 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:37:48 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:37:49 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:37:49 --> URI Class Initialized
+INFO - 2020-10-27 11:37:49 --> Router Class Initialized
+INFO - 2020-10-27 11:37:49 --> Output Class Initialized
+INFO - 2020-10-27 11:37:49 --> Security Class Initialized
+DEBUG - 2020-10-27 11:37:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:37:49 --> Input Class Initialized
+INFO - 2020-10-27 11:37:49 --> Language Class Initialized
+INFO - 2020-10-27 11:37:49 --> Loader Class Initialized
+INFO - 2020-10-27 11:37:49 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:37:49 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:37:49 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:37:49 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:37:49 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:37:49 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:37:49 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:37:49 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:37:49 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:37:49 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:37:49 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:37:49 --> Email Class Initialized
+DEBUG - 2020-10-27 11:37:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:37:49 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:37:49 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:37:49 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:37:49 --> Controller Class Initialized
+INFO - 2020-10-27 11:37:49 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:37:49 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:37:50 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:37:50 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:37:50 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:37:50 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:37:50 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Price"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Sales_Revenue"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Sales_Empty_Cylinder_With_Refill"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Loader's_Payable"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Loader's_Payable_Sales"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Loading_&_Wages"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Common_Loading_&_Wages"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Common_Transportation"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Cost_of_Goods_Product"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Cost_of_Goods_Product-"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Cost_of_Empty_Cylinder_With_Refill"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Difference_In_Opening_Balance_-"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Difference_In_Opening_Balance"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Empty_Cylinder_Profit_/_Loss-"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Empty_Cylinder_Profit_/_Loss"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Discount_On_Sales"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Inventory_&_Finished_Goods_Stock"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Finished_Product_Finished_Product_[_Mobil_UAE_]_3_Mobil_UAE"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Mobile_5_pro_2020_Pcs_One_Plus"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Motor_Cycle_Hero_Honda_#CDX_98CC__MxSeries_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Mobile_&_Gear_Oil_55T_&_45T_Mobil_GreezWall_55T/500Tk_Pcs_GreezWall"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Motor_Cycle_Spare_Parts_HERO#GEAR_BOX_4Layer_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Mobile_product_208_Pcs_Nokia"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Mobile_6_t_Pcs_One_Plus"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Mobile_2020_Pcs_One_Plus"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Finished_Product_Finished_Product_-_7_pro_[_Nokia_]_2000_pcs_1_lot_Nokia"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Finished_Product_Finished_Product_-_Dadmage_#_5Pro_-_White_[_Hero_Honda_]_test_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Finished_Product_Finished_Product_[_Mobil_UAE_]_3_Pcs_Mobil_UAE"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "One_Plus_[_]"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Atlas_Motors#_Hero_Honda_[_]"
+ERROR - 2020-10-27 11:37:50 --> Could not find the language line "Warranty_Claim_Hero_Honda_Distribution_Ltd_Sup_[_SID20050003_]"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Supplier_16_[_SID20080004_]"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Supplier_20_[_SID20080005_]"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Item_Received_But_Bill_Pending"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Supplier_24-8_[_SID20080006_]"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Supplier0109_[_SID20090007_]"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Damage_Stock"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Damage_Stock_Damage_Stock_#_Hero_Honda_#CDX_98CC_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Damage_Stock_Damage_Product_#_5Pro_Mobile_40000_Pcs_One_Plus"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Damage_Stock_Damage#Hero_Honda_Gear_Box_4Layer_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Mr._Ripon_#_Hero_Honda_CDX_98CC_[_CID20040001_]"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Mr._Ripon_#_Hero_Honda_CDX_98CC_[_CID20040001_]_Empty_Cylinder_Due"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Imran__Jatrabari_Hero_Honda_CDX_1Pcs_[_CID20040002_]"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Imran__Jatrabari_Hero_Honda_CDX_1Pcs_[_CID20040002_]_Empty_Cylinder_Due"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "À¦®à¦¾à¦®à¦¾_[_CID20040003_]"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Honda_Repair_Corner#Gulshan_[_CID20040004_]"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Local_Customer#Repair_Point_10LacLimit_360CrDays_[_CID20040005_]"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Customer_24_CL_1000_[_CID20040006_]"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Local_Saler_Single_[_CID20040007_]"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Customer_CR_1000000_[_CID20040008_]"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Nahid_CR_10000_[_CID20040009_]"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Warranty_Claim_Hero_Honda_Distribution_Ltd_[_CID20050010_]"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Cr_Limit_check_[_CID20070011_]"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Item_Delivery_But_Bill_Pending"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Rakibul_Alam_[_CID20090012_]"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Customer_Cr_limit_1000_[_CID20090013_]"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Cash_#_Honda_Selling_Branch"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Cash_#_Main_Branch_Cash_Ledger"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Godawn_Rent"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Godown_Rent_#_Main_Branch"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Salary_#_Main_Branch"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Warranty_Claim"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Warranty_Claim_Amount"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Liability_For_Warranty_Claim"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Liability_For_Warranty_Claim_Amount"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Maintenance_Cost"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Main_Branch_#_Maintenance_Cost"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Price"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Sales_Revenue"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Sales_Empty_Cylinder_With_Refill"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Loader's_Payable"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Loader's_Payable_Sales"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Loading_&_Wages"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Common_Loading_&_Wages"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Common_Transportation"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Cost_of_Goods_Product"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Cost_of_Goods_Product-"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Cost_of_Empty_Cylinder_With_Refill"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Difference_In_Opening_Balance_-"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Difference_In_Opening_Balance"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Empty_Cylinder_Profit_/_Loss-"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Empty_Cylinder_Profit_/_Loss"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Discount_On_Sales"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Inventory_&_Finished_Goods_Stock"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Finished_Product_Finished_Product_[_Mobil_UAE_]_3_Mobil_UAE"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Mobile_5_pro_2020_Pcs_One_Plus"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Motor_Cycle_Hero_Honda_#CDX_98CC__MxSeries_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Mobile_&_Gear_Oil_55T_&_45T_Mobil_GreezWall_55T/500Tk_Pcs_GreezWall"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Motor_Cycle_Spare_Parts_HERO#GEAR_BOX_4Layer_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Mobile_product_208_Pcs_Nokia"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Mobile_6_t_Pcs_One_Plus"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Mobile_2020_Pcs_One_Plus"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Finished_Product_Finished_Product_-_7_pro_[_Nokia_]_2000_pcs_1_lot_Nokia"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Finished_Product_Finished_Product_-_Dadmage_#_5Pro_-_White_[_Hero_Honda_]_test_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Finished_Product_Finished_Product_[_Mobil_UAE_]_3_Pcs_Mobil_UAE"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "One_Plus_[_]"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Atlas_Motors#_Hero_Honda_[_]"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Warranty_Claim_Hero_Honda_Distribution_Ltd_Sup_[_SID20050003_]"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Supplier_16_[_SID20080004_]"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Supplier_20_[_SID20080005_]"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Item_Received_But_Bill_Pending"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Supplier_24-8_[_SID20080006_]"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Supplier0109_[_SID20090007_]"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Damage_Stock"
+ERROR - 2020-10-27 11:37:51 --> Could not find the language line "Damage_Stock_Damage_Stock_#_Hero_Honda_#CDX_98CC_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Damage_Stock_Damage_Product_#_5Pro_Mobile_40000_Pcs_One_Plus"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Damage_Stock_Damage#Hero_Honda_Gear_Box_4Layer_Pcs_Hero_Honda"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Mr._Ripon_#_Hero_Honda_CDX_98CC_[_CID20040001_]"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Mr._Ripon_#_Hero_Honda_CDX_98CC_[_CID20040001_]_Empty_Cylinder_Due"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Imran__Jatrabari_Hero_Honda_CDX_1Pcs_[_CID20040002_]"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Imran__Jatrabari_Hero_Honda_CDX_1Pcs_[_CID20040002_]_Empty_Cylinder_Due"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "À¦®à¦¾à¦®à¦¾_[_CID20040003_]"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Honda_Repair_Corner#Gulshan_[_CID20040004_]"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Local_Customer#Repair_Point_10LacLimit_360CrDays_[_CID20040005_]"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Customer_24_CL_1000_[_CID20040006_]"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Local_Saler_Single_[_CID20040007_]"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Customer_CR_1000000_[_CID20040008_]"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Nahid_CR_10000_[_CID20040009_]"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Warranty_Claim_Hero_Honda_Distribution_Ltd_[_CID20050010_]"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Cr_Limit_check_[_CID20070011_]"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Item_Delivery_But_Bill_Pending"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Rakibul_Alam_[_CID20090012_]"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Customer_Cr_limit_1000_[_CID20090013_]"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Cash_#_Honda_Selling_Branch"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Cash_#_Main_Branch_Cash_Ledger"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Godawn_Rent"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Godown_Rent_#_Main_Branch"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Salary_#_Main_Branch"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Warranty_Claim"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Warranty_Claim_Amount"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Liability_For_Warranty_Claim"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Liability_For_Warranty_Claim_Amount"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Maintenance_Cost"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Main_Branch_#_Maintenance_Cost"
+INFO - 2020-10-27 11:37:52 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "2019"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:37:52 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 11:37:52 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 11:37:52 --> Final output sent to browser
+DEBUG - 2020-10-27 11:37:53 --> Total execution time: 4.0968
+INFO - 2020-10-27 11:40:04 --> Config Class Initialized
+INFO - 2020-10-27 11:40:04 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:40:04 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:40:04 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:40:04 --> URI Class Initialized
+INFO - 2020-10-27 11:40:04 --> Router Class Initialized
+INFO - 2020-10-27 11:40:04 --> Output Class Initialized
+INFO - 2020-10-27 11:40:04 --> Security Class Initialized
+DEBUG - 2020-10-27 11:40:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:40:04 --> Input Class Initialized
+INFO - 2020-10-27 11:40:04 --> Language Class Initialized
+INFO - 2020-10-27 11:40:04 --> Loader Class Initialized
+INFO - 2020-10-27 11:40:04 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:40:04 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:40:04 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:40:04 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:40:04 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:40:04 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:40:04 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:40:04 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:40:04 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:40:04 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:40:04 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:40:04 --> Email Class Initialized
+DEBUG - 2020-10-27 11:40:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:40:04 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:40:04 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:40:04 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:40:04 --> Controller Class Initialized
+INFO - 2020-10-27 11:40:04 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:40:04 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:40:05 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:40:05 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:40:05 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:40:05 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:40:05 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Price"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Price"
+INFO - 2020-10-27 11:40:05 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 11:40:05 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 11:40:06 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 11:40:06 --> Could not find the language line "2019"
+ERROR - 2020-10-27 11:40:06 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:40:06 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 11:40:06 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 11:40:06 --> Final output sent to browser
+DEBUG - 2020-10-27 11:40:06 --> Total execution time: 2.0463
+INFO - 2020-10-27 11:40:10 --> Config Class Initialized
+INFO - 2020-10-27 11:40:11 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:40:11 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:40:11 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:40:11 --> URI Class Initialized
+INFO - 2020-10-27 11:40:11 --> Router Class Initialized
+INFO - 2020-10-27 11:40:11 --> Output Class Initialized
+INFO - 2020-10-27 11:40:11 --> Security Class Initialized
+DEBUG - 2020-10-27 11:40:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:40:11 --> Input Class Initialized
+INFO - 2020-10-27 11:40:11 --> Language Class Initialized
+INFO - 2020-10-27 11:40:11 --> Loader Class Initialized
+INFO - 2020-10-27 11:40:11 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:40:11 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:40:11 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:40:11 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:40:11 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:40:11 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:40:11 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:40:11 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:40:12 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:40:12 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:40:12 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:40:12 --> Email Class Initialized
+DEBUG - 2020-10-27 11:40:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:40:12 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:40:12 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:40:12 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:40:12 --> Controller Class Initialized
+INFO - 2020-10-27 11:40:12 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:40:12 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:40:12 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:40:12 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:40:12 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:40:12 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:40:12 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 11:40:13 --> Config Class Initialized
+INFO - 2020-10-27 11:40:13 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:40:13 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:40:13 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:40:14 --> URI Class Initialized
+INFO - 2020-10-27 11:40:14 --> Router Class Initialized
+INFO - 2020-10-27 11:40:14 --> Output Class Initialized
+INFO - 2020-10-27 11:40:14 --> Security Class Initialized
+DEBUG - 2020-10-27 11:40:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:40:14 --> Input Class Initialized
+INFO - 2020-10-27 11:40:14 --> Language Class Initialized
+INFO - 2020-10-27 11:40:14 --> Loader Class Initialized
+INFO - 2020-10-27 11:40:14 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:40:14 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:40:14 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:40:14 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:40:14 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:40:14 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:40:14 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:40:14 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:40:14 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:40:14 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:40:14 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:40:14 --> Email Class Initialized
+DEBUG - 2020-10-27 11:40:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:40:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:40:14 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:40:14 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:40:14 --> Controller Class Initialized
+INFO - 2020-10-27 11:40:14 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:40:14 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:40:14 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:40:14 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:40:14 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:40:14 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:40:14 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 11:40:14 --> Final output sent to browser
+DEBUG - 2020-10-27 11:40:14 --> Total execution time: 0.5948
+INFO - 2020-10-27 11:40:43 --> Config Class Initialized
+INFO - 2020-10-27 11:40:43 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:40:43 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:40:43 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:40:43 --> URI Class Initialized
+INFO - 2020-10-27 11:40:43 --> Router Class Initialized
+INFO - 2020-10-27 11:40:43 --> Output Class Initialized
+INFO - 2020-10-27 11:40:43 --> Security Class Initialized
+DEBUG - 2020-10-27 11:40:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:40:43 --> Input Class Initialized
+INFO - 2020-10-27 11:40:43 --> Language Class Initialized
+INFO - 2020-10-27 11:40:43 --> Loader Class Initialized
+INFO - 2020-10-27 11:40:43 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:40:43 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:40:43 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:40:43 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:40:43 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:40:43 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:40:43 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:40:43 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:40:43 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:40:43 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:40:43 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:40:43 --> Email Class Initialized
+DEBUG - 2020-10-27 11:40:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:40:43 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:40:43 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:40:43 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:40:43 --> Controller Class Initialized
+INFO - 2020-10-27 11:40:43 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:40:43 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:40:43 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:40:43 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:40:43 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:40:43 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:40:43 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 11:40:44 --> Config Class Initialized
+INFO - 2020-10-27 11:40:44 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:40:44 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:40:44 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:40:44 --> URI Class Initialized
+INFO - 2020-10-27 11:40:44 --> Router Class Initialized
+INFO - 2020-10-27 11:40:44 --> Output Class Initialized
+INFO - 2020-10-27 11:40:44 --> Security Class Initialized
+DEBUG - 2020-10-27 11:40:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:40:44 --> Input Class Initialized
+INFO - 2020-10-27 11:40:44 --> Language Class Initialized
+INFO - 2020-10-27 11:40:44 --> Loader Class Initialized
+INFO - 2020-10-27 11:40:44 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:40:44 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:40:44 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:40:44 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:40:44 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:40:44 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:40:44 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:40:44 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:40:44 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:40:44 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:40:44 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:40:44 --> Email Class Initialized
+DEBUG - 2020-10-27 11:40:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:40:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:40:44 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:40:44 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:40:44 --> Controller Class Initialized
+INFO - 2020-10-27 11:40:44 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:40:44 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:40:44 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:40:44 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:40:44 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:40:44 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:40:44 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 11:40:45 --> Final output sent to browser
+DEBUG - 2020-10-27 11:40:45 --> Total execution time: 0.5205
+INFO - 2020-10-27 11:45:50 --> Config Class Initialized
+INFO - 2020-10-27 11:45:50 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:45:50 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:45:50 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:45:50 --> URI Class Initialized
+INFO - 2020-10-27 11:45:50 --> Router Class Initialized
+INFO - 2020-10-27 11:45:50 --> Output Class Initialized
+INFO - 2020-10-27 11:45:50 --> Security Class Initialized
+DEBUG - 2020-10-27 11:45:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:45:50 --> Input Class Initialized
+INFO - 2020-10-27 11:45:50 --> Language Class Initialized
+INFO - 2020-10-27 11:45:50 --> Loader Class Initialized
+INFO - 2020-10-27 11:45:50 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:45:50 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:45:50 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:45:50 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:45:50 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:45:50 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:45:50 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:45:50 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:45:50 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:45:50 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:45:50 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:45:50 --> Email Class Initialized
+DEBUG - 2020-10-27 11:45:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:45:50 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:45:50 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:45:50 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:45:50 --> Controller Class Initialized
+INFO - 2020-10-27 11:45:50 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:45:50 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:45:50 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:45:50 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:45:50 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:45:50 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:45:50 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 11:45:50 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 11:45:50 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Price"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Price"
+INFO - 2020-10-27 11:45:51 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "2019"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:45:51 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 11:45:51 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 11:45:51 --> Final output sent to browser
+DEBUG - 2020-10-27 11:45:51 --> Total execution time: 1.4944
+INFO - 2020-10-27 11:45:56 --> Config Class Initialized
+INFO - 2020-10-27 11:45:56 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:45:56 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:45:56 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:45:56 --> URI Class Initialized
+INFO - 2020-10-27 11:45:56 --> Router Class Initialized
+INFO - 2020-10-27 11:45:56 --> Output Class Initialized
+INFO - 2020-10-27 11:45:56 --> Security Class Initialized
+DEBUG - 2020-10-27 11:45:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:45:56 --> Input Class Initialized
+INFO - 2020-10-27 11:45:56 --> Language Class Initialized
+INFO - 2020-10-27 11:45:56 --> Loader Class Initialized
+INFO - 2020-10-27 11:45:56 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:45:56 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:45:56 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:45:56 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:45:56 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:45:56 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:45:56 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:45:57 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:45:57 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:45:57 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:45:57 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:45:57 --> Email Class Initialized
+DEBUG - 2020-10-27 11:45:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:45:57 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:45:57 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:45:57 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:45:57 --> Controller Class Initialized
+INFO - 2020-10-27 11:45:57 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:45:57 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:45:57 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:45:57 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:45:57 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:45:57 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:45:57 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 11:45:58 --> Config Class Initialized
+INFO - 2020-10-27 11:45:58 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:45:58 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:45:58 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:45:58 --> URI Class Initialized
+INFO - 2020-10-27 11:45:58 --> Router Class Initialized
+INFO - 2020-10-27 11:45:59 --> Output Class Initialized
+INFO - 2020-10-27 11:45:59 --> Security Class Initialized
+DEBUG - 2020-10-27 11:45:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:45:59 --> Input Class Initialized
+INFO - 2020-10-27 11:45:59 --> Language Class Initialized
+INFO - 2020-10-27 11:45:59 --> Loader Class Initialized
+INFO - 2020-10-27 11:45:59 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:45:59 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:45:59 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:45:59 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:45:59 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:45:59 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:45:59 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:45:59 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:45:59 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:45:59 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:45:59 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:45:59 --> Email Class Initialized
+DEBUG - 2020-10-27 11:45:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:45:59 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:45:59 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:45:59 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:45:59 --> Controller Class Initialized
+INFO - 2020-10-27 11:45:59 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:45:59 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:45:59 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:45:59 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:45:59 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:45:59 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:45:59 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 11:45:59 --> Final output sent to browser
+DEBUG - 2020-10-27 11:45:59 --> Total execution time: 0.5800
+INFO - 2020-10-27 11:46:04 --> Config Class Initialized
+INFO - 2020-10-27 11:46:04 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:46:04 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:46:04 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:46:04 --> URI Class Initialized
+INFO - 2020-10-27 11:46:04 --> Router Class Initialized
+INFO - 2020-10-27 11:46:04 --> Output Class Initialized
+INFO - 2020-10-27 11:46:04 --> Security Class Initialized
+DEBUG - 2020-10-27 11:46:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:46:04 --> Input Class Initialized
+INFO - 2020-10-27 11:46:04 --> Language Class Initialized
+INFO - 2020-10-27 11:46:04 --> Loader Class Initialized
+INFO - 2020-10-27 11:46:04 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:46:04 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:46:04 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:46:04 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:46:04 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:46:04 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:46:04 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:46:04 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:46:04 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:46:04 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:46:04 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:46:04 --> Email Class Initialized
+DEBUG - 2020-10-27 11:46:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:46:04 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:46:04 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:46:04 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:46:04 --> Controller Class Initialized
+INFO - 2020-10-27 11:46:04 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:46:05 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:46:05 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:46:05 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:46:05 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:46:05 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:46:05 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 11:46:06 --> Config Class Initialized
+INFO - 2020-10-27 11:46:06 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:46:06 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:46:06 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:46:06 --> URI Class Initialized
+INFO - 2020-10-27 11:46:06 --> Router Class Initialized
+INFO - 2020-10-27 11:46:06 --> Output Class Initialized
+INFO - 2020-10-27 11:46:06 --> Security Class Initialized
+DEBUG - 2020-10-27 11:46:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:46:06 --> Input Class Initialized
+INFO - 2020-10-27 11:46:06 --> Language Class Initialized
+INFO - 2020-10-27 11:46:06 --> Loader Class Initialized
+INFO - 2020-10-27 11:46:06 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:46:06 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:46:06 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:46:06 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:46:06 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:46:06 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:46:06 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:46:06 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:46:06 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:46:06 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:46:07 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:46:07 --> Email Class Initialized
+DEBUG - 2020-10-27 11:46:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:46:07 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:46:07 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:46:07 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:46:07 --> Controller Class Initialized
+INFO - 2020-10-27 11:46:07 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:46:07 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:46:07 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:46:07 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:46:07 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:46:07 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:46:07 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 11:46:07 --> Final output sent to browser
+DEBUG - 2020-10-27 11:46:07 --> Total execution time: 0.5276
+INFO - 2020-10-27 11:46:28 --> Config Class Initialized
+INFO - 2020-10-27 11:46:28 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:46:28 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:46:28 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:46:28 --> URI Class Initialized
+INFO - 2020-10-27 11:46:28 --> Router Class Initialized
+INFO - 2020-10-27 11:46:28 --> Output Class Initialized
+INFO - 2020-10-27 11:46:28 --> Security Class Initialized
+DEBUG - 2020-10-27 11:46:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:46:28 --> Input Class Initialized
+INFO - 2020-10-27 11:46:28 --> Language Class Initialized
+INFO - 2020-10-27 11:46:28 --> Loader Class Initialized
+INFO - 2020-10-27 11:46:28 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:46:28 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:46:28 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:46:28 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:46:28 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:46:29 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:46:29 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:46:29 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:46:29 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:46:29 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:46:29 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:46:29 --> Email Class Initialized
+DEBUG - 2020-10-27 11:46:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:46:29 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:46:29 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:46:29 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:46:29 --> Controller Class Initialized
+INFO - 2020-10-27 11:46:29 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:46:29 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:46:29 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:46:29 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:46:29 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:46:29 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:46:29 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 11:46:30 --> Config Class Initialized
+INFO - 2020-10-27 11:46:30 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:46:30 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:46:30 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:46:30 --> URI Class Initialized
+INFO - 2020-10-27 11:46:30 --> Router Class Initialized
+INFO - 2020-10-27 11:46:30 --> Output Class Initialized
+INFO - 2020-10-27 11:46:30 --> Security Class Initialized
+DEBUG - 2020-10-27 11:46:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:46:30 --> Input Class Initialized
+INFO - 2020-10-27 11:46:30 --> Language Class Initialized
+INFO - 2020-10-27 11:46:30 --> Loader Class Initialized
+INFO - 2020-10-27 11:46:30 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:46:30 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:46:30 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:46:30 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:46:30 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:46:30 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:46:30 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:46:30 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:46:30 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:46:30 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:46:30 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:46:30 --> Email Class Initialized
+DEBUG - 2020-10-27 11:46:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:46:30 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:46:30 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:46:30 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:46:30 --> Controller Class Initialized
+INFO - 2020-10-27 11:46:30 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:46:30 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:46:30 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:46:30 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:46:30 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:46:30 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:46:30 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 11:46:30 --> Final output sent to browser
+DEBUG - 2020-10-27 11:46:30 --> Total execution time: 0.5277
+INFO - 2020-10-27 11:49:25 --> Config Class Initialized
+INFO - 2020-10-27 11:49:25 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:49:25 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:49:25 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:49:25 --> URI Class Initialized
+INFO - 2020-10-27 11:49:25 --> Router Class Initialized
+INFO - 2020-10-27 11:49:25 --> Output Class Initialized
+INFO - 2020-10-27 11:49:25 --> Security Class Initialized
+DEBUG - 2020-10-27 11:49:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:49:25 --> Input Class Initialized
+INFO - 2020-10-27 11:49:25 --> Language Class Initialized
+INFO - 2020-10-27 11:49:25 --> Loader Class Initialized
+INFO - 2020-10-27 11:49:25 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:49:25 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:49:25 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:49:25 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:49:25 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:49:25 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:49:25 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:49:25 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:49:25 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:49:25 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:49:25 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:49:25 --> Email Class Initialized
+DEBUG - 2020-10-27 11:49:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:49:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:49:25 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:49:25 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:49:25 --> Controller Class Initialized
+INFO - 2020-10-27 11:49:25 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:49:25 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:49:25 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:49:25 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:49:25 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:49:25 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:49:25 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 11:49:25 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 11:49:25 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 11:49:25 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 11:49:25 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 11:49:25 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 11:49:25 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 11:49:25 --> Could not find the language line "Price"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Price"
+INFO - 2020-10-27 11:49:26 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "2019"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:49:26 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 11:49:26 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 11:49:26 --> Final output sent to browser
+DEBUG - 2020-10-27 11:49:26 --> Total execution time: 1.6624
+INFO - 2020-10-27 11:49:58 --> Config Class Initialized
+INFO - 2020-10-27 11:49:58 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:49:58 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:49:58 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:49:58 --> URI Class Initialized
+INFO - 2020-10-27 11:49:58 --> Router Class Initialized
+INFO - 2020-10-27 11:49:58 --> Output Class Initialized
+INFO - 2020-10-27 11:49:58 --> Security Class Initialized
+DEBUG - 2020-10-27 11:49:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:49:58 --> Input Class Initialized
+INFO - 2020-10-27 11:49:58 --> Language Class Initialized
+INFO - 2020-10-27 11:49:58 --> Loader Class Initialized
+INFO - 2020-10-27 11:49:58 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:49:58 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:49:58 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:49:58 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:49:58 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:49:58 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:49:58 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:49:58 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:49:58 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:49:58 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:49:58 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:49:58 --> Email Class Initialized
+DEBUG - 2020-10-27 11:49:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:49:58 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:49:58 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:49:58 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:49:58 --> Controller Class Initialized
+INFO - 2020-10-27 11:49:58 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:49:58 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:49:58 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:49:58 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:49:58 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:49:58 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:49:58 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 11:49:58 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 11:49:58 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 11:49:58 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 11:49:58 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 11:49:58 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 11:49:58 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 11:49:58 --> Could not find the language line "Price"
+ERROR - 2020-10-27 11:49:58 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 11:49:58 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 11:49:58 --> Could not find the language line "Price"
+INFO - 2020-10-27 11:49:58 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 11:49:58 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 11:49:58 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 11:49:58 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 11:49:58 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 11:49:58 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 11:49:58 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:49:58 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 11:49:58 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 11:49:58 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 11:49:58 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:49:58 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 11:49:58 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 11:49:58 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 11:49:58 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 11:49:58 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 11:49:58 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "2019"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:49:59 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 11:49:59 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 11:49:59 --> Final output sent to browser
+DEBUG - 2020-10-27 11:49:59 --> Total execution time: 1.2807
+INFO - 2020-10-27 11:52:19 --> Config Class Initialized
+INFO - 2020-10-27 11:52:19 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:52:19 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:52:19 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:52:19 --> URI Class Initialized
+INFO - 2020-10-27 11:52:19 --> Router Class Initialized
+INFO - 2020-10-27 11:52:19 --> Output Class Initialized
+INFO - 2020-10-27 11:52:19 --> Security Class Initialized
+DEBUG - 2020-10-27 11:52:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:52:19 --> Input Class Initialized
+INFO - 2020-10-27 11:52:19 --> Language Class Initialized
+INFO - 2020-10-27 11:52:19 --> Loader Class Initialized
+INFO - 2020-10-27 11:52:19 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:52:19 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:52:19 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:52:19 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:52:19 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:52:19 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:52:19 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:52:19 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:52:19 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:52:19 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:52:19 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:52:19 --> Email Class Initialized
+DEBUG - 2020-10-27 11:52:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:52:19 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:52:19 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:52:19 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:52:19 --> Controller Class Initialized
+INFO - 2020-10-27 11:52:20 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:52:20 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:52:20 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:52:20 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:52:20 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:52:20 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:52:20 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Price"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Price"
+INFO - 2020-10-27 11:52:20 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "2019"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:52:20 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 11:52:20 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 11:52:20 --> Final output sent to browser
+DEBUG - 2020-10-27 11:52:21 --> Total execution time: 1.5279
+INFO - 2020-10-27 11:52:39 --> Config Class Initialized
+INFO - 2020-10-27 11:52:39 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:52:39 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:52:39 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:52:39 --> URI Class Initialized
+INFO - 2020-10-27 11:52:39 --> Router Class Initialized
+INFO - 2020-10-27 11:52:39 --> Output Class Initialized
+INFO - 2020-10-27 11:52:39 --> Security Class Initialized
+DEBUG - 2020-10-27 11:52:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:52:39 --> Input Class Initialized
+INFO - 2020-10-27 11:52:39 --> Language Class Initialized
+INFO - 2020-10-27 11:52:39 --> Loader Class Initialized
+INFO - 2020-10-27 11:52:39 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:52:39 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:52:39 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:52:39 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:52:39 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:52:39 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:52:39 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:52:39 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:52:39 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:52:39 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:52:39 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:52:39 --> Email Class Initialized
+DEBUG - 2020-10-27 11:52:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:52:39 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:52:39 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:52:39 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:52:39 --> Controller Class Initialized
+INFO - 2020-10-27 11:52:39 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:52:39 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:52:39 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:52:39 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:52:40 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:52:40 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:52:40 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 11:52:40 --> Config Class Initialized
+INFO - 2020-10-27 11:52:40 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:52:40 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:52:40 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:52:40 --> URI Class Initialized
+INFO - 2020-10-27 11:52:40 --> Router Class Initialized
+INFO - 2020-10-27 11:52:40 --> Output Class Initialized
+INFO - 2020-10-27 11:52:40 --> Security Class Initialized
+DEBUG - 2020-10-27 11:52:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:52:41 --> Input Class Initialized
+INFO - 2020-10-27 11:52:41 --> Language Class Initialized
+INFO - 2020-10-27 11:52:41 --> Loader Class Initialized
+INFO - 2020-10-27 11:52:41 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:52:41 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:52:41 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:52:41 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:52:41 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:52:41 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:52:41 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:52:41 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:52:41 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:52:41 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:52:41 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:52:41 --> Email Class Initialized
+DEBUG - 2020-10-27 11:52:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:52:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:52:41 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:52:41 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:52:41 --> Controller Class Initialized
+INFO - 2020-10-27 11:52:41 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:52:41 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:52:41 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:52:41 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:52:41 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:52:41 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:52:41 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 11:52:41 --> Final output sent to browser
+DEBUG - 2020-10-27 11:52:41 --> Total execution time: 0.5007
+INFO - 2020-10-27 11:54:10 --> Config Class Initialized
+INFO - 2020-10-27 11:54:10 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:54:10 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:54:10 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:54:10 --> URI Class Initialized
+INFO - 2020-10-27 11:54:10 --> Router Class Initialized
+INFO - 2020-10-27 11:54:10 --> Output Class Initialized
+INFO - 2020-10-27 11:54:10 --> Security Class Initialized
+DEBUG - 2020-10-27 11:54:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:54:10 --> Input Class Initialized
+INFO - 2020-10-27 11:54:10 --> Language Class Initialized
+INFO - 2020-10-27 11:54:10 --> Loader Class Initialized
+INFO - 2020-10-27 11:54:10 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:54:10 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:54:10 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:54:10 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:54:10 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:54:10 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:54:10 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:54:10 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:54:10 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:54:10 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:54:10 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:54:10 --> Email Class Initialized
+DEBUG - 2020-10-27 11:54:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:54:10 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:54:10 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:54:10 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:54:10 --> Controller Class Initialized
+INFO - 2020-10-27 11:54:10 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:54:10 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:54:10 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:54:10 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:54:10 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:54:10 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:54:10 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 11:54:10 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 11:54:10 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 11:54:10 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 11:54:10 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 11:54:10 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 11:54:10 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Price"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Price"
+INFO - 2020-10-27 11:54:11 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "2019"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:54:11 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 11:54:11 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 11:54:11 --> Final output sent to browser
+DEBUG - 2020-10-27 11:54:11 --> Total execution time: 1.5401
+INFO - 2020-10-27 11:55:25 --> Config Class Initialized
+INFO - 2020-10-27 11:55:25 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:55:25 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:55:25 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:55:26 --> URI Class Initialized
+INFO - 2020-10-27 11:55:26 --> Router Class Initialized
+INFO - 2020-10-27 11:55:26 --> Output Class Initialized
+INFO - 2020-10-27 11:55:26 --> Security Class Initialized
+DEBUG - 2020-10-27 11:55:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:55:26 --> Input Class Initialized
+INFO - 2020-10-27 11:55:26 --> Language Class Initialized
+INFO - 2020-10-27 11:55:26 --> Loader Class Initialized
+INFO - 2020-10-27 11:55:26 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:55:26 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:55:26 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:55:26 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:55:26 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:55:26 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:55:26 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:55:26 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:55:26 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:55:26 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:55:26 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:55:26 --> Email Class Initialized
+DEBUG - 2020-10-27 11:55:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:55:26 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:55:26 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:55:26 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:55:26 --> Controller Class Initialized
+INFO - 2020-10-27 11:55:26 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:55:26 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:55:26 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:55:26 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:55:26 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:55:26 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:55:26 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 11:55:26 --> Helper loaded: get_so_po_no_helper
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Slaes_order_add"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Sales_order_list"
+INFO - 2020-10-27 11:55:26 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/not_permisson_page.php
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 11:55:26 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 11:55:27 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 11:55:27 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 11:55:27 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:55:27 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 11:55:27 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 11:55:27 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 11:55:27 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 11:55:27 --> Could not find the language line "2019"
+ERROR - 2020-10-27 11:55:27 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:55:27 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 11:55:27 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 11:55:27 --> Final output sent to browser
+DEBUG - 2020-10-27 11:55:27 --> Total execution time: 1.1826
+INFO - 2020-10-27 11:57:04 --> Config Class Initialized
+INFO - 2020-10-27 11:57:04 --> Hooks Class Initialized
+DEBUG - 2020-10-27 11:57:04 --> UTF-8 Support Enabled
+INFO - 2020-10-27 11:57:04 --> Utf8 Class Initialized
+INFO - 2020-10-27 11:57:04 --> URI Class Initialized
+INFO - 2020-10-27 11:57:04 --> Router Class Initialized
+INFO - 2020-10-27 11:57:04 --> Output Class Initialized
+INFO - 2020-10-27 11:57:04 --> Security Class Initialized
+DEBUG - 2020-10-27 11:57:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 11:57:04 --> Input Class Initialized
+INFO - 2020-10-27 11:57:04 --> Language Class Initialized
+INFO - 2020-10-27 11:57:04 --> Loader Class Initialized
+INFO - 2020-10-27 11:57:04 --> Helper loaded: url_helper
+INFO - 2020-10-27 11:57:04 --> Helper loaded: file_helper
+INFO - 2020-10-27 11:57:04 --> Helper loaded: utility_helper
+INFO - 2020-10-27 11:57:04 --> Helper loaded: unit_helper
+INFO - 2020-10-27 11:57:04 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 11:57:04 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 11:57:04 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 11:57:04 --> Helper loaded: site_helper
+INFO - 2020-10-27 11:57:04 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 11:57:04 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 11:57:04 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:57:04 --> Email Class Initialized
+DEBUG - 2020-10-27 11:57:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 11:57:04 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 11:57:04 --> Helper loaded: form_helper
+INFO - 2020-10-27 11:57:04 --> Form Validation Class Initialized
+INFO - 2020-10-27 11:57:04 --> Controller Class Initialized
+INFO - 2020-10-27 11:57:04 --> Model "Common_model" initialized
+INFO - 2020-10-27 11:57:04 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 11:57:04 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 11:57:04 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 11:57:04 --> Database Driver Class Initialized
+INFO - 2020-10-27 11:57:04 --> Helper loaded: language_helper
+INFO - 2020-10-27 11:57:04 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 11:57:04 --> Helper loaded: sales_invoice_no_helper
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Price"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Price"
+INFO - 2020-10-27 11:57:05 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 11:57:05 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 11:57:06 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 11:57:06 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 11:57:06 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 11:57:06 --> Could not find the language line "2019"
+ERROR - 2020-10-27 11:57:06 --> Could not find the language line "Report"
+ERROR - 2020-10-27 11:57:06 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 11:57:06 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 11:57:06 --> Final output sent to browser
+DEBUG - 2020-10-27 11:57:06 --> Total execution time: 1.8815
+INFO - 2020-10-27 12:07:55 --> Config Class Initialized
+INFO - 2020-10-27 12:07:55 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:07:55 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:07:55 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:07:55 --> URI Class Initialized
+INFO - 2020-10-27 12:07:55 --> Router Class Initialized
+INFO - 2020-10-27 12:07:55 --> Output Class Initialized
+INFO - 2020-10-27 12:07:56 --> Security Class Initialized
+DEBUG - 2020-10-27 12:07:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:07:56 --> Input Class Initialized
+INFO - 2020-10-27 12:07:56 --> Language Class Initialized
+INFO - 2020-10-27 12:07:56 --> Loader Class Initialized
+INFO - 2020-10-27 12:07:56 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:07:56 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:07:56 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:07:56 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:07:56 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:07:56 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:07:56 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:07:56 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:07:56 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:07:56 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:07:56 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:07:56 --> Email Class Initialized
+DEBUG - 2020-10-27 12:07:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:07:56 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:07:56 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:07:56 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:07:56 --> Controller Class Initialized
+INFO - 2020-10-27 12:07:56 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:07:56 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:07:56 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:07:56 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:07:56 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:07:56 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:07:56 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 12:07:56 --> Helper loaded: manufacturing_no_helper
+ERROR - 2020-10-27 12:07:56 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 12:07:56 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:07:56 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:07:56 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 12:07:56 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 12:07:56 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Price"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Price"
+INFO - 2020-10-27 12:07:57 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:07:57 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:07:58 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:07:58 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:07:58 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:07:58 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:07:58 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:07:58 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:07:58 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:07:58 --> Final output sent to browser
+DEBUG - 2020-10-27 12:07:58 --> Total execution time: 3.2156
+INFO - 2020-10-27 12:10:20 --> Config Class Initialized
+INFO - 2020-10-27 12:10:20 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:10:20 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:10:20 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:10:20 --> URI Class Initialized
+INFO - 2020-10-27 12:10:20 --> Router Class Initialized
+INFO - 2020-10-27 12:10:20 --> Output Class Initialized
+INFO - 2020-10-27 12:10:20 --> Security Class Initialized
+DEBUG - 2020-10-27 12:10:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:10:20 --> Input Class Initialized
+INFO - 2020-10-27 12:10:21 --> Language Class Initialized
+INFO - 2020-10-27 12:10:21 --> Loader Class Initialized
+INFO - 2020-10-27 12:10:21 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:10:21 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:10:21 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:10:21 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:10:21 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:10:21 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:10:21 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:10:21 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:10:21 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:10:21 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:10:21 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:10:21 --> Email Class Initialized
+DEBUG - 2020-10-27 12:10:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:10:21 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:10:21 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:10:21 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:10:21 --> Controller Class Initialized
+INFO - 2020-10-27 12:10:21 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:10:21 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:10:21 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:10:21 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:10:21 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:10:21 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:10:21 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 12:10:21 --> Helper loaded: create_inventory_adjustment_no_helper
+ERROR - 2020-10-27 12:10:21 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 12:10:21 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:10:21 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:10:21 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 12:10:21 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 12:10:21 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:10:21 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:10:21 --> Could not find the language line "Price"
+ERROR - 2020-10-27 12:10:21 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:10:21 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:10:21 --> Could not find the language line "Price"
+INFO - 2020-10-27 12:10:21 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 12:10:21 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:10:21 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:10:21 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:10:21 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:10:21 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:10:22 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:10:22 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:10:22 --> Final output sent to browser
+DEBUG - 2020-10-27 12:10:22 --> Total execution time: 2.2816
+INFO - 2020-10-27 12:11:33 --> Config Class Initialized
+INFO - 2020-10-27 12:11:33 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:11:33 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:11:33 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:11:33 --> URI Class Initialized
+INFO - 2020-10-27 12:11:33 --> Router Class Initialized
+INFO - 2020-10-27 12:11:33 --> Output Class Initialized
+INFO - 2020-10-27 12:11:33 --> Security Class Initialized
+DEBUG - 2020-10-27 12:11:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:11:33 --> Input Class Initialized
+INFO - 2020-10-27 12:11:33 --> Language Class Initialized
+INFO - 2020-10-27 12:11:33 --> Loader Class Initialized
+INFO - 2020-10-27 12:11:33 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:11:33 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:11:33 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:11:33 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:11:33 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:11:33 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:11:33 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:11:33 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:11:33 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:11:33 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:11:33 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:11:33 --> Email Class Initialized
+DEBUG - 2020-10-27 12:11:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:11:33 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:11:33 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:11:33 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:11:33 --> Controller Class Initialized
+INFO - 2020-10-27 12:11:33 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:11:33 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:11:33 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:11:33 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:11:33 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:11:33 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:11:33 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 12:11:33 --> Helper loaded: manufacturing_no_helper
+ERROR - 2020-10-27 12:11:33 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 12:11:33 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:11:33 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Price"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Price"
+INFO - 2020-10-27 12:11:34 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:11:34 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:11:34 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:11:34 --> Final output sent to browser
+DEBUG - 2020-10-27 12:11:34 --> Total execution time: 1.4306
+INFO - 2020-10-27 12:14:43 --> Config Class Initialized
+INFO - 2020-10-27 12:14:43 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:14:43 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:14:43 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:14:43 --> URI Class Initialized
+INFO - 2020-10-27 12:14:43 --> Router Class Initialized
+INFO - 2020-10-27 12:14:43 --> Output Class Initialized
+INFO - 2020-10-27 12:14:43 --> Security Class Initialized
+DEBUG - 2020-10-27 12:14:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:14:43 --> Input Class Initialized
+INFO - 2020-10-27 12:14:43 --> Language Class Initialized
+INFO - 2020-10-27 12:14:43 --> Loader Class Initialized
+INFO - 2020-10-27 12:14:43 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:14:43 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:14:43 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:14:43 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:14:43 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:14:43 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:14:43 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:14:43 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:14:43 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:14:43 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:14:44 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:14:44 --> Email Class Initialized
+DEBUG - 2020-10-27 12:14:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:14:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:14:44 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:14:44 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:14:44 --> Controller Class Initialized
+INFO - 2020-10-27 12:14:44 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:14:44 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:14:44 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:14:44 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:14:44 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:14:44 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:14:44 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 12:14:44 --> Helper loaded: manufacturing_no_helper
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Price"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Price"
+INFO - 2020-10-27 12:14:44 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:14:44 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:14:45 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:14:45 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:14:45 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:14:45 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:14:45 --> Final output sent to browser
+DEBUG - 2020-10-27 12:14:45 --> Total execution time: 1.3992
+INFO - 2020-10-27 12:14:52 --> Config Class Initialized
+INFO - 2020-10-27 12:14:52 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:14:52 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:14:52 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:14:52 --> URI Class Initialized
+INFO - 2020-10-27 12:14:52 --> Router Class Initialized
+INFO - 2020-10-27 12:14:52 --> Output Class Initialized
+INFO - 2020-10-27 12:14:52 --> Security Class Initialized
+DEBUG - 2020-10-27 12:14:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:14:52 --> Input Class Initialized
+INFO - 2020-10-27 12:14:52 --> Language Class Initialized
+INFO - 2020-10-27 12:14:52 --> Loader Class Initialized
+INFO - 2020-10-27 12:14:52 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:14:52 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:14:52 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:14:52 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:14:52 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:14:52 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:14:52 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:14:52 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:14:52 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:14:52 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:14:52 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:14:52 --> Email Class Initialized
+DEBUG - 2020-10-27 12:14:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:14:52 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:14:52 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:14:52 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:14:52 --> Controller Class Initialized
+INFO - 2020-10-27 12:14:52 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:14:52 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:14:52 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:14:52 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:14:53 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:14:53 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:14:53 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 12:14:54 --> Config Class Initialized
+INFO - 2020-10-27 12:14:54 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:14:54 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:14:54 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:14:54 --> URI Class Initialized
+INFO - 2020-10-27 12:14:54 --> Router Class Initialized
+INFO - 2020-10-27 12:14:54 --> Output Class Initialized
+INFO - 2020-10-27 12:14:54 --> Security Class Initialized
+DEBUG - 2020-10-27 12:14:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:14:54 --> Input Class Initialized
+INFO - 2020-10-27 12:14:54 --> Language Class Initialized
+INFO - 2020-10-27 12:14:54 --> Loader Class Initialized
+INFO - 2020-10-27 12:14:54 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:14:54 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:14:54 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:14:54 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:14:54 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:14:54 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:14:54 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:14:54 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:14:54 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:14:54 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:14:54 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:14:54 --> Email Class Initialized
+DEBUG - 2020-10-27 12:14:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:14:54 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:14:54 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:14:54 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:14:54 --> Controller Class Initialized
+INFO - 2020-10-27 12:14:54 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:14:54 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:14:54 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:14:54 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:14:54 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:14:54 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:14:54 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 12:14:54 --> Final output sent to browser
+DEBUG - 2020-10-27 12:14:54 --> Total execution time: 0.5244
+INFO - 2020-10-27 12:15:13 --> Config Class Initialized
+INFO - 2020-10-27 12:15:13 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:15:13 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:15:13 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:15:13 --> URI Class Initialized
+INFO - 2020-10-27 12:15:13 --> Router Class Initialized
+INFO - 2020-10-27 12:15:14 --> Output Class Initialized
+INFO - 2020-10-27 12:15:14 --> Security Class Initialized
+DEBUG - 2020-10-27 12:15:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:15:14 --> Input Class Initialized
+INFO - 2020-10-27 12:15:14 --> Language Class Initialized
+INFO - 2020-10-27 12:15:14 --> Loader Class Initialized
+INFO - 2020-10-27 12:15:14 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:15:14 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:15:14 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:15:14 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:15:14 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:15:14 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:15:14 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:15:14 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:15:14 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:15:14 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:15:14 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:15:14 --> Email Class Initialized
+DEBUG - 2020-10-27 12:15:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:15:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:15:14 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:15:14 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:15:14 --> Controller Class Initialized
+INFO - 2020-10-27 12:15:14 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:15:14 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:15:14 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:15:14 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:15:14 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:15:14 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:15:14 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 12:15:17 --> Config Class Initialized
+INFO - 2020-10-27 12:15:17 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:15:17 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:15:17 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:15:17 --> URI Class Initialized
+INFO - 2020-10-27 12:15:17 --> Router Class Initialized
+INFO - 2020-10-27 12:15:17 --> Output Class Initialized
+INFO - 2020-10-27 12:15:17 --> Security Class Initialized
+DEBUG - 2020-10-27 12:15:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:15:17 --> Input Class Initialized
+INFO - 2020-10-27 12:15:17 --> Language Class Initialized
+INFO - 2020-10-27 12:15:17 --> Loader Class Initialized
+INFO - 2020-10-27 12:15:17 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:15:17 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:15:17 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:15:17 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:15:17 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:15:17 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:15:17 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:15:17 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:15:17 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:15:17 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:15:17 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:15:17 --> Email Class Initialized
+DEBUG - 2020-10-27 12:15:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:15:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:15:17 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:15:17 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:15:17 --> Controller Class Initialized
+INFO - 2020-10-27 12:15:17 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:15:17 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:15:17 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:15:17 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:15:17 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:15:17 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:15:17 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 12:15:17 --> Final output sent to browser
+DEBUG - 2020-10-27 12:15:17 --> Total execution time: 0.4761
+INFO - 2020-10-27 12:15:30 --> Config Class Initialized
+INFO - 2020-10-27 12:15:30 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:15:30 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:15:30 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:15:30 --> URI Class Initialized
+INFO - 2020-10-27 12:15:30 --> Router Class Initialized
+INFO - 2020-10-27 12:15:30 --> Output Class Initialized
+INFO - 2020-10-27 12:15:30 --> Security Class Initialized
+DEBUG - 2020-10-27 12:15:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:15:30 --> Input Class Initialized
+INFO - 2020-10-27 12:15:30 --> Language Class Initialized
+INFO - 2020-10-27 12:15:30 --> Loader Class Initialized
+INFO - 2020-10-27 12:15:30 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:15:30 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:15:30 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:15:30 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:15:30 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:15:30 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:15:30 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:15:30 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:15:30 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:15:30 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:15:30 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:15:30 --> Email Class Initialized
+DEBUG - 2020-10-27 12:15:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:15:30 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:15:30 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:15:30 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:15:30 --> Controller Class Initialized
+INFO - 2020-10-27 12:15:30 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:15:30 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:15:30 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:15:30 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:15:30 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:15:30 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:15:30 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 12:15:30 --> Helper loaded: manufacturing_no_helper
+INFO - 2020-10-27 12:15:31 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-10-27 12:15:31 --> Config Class Initialized
+INFO - 2020-10-27 12:15:31 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:15:31 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:15:31 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:15:31 --> URI Class Initialized
+INFO - 2020-10-27 12:15:31 --> Router Class Initialized
+INFO - 2020-10-27 12:15:31 --> Output Class Initialized
+INFO - 2020-10-27 12:15:31 --> Security Class Initialized
+DEBUG - 2020-10-27 12:15:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:15:31 --> Input Class Initialized
+INFO - 2020-10-27 12:15:31 --> Language Class Initialized
+INFO - 2020-10-27 12:15:31 --> Loader Class Initialized
+INFO - 2020-10-27 12:15:31 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:15:31 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:15:31 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:15:31 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:15:31 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:15:31 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:15:31 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:15:31 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:15:31 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:15:31 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:15:31 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:15:31 --> Email Class Initialized
+DEBUG - 2020-10-27 12:15:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:15:31 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:15:31 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:15:31 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:15:31 --> Controller Class Initialized
+INFO - 2020-10-27 12:15:31 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:15:31 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:15:31 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:15:31 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:15:31 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:15:31 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:15:31 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 12:15:31 --> Could not find the language line "Inventory_Adjustment_View"
+ERROR - 2020-10-27 12:15:31 --> Could not find the language line "Inventory_Adjustment_List"
+ERROR - 2020-10-27 12:15:31 --> Could not find the language line "Inventory_Adjustment_List"
+ERROR - 2020-10-27 12:15:31 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:15:31 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:15:31 --> Could not find the language line "Price"
+ERROR - 2020-10-27 12:15:31 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:15:31 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:15:31 --> Could not find the language line "Price"
+INFO - 2020-10-27 12:15:31 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/InventoryAdjustment/invoiceAdjustmentShow.php
+ERROR - 2020-10-27 12:15:31 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:15:31 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:15:31 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:15:32 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:15:32 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:15:32 --> Final output sent to browser
+DEBUG - 2020-10-27 12:15:32 --> Total execution time: 1.2891
+INFO - 2020-10-27 12:24:44 --> Config Class Initialized
+INFO - 2020-10-27 12:24:44 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:24:44 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:24:44 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:24:44 --> URI Class Initialized
+INFO - 2020-10-27 12:24:45 --> Router Class Initialized
+INFO - 2020-10-27 12:24:45 --> Output Class Initialized
+INFO - 2020-10-27 12:24:45 --> Security Class Initialized
+DEBUG - 2020-10-27 12:24:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:24:45 --> Input Class Initialized
+INFO - 2020-10-27 12:24:45 --> Language Class Initialized
+INFO - 2020-10-27 12:24:45 --> Loader Class Initialized
+INFO - 2020-10-27 12:24:45 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:24:45 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:24:45 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:24:45 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:24:45 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:24:45 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:24:45 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:24:45 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:24:45 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:24:45 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:24:45 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:24:45 --> Email Class Initialized
+DEBUG - 2020-10-27 12:24:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:24:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:24:45 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:24:45 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:24:45 --> Controller Class Initialized
+INFO - 2020-10-27 12:24:45 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:24:45 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:24:45 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:24:45 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:24:45 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:24:45 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:24:45 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 12:24:45 --> Helper loaded: manufacturing_no_helper
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Price"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Price"
+INFO - 2020-10-27 12:24:45 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:24:45 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:24:46 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:24:46 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:24:46 --> Final output sent to browser
+DEBUG - 2020-10-27 12:24:46 --> Total execution time: 1.4822
+INFO - 2020-10-27 12:24:50 --> Config Class Initialized
+INFO - 2020-10-27 12:24:50 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:24:50 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:24:50 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:24:50 --> URI Class Initialized
+INFO - 2020-10-27 12:24:50 --> Router Class Initialized
+INFO - 2020-10-27 12:24:50 --> Output Class Initialized
+INFO - 2020-10-27 12:24:50 --> Security Class Initialized
+DEBUG - 2020-10-27 12:24:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:24:50 --> Input Class Initialized
+INFO - 2020-10-27 12:24:50 --> Language Class Initialized
+INFO - 2020-10-27 12:24:50 --> Loader Class Initialized
+INFO - 2020-10-27 12:24:50 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:24:50 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:24:50 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:24:50 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:24:50 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:24:50 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:24:50 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:24:50 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:24:50 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:24:50 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:24:50 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:24:50 --> Email Class Initialized
+DEBUG - 2020-10-27 12:24:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:24:51 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:24:51 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:24:51 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:24:51 --> Controller Class Initialized
+INFO - 2020-10-27 12:24:51 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:24:51 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:24:51 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:24:51 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:24:51 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:24:51 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:24:51 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Manufacturing_Add"
+INFO - 2020-10-27 12:24:51 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingList.php
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:24:51 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:24:51 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:24:51 --> Final output sent to browser
+DEBUG - 2020-10-27 12:24:52 --> Total execution time: 1.4225
+INFO - 2020-10-27 12:25:03 --> Config Class Initialized
+INFO - 2020-10-27 12:25:03 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:25:03 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:25:03 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:25:03 --> URI Class Initialized
+INFO - 2020-10-27 12:25:03 --> Router Class Initialized
+INFO - 2020-10-27 12:25:03 --> Output Class Initialized
+INFO - 2020-10-27 12:25:03 --> Security Class Initialized
+DEBUG - 2020-10-27 12:25:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:25:03 --> Input Class Initialized
+INFO - 2020-10-27 12:25:03 --> Language Class Initialized
+INFO - 2020-10-27 12:25:03 --> Loader Class Initialized
+INFO - 2020-10-27 12:25:03 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:25:03 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:25:03 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:25:03 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:25:03 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:25:03 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:25:03 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:25:03 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:25:04 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:25:04 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:25:04 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:25:04 --> Email Class Initialized
+DEBUG - 2020-10-27 12:25:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:25:04 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:25:04 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:25:04 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:25:04 --> Controller Class Initialized
+INFO - 2020-10-27 12:25:04 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:25:04 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:25:04 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:25:04 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:25:04 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:25:04 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:25:04 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Inventory_Adjustment_View"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Inventory_Adjustment_List"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Inventory_Adjustment_List"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Price"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Price"
+INFO - 2020-10-27 12:25:04 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/InventoryAdjustment/invoiceAdjustmentShow.php
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:25:04 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:25:04 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:25:04 --> Final output sent to browser
+DEBUG - 2020-10-27 12:25:05 --> Total execution time: 1.3006
+INFO - 2020-10-27 12:25:09 --> Config Class Initialized
+INFO - 2020-10-27 12:25:09 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:25:09 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:25:09 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:25:09 --> URI Class Initialized
+INFO - 2020-10-27 12:25:09 --> Router Class Initialized
+INFO - 2020-10-27 12:25:09 --> Output Class Initialized
+INFO - 2020-10-27 12:25:09 --> Security Class Initialized
+DEBUG - 2020-10-27 12:25:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:25:09 --> Input Class Initialized
+INFO - 2020-10-27 12:25:09 --> Language Class Initialized
+INFO - 2020-10-27 12:25:09 --> Loader Class Initialized
+INFO - 2020-10-27 12:25:09 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:25:09 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:25:09 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:25:09 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:25:09 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:25:09 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:25:09 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:25:09 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:25:09 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:25:09 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:25:09 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:25:09 --> Email Class Initialized
+DEBUG - 2020-10-27 12:25:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:25:09 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:25:09 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:25:09 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:25:09 --> Controller Class Initialized
+INFO - 2020-10-27 12:25:09 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:25:09 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:25:09 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:25:09 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:25:09 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:25:09 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:25:09 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Manufacturing_Add"
+INFO - 2020-10-27 12:25:09 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingList.php
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:25:09 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:25:10 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:25:10 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:25:10 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:25:10 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:25:10 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:25:10 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:25:10 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:25:10 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:25:10 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:25:10 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:25:10 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:25:10 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:25:10 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:25:10 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:25:10 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:25:10 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:25:10 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:25:10 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:25:10 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:25:10 --> Final output sent to browser
+DEBUG - 2020-10-27 12:25:10 --> Total execution time: 1.1597
+INFO - 2020-10-27 12:26:16 --> Config Class Initialized
+INFO - 2020-10-27 12:26:16 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:26:16 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:26:16 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:26:16 --> URI Class Initialized
+INFO - 2020-10-27 12:26:16 --> Router Class Initialized
+INFO - 2020-10-27 12:26:16 --> Output Class Initialized
+INFO - 2020-10-27 12:26:16 --> Security Class Initialized
+DEBUG - 2020-10-27 12:26:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:26:16 --> Input Class Initialized
+INFO - 2020-10-27 12:26:16 --> Language Class Initialized
+INFO - 2020-10-27 12:26:16 --> Loader Class Initialized
+INFO - 2020-10-27 12:26:16 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:26:16 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:26:16 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:26:16 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:26:16 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:26:16 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:26:16 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:26:16 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:26:16 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:26:16 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:26:16 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:26:16 --> Email Class Initialized
+DEBUG - 2020-10-27 12:26:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:26:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:26:16 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:26:16 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:26:16 --> Controller Class Initialized
+INFO - 2020-10-27 12:26:16 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:26:16 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:26:16 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:26:16 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:26:16 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:26:16 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:26:16 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 12:26:16 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:26:16 --> Could not find the language line "Manufacturing_Add"
+INFO - 2020-10-27 12:26:16 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingList.php
+ERROR - 2020-10-27 12:26:16 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:26:16 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:26:16 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:26:16 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:26:16 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:26:16 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:26:16 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:26:16 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:26:16 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:26:16 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:26:16 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:26:17 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:26:17 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:26:17 --> Final output sent to browser
+DEBUG - 2020-10-27 12:26:17 --> Total execution time: 1.1763
+INFO - 2020-10-27 12:26:19 --> Config Class Initialized
+INFO - 2020-10-27 12:26:19 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:26:19 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:26:19 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:26:20 --> URI Class Initialized
+INFO - 2020-10-27 12:26:20 --> Router Class Initialized
+INFO - 2020-10-27 12:26:20 --> Output Class Initialized
+INFO - 2020-10-27 12:26:20 --> Security Class Initialized
+DEBUG - 2020-10-27 12:26:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:26:20 --> Input Class Initialized
+INFO - 2020-10-27 12:26:20 --> Language Class Initialized
+INFO - 2020-10-27 12:26:20 --> Loader Class Initialized
+INFO - 2020-10-27 12:26:20 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:26:20 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:26:20 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:26:20 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:26:20 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:26:20 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:26:20 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:26:20 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:26:20 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:26:21 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:26:21 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:26:21 --> Email Class Initialized
+DEBUG - 2020-10-27 12:26:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:26:21 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:26:21 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:26:21 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:26:21 --> Controller Class Initialized
+INFO - 2020-10-27 12:26:21 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:26:21 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:26:21 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:26:21 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:26:21 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:26:21 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:26:21 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Price"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Price"
+INFO - 2020-10-27 12:26:21 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:26:21 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:26:21 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:26:21 --> Final output sent to browser
+DEBUG - 2020-10-27 12:26:21 --> Total execution time: 2.1854
+INFO - 2020-10-27 12:31:42 --> Config Class Initialized
+INFO - 2020-10-27 12:31:42 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:31:42 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:31:42 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:31:42 --> URI Class Initialized
+INFO - 2020-10-27 12:31:42 --> Router Class Initialized
+INFO - 2020-10-27 12:31:42 --> Output Class Initialized
+INFO - 2020-10-27 12:31:42 --> Security Class Initialized
+DEBUG - 2020-10-27 12:31:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:31:42 --> Input Class Initialized
+INFO - 2020-10-27 12:31:43 --> Language Class Initialized
+INFO - 2020-10-27 12:31:43 --> Loader Class Initialized
+INFO - 2020-10-27 12:31:43 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:31:43 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:31:43 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:31:43 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:31:43 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:31:43 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:31:43 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:31:43 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:31:43 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:31:43 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:31:43 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:31:43 --> Email Class Initialized
+DEBUG - 2020-10-27 12:31:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:31:43 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:31:43 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:31:43 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:31:43 --> Controller Class Initialized
+INFO - 2020-10-27 12:31:43 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:31:43 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:31:43 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:31:43 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:31:43 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:31:43 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:31:43 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Price"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Price"
+INFO - 2020-10-27 12:31:43 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:31:43 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:31:44 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:31:44 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:31:44 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:31:44 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:31:44 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:31:44 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:31:44 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:31:44 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:31:44 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:31:44 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:31:44 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:31:44 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:31:44 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:31:44 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:31:44 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:31:44 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:31:44 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:31:44 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:31:44 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:31:44 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:31:44 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:31:44 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:31:44 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:31:44 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:31:44 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:31:44 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:31:44 --> Final output sent to browser
+DEBUG - 2020-10-27 12:31:44 --> Total execution time: 1.6304
+INFO - 2020-10-27 12:32:52 --> Config Class Initialized
+INFO - 2020-10-27 12:32:52 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:32:52 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:32:52 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:32:52 --> URI Class Initialized
+INFO - 2020-10-27 12:32:52 --> Router Class Initialized
+INFO - 2020-10-27 12:32:52 --> Output Class Initialized
+INFO - 2020-10-27 12:32:52 --> Security Class Initialized
+DEBUG - 2020-10-27 12:32:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:32:52 --> Input Class Initialized
+INFO - 2020-10-27 12:32:52 --> Language Class Initialized
+INFO - 2020-10-27 12:32:52 --> Loader Class Initialized
+INFO - 2020-10-27 12:32:52 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:32:52 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:32:52 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:32:52 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:32:52 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:32:52 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:32:52 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:32:52 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:32:52 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:32:53 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:32:53 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:32:53 --> Email Class Initialized
+DEBUG - 2020-10-27 12:32:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:32:53 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:32:53 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:32:53 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:32:53 --> Controller Class Initialized
+INFO - 2020-10-27 12:32:53 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:32:53 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:32:53 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:32:53 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:32:53 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:32:53 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:32:53 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Price"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Price"
+INFO - 2020-10-27 12:32:53 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:32:53 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:32:53 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:32:53 --> Final output sent to browser
+DEBUG - 2020-10-27 12:32:53 --> Total execution time: 1.2035
+INFO - 2020-10-27 12:33:15 --> Config Class Initialized
+INFO - 2020-10-27 12:33:15 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:33:15 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:33:15 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:33:15 --> URI Class Initialized
+INFO - 2020-10-27 12:33:15 --> Router Class Initialized
+INFO - 2020-10-27 12:33:15 --> Output Class Initialized
+INFO - 2020-10-27 12:33:15 --> Security Class Initialized
+DEBUG - 2020-10-27 12:33:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:33:15 --> Input Class Initialized
+INFO - 2020-10-27 12:33:15 --> Language Class Initialized
+INFO - 2020-10-27 12:33:15 --> Loader Class Initialized
+INFO - 2020-10-27 12:33:16 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:33:16 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:33:16 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:33:16 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:33:16 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:33:16 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:33:16 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:33:16 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:33:16 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:33:16 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:33:16 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:33:16 --> Email Class Initialized
+DEBUG - 2020-10-27 12:33:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:33:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:33:16 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:33:16 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:33:16 --> Controller Class Initialized
+INFO - 2020-10-27 12:33:16 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:33:16 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:33:16 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:33:16 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:33:16 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:33:16 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:33:16 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 12:33:16 --> Helper loaded: get_so_po_no_helper
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Slaes_order_add"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Sales_order_list"
+INFO - 2020-10-27 12:33:16 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/not_permisson_page.php
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:33:16 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:33:17 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:33:17 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:33:17 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:33:17 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:33:17 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:33:17 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:33:17 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:33:17 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:33:17 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:33:17 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:33:17 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:33:17 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:33:17 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:33:17 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:33:17 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:33:17 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:33:17 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:33:17 --> Final output sent to browser
+DEBUG - 2020-10-27 12:33:17 --> Total execution time: 1.5417
+INFO - 2020-10-27 12:33:20 --> Config Class Initialized
+INFO - 2020-10-27 12:33:20 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:33:20 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:33:20 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:33:20 --> URI Class Initialized
+INFO - 2020-10-27 12:33:20 --> Router Class Initialized
+INFO - 2020-10-27 12:33:20 --> Output Class Initialized
+INFO - 2020-10-27 12:33:20 --> Security Class Initialized
+DEBUG - 2020-10-27 12:33:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:33:20 --> Input Class Initialized
+INFO - 2020-10-27 12:33:20 --> Language Class Initialized
+INFO - 2020-10-27 12:33:20 --> Loader Class Initialized
+INFO - 2020-10-27 12:33:20 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:33:20 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:33:20 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:33:20 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:33:20 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:33:20 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:33:20 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:33:20 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:33:20 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:33:20 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:33:20 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:33:20 --> Email Class Initialized
+DEBUG - 2020-10-27 12:33:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:33:20 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:33:20 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:33:20 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:33:20 --> Controller Class Initialized
+INFO - 2020-10-27 12:33:20 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:33:20 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:33:21 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:33:21 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:33:21 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:33:21 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:33:21 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 12:33:21 --> Could not find the language line "Sales_order_list"
+ERROR - 2020-10-27 12:33:21 --> Could not find the language line "New_Sale_Order"
+ERROR - 2020-10-27 12:33:21 --> Could not find the language line "SO_ID"
+ERROR - 2020-10-27 12:33:21 --> Could not find the language line "Delivery_date"
+ERROR - 2020-10-27 12:33:21 --> Could not find the language line "User_name"
+INFO - 2020-10-27 12:33:22 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/sales_order/sales_order_list.php
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:33:22 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:33:22 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:33:22 --> Final output sent to browser
+DEBUG - 2020-10-27 12:33:22 --> Total execution time: 2.4084
+INFO - 2020-10-27 12:33:23 --> Config Class Initialized
+INFO - 2020-10-27 12:33:23 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:33:23 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:33:23 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:33:23 --> URI Class Initialized
+INFO - 2020-10-27 12:33:23 --> Router Class Initialized
+INFO - 2020-10-27 12:33:23 --> Output Class Initialized
+INFO - 2020-10-27 12:33:23 --> Security Class Initialized
+DEBUG - 2020-10-27 12:33:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:33:23 --> Input Class Initialized
+INFO - 2020-10-27 12:33:23 --> Language Class Initialized
+INFO - 2020-10-27 12:33:23 --> Loader Class Initialized
+INFO - 2020-10-27 12:33:23 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:33:23 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:33:23 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:33:23 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:33:23 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:33:23 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:33:23 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:33:23 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:33:23 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:33:23 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:33:23 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:33:23 --> Email Class Initialized
+DEBUG - 2020-10-27 12:33:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:33:23 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:33:23 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:33:23 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:33:23 --> Controller Class Initialized
+INFO - 2020-10-27 12:33:23 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:33:23 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:33:23 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:33:23 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:33:23 --> Model "ServerFilterModel" initialized
+INFO - 2020-10-27 12:33:23 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:33:23 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:33:23 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 12:33:24 --> ReturnDamageModel SELECT `so_po_info`.`id`, `so_po_info`.`so_po_no`, `so_po_info`.`status`, `so_po_info`.`narration`, DATE_FORMAT(so_po_info.so_po_date, '%b %e, %Y') as so_po_date, DATE_FORMAT(so_po_info.delivery_date, '%b %e, %Y') as delivery_date, `customer`.`customerID`, `customer`.`customerName`, `customer`.`customer_id`, `admin`.`name`, GROUP_CONCAT(so_po_productes.property_1 SEPARATOR ', ') as property_1, GROUP_CONCAT(so_po_productes.property_2 SEPARATOR ', ') as property_2, GROUP_CONCAT(so_po_productes.property_3 SEPARATOR ', ') as property_3, GROUP_CONCAT(so_po_productes.property_4 SEPARATOR ', ') as property_4, GROUP_CONCAT(so_po_productes.property_5 SEPARATOR ', ')as property_5
+FROM `so_po_info`
+JOIN `customer` ON `customer`.`customer_id`=`so_po_info`.`customer_id`
+JOIN `so_po_productes` ON `so_po_productes`.`so_po_id`=`so_po_info`.`id`
+JOIN `admin` ON `admin`.`admin_id`=`so_po_info`.`insert_by`
+WHERE `so_po_info`.`is_active` = 'Y'
+AND `so_po_info`.`form_id` = '7'
+GROUP BY `so_po_info`.`id`
+ORDER BY `so_po_info`.`id` DESC, `so_po_info`.`so_po_date` DESC
+ LIMIT 10
+INFO - 2020-10-27 12:33:24 --> Final output sent to browser
+DEBUG - 2020-10-27 12:33:24 --> Total execution time: 1.0076
+INFO - 2020-10-27 12:33:26 --> Config Class Initialized
+INFO - 2020-10-27 12:33:26 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:33:26 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:33:26 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:33:26 --> URI Class Initialized
+INFO - 2020-10-27 12:33:26 --> Router Class Initialized
+INFO - 2020-10-27 12:33:26 --> Output Class Initialized
+INFO - 2020-10-27 12:33:26 --> Security Class Initialized
+DEBUG - 2020-10-27 12:33:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:33:26 --> Input Class Initialized
+INFO - 2020-10-27 12:33:26 --> Language Class Initialized
+INFO - 2020-10-27 12:33:26 --> Loader Class Initialized
+INFO - 2020-10-27 12:33:26 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:33:26 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:33:26 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:33:26 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:33:26 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:33:26 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:33:26 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:33:26 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:33:26 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:33:26 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:33:26 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:33:26 --> Email Class Initialized
+DEBUG - 2020-10-27 12:33:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:33:26 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:33:26 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:33:26 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:33:26 --> Controller Class Initialized
+INFO - 2020-10-27 12:33:26 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:33:26 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:33:26 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:33:26 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:33:26 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:33:26 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:33:26 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 12:33:26 --> Could not find the language line "Sale_Order_View"
+ERROR - 2020-10-27 12:33:26 --> Could not find the language line "New_Sales_Order"
+ERROR - 2020-10-27 12:33:26 --> Could not find the language line "Sales_Order_List"
+ERROR - 2020-10-27 12:33:26 --> Could not find the language line "Sale_Order_Edit"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Soles_order_No"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Sales_Order_Info"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Sales_Order_Info"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Order_Date"
+INFO - 2020-10-27 12:33:27 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/sales_order/sales_order_view.php
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:33:27 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:33:27 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:33:27 --> Final output sent to browser
+DEBUG - 2020-10-27 12:33:27 --> Total execution time: 1.4907
+INFO - 2020-10-27 12:33:28 --> Config Class Initialized
+INFO - 2020-10-27 12:33:28 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:33:28 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:33:28 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:39:13 --> Config Class Initialized
+INFO - 2020-10-27 12:39:13 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:39:13 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:39:13 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:39:14 --> URI Class Initialized
+INFO - 2020-10-27 12:39:14 --> Router Class Initialized
+INFO - 2020-10-27 12:39:14 --> Output Class Initialized
+INFO - 2020-10-27 12:39:14 --> Security Class Initialized
+DEBUG - 2020-10-27 12:39:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:39:14 --> Input Class Initialized
+INFO - 2020-10-27 12:39:14 --> Language Class Initialized
+INFO - 2020-10-27 12:39:14 --> Loader Class Initialized
+INFO - 2020-10-27 12:39:14 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:39:14 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:39:14 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:39:14 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:39:14 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:39:14 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:39:14 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:39:14 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:39:14 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:39:14 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:39:14 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:39:14 --> Email Class Initialized
+DEBUG - 2020-10-27 12:39:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:39:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:39:14 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:39:14 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:39:14 --> Controller Class Initialized
+INFO - 2020-10-27 12:39:14 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:39:14 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:39:14 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:39:14 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:39:14 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:39:14 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:39:15 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Price"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Price"
+INFO - 2020-10-27 12:39:15 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:39:15 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:39:15 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:39:15 --> Final output sent to browser
+DEBUG - 2020-10-27 12:39:16 --> Total execution time: 2.0806
+INFO - 2020-10-27 12:40:49 --> Config Class Initialized
+INFO - 2020-10-27 12:40:49 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:40:49 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:40:49 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:40:49 --> URI Class Initialized
+INFO - 2020-10-27 12:40:49 --> Router Class Initialized
+INFO - 2020-10-27 12:40:49 --> Output Class Initialized
+INFO - 2020-10-27 12:40:49 --> Security Class Initialized
+DEBUG - 2020-10-27 12:40:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:40:49 --> Input Class Initialized
+INFO - 2020-10-27 12:40:49 --> Language Class Initialized
+INFO - 2020-10-27 12:40:49 --> Loader Class Initialized
+INFO - 2020-10-27 12:40:49 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:40:49 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:40:49 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:40:49 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:40:49 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:40:49 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:40:49 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:40:49 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:40:49 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:40:49 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:40:49 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:40:49 --> Email Class Initialized
+DEBUG - 2020-10-27 12:40:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:40:49 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:40:49 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:40:49 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:40:49 --> Controller Class Initialized
+INFO - 2020-10-27 12:40:49 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:40:49 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:40:49 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:40:49 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:40:49 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:40:49 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:40:49 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 12:40:50 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 12:40:50 --> Could not find the language line "Manufacturing_List"
+INFO - 2020-10-27 12:42:17 --> Config Class Initialized
+INFO - 2020-10-27 12:42:17 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:42:17 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:42:17 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:42:17 --> URI Class Initialized
+INFO - 2020-10-27 12:42:17 --> Router Class Initialized
+INFO - 2020-10-27 12:42:17 --> Output Class Initialized
+INFO - 2020-10-27 12:42:17 --> Security Class Initialized
+DEBUG - 2020-10-27 12:42:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:42:17 --> Input Class Initialized
+INFO - 2020-10-27 12:42:17 --> Language Class Initialized
+INFO - 2020-10-27 12:42:17 --> Loader Class Initialized
+INFO - 2020-10-27 12:42:17 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:42:17 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:42:17 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:42:17 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:42:17 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:42:17 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:42:17 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:42:17 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:42:17 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:42:17 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:42:17 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:42:17 --> Email Class Initialized
+DEBUG - 2020-10-27 12:42:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:42:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:42:17 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:42:17 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:42:18 --> Controller Class Initialized
+INFO - 2020-10-27 12:42:18 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:42:18 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:42:18 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:42:18 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:42:18 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:42:18 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:42:18 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 12:42:18 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 12:42:18 --> Could not find the language line "Manufacturing_List"
+INFO - 2020-10-27 12:42:38 --> Config Class Initialized
+INFO - 2020-10-27 12:42:38 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:42:38 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:42:38 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:42:38 --> URI Class Initialized
+INFO - 2020-10-27 12:42:38 --> Router Class Initialized
+INFO - 2020-10-27 12:42:38 --> Output Class Initialized
+INFO - 2020-10-27 12:42:39 --> Security Class Initialized
+DEBUG - 2020-10-27 12:42:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:42:39 --> Input Class Initialized
+INFO - 2020-10-27 12:42:39 --> Language Class Initialized
+INFO - 2020-10-27 12:42:39 --> Loader Class Initialized
+INFO - 2020-10-27 12:42:39 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:42:39 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:42:39 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:42:39 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:42:39 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:42:39 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:42:40 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:42:40 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:42:40 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:42:40 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:42:40 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:42:40 --> Email Class Initialized
+DEBUG - 2020-10-27 12:42:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:42:40 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:42:40 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:42:40 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:42:40 --> Controller Class Initialized
+INFO - 2020-10-27 12:42:40 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:42:40 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:42:41 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:42:41 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:42:41 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:42:41 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:42:41 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 12:42:41 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 12:42:41 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:42:41 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:42:41 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 12:42:41 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:42:41 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:42:42 --> Could not find the language line "Price"
+ERROR - 2020-10-27 12:42:42 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:42:42 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:42:42 --> Could not find the language line "Price"
+INFO - 2020-10-27 12:42:42 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 12:42:42 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:42:42 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:42:42 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:42:42 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:42:42 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:42:42 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:42:42 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:42:42 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:42:42 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:42:43 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:42:43 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:42:43 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:42:43 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:42:43 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:42:43 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:42:43 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:42:43 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:42:43 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:42:43 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:42:43 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:42:43 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:42:44 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:42:44 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:42:44 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:42:44 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:42:44 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:42:44 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:42:44 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:42:44 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:42:44 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:42:44 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:42:44 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:42:44 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:42:45 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:42:45 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:42:45 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:42:45 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:42:45 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:42:45 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:42:45 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:42:45 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:42:45 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:42:45 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:42:45 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:42:45 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:42:45 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:42:45 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:42:46 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:42:46 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:42:46 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:42:46 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:42:46 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:42:46 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:42:46 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:42:46 --> Final output sent to browser
+DEBUG - 2020-10-27 12:42:46 --> Total execution time: 7.9197
+INFO - 2020-10-27 12:44:28 --> Config Class Initialized
+INFO - 2020-10-27 12:44:28 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:44:28 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:44:28 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:44:28 --> URI Class Initialized
+INFO - 2020-10-27 12:44:28 --> Router Class Initialized
+INFO - 2020-10-27 12:44:28 --> Output Class Initialized
+INFO - 2020-10-27 12:44:28 --> Security Class Initialized
+DEBUG - 2020-10-27 12:44:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:44:28 --> Input Class Initialized
+INFO - 2020-10-27 12:44:28 --> Language Class Initialized
+INFO - 2020-10-27 12:44:28 --> Loader Class Initialized
+INFO - 2020-10-27 12:44:28 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:44:28 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:44:28 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:44:28 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:44:28 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:44:28 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:44:28 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:44:28 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:44:28 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:44:28 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:44:28 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:44:28 --> Email Class Initialized
+DEBUG - 2020-10-27 12:44:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:44:28 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:44:28 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:44:28 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:44:28 --> Controller Class Initialized
+INFO - 2020-10-27 12:44:28 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:44:28 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:44:28 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:44:28 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:44:28 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:44:28 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:44:28 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 12:44:28 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 12:44:28 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:44:28 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:44:28 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 12:44:28 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 12:44:28 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:44:28 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:44:28 --> Could not find the language line "Price"
+ERROR - 2020-10-27 12:44:28 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:44:28 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:44:28 --> Could not find the language line "Price"
+INFO - 2020-10-27 12:44:28 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 12:44:28 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:44:28 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:44:28 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:44:28 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:44:28 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:44:28 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:44:28 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:44:28 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:44:28 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:44:28 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:44:28 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:44:28 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:44:28 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:44:28 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:44:28 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:44:28 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:44:29 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:44:29 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:44:29 --> Final output sent to browser
+DEBUG - 2020-10-27 12:44:29 --> Total execution time: 1.3407
+INFO - 2020-10-27 12:44:39 --> Config Class Initialized
+INFO - 2020-10-27 12:44:39 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:44:39 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:44:39 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:44:39 --> URI Class Initialized
+INFO - 2020-10-27 12:44:39 --> Router Class Initialized
+INFO - 2020-10-27 12:44:39 --> Output Class Initialized
+INFO - 2020-10-27 12:44:39 --> Security Class Initialized
+DEBUG - 2020-10-27 12:44:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:44:39 --> Input Class Initialized
+INFO - 2020-10-27 12:44:39 --> Language Class Initialized
+ERROR - 2020-10-27 12:44:39 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 12:45:18 --> Config Class Initialized
+INFO - 2020-10-27 12:45:18 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:45:18 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:45:18 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:45:18 --> URI Class Initialized
+INFO - 2020-10-27 12:45:18 --> Router Class Initialized
+INFO - 2020-10-27 12:45:18 --> Output Class Initialized
+INFO - 2020-10-27 12:45:18 --> Security Class Initialized
+DEBUG - 2020-10-27 12:45:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:45:18 --> Input Class Initialized
+INFO - 2020-10-27 12:45:18 --> Language Class Initialized
+INFO - 2020-10-27 12:45:18 --> Loader Class Initialized
+INFO - 2020-10-27 12:45:18 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:45:18 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:45:18 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:45:18 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:45:18 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:45:18 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:45:18 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:45:18 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:45:18 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:45:18 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:45:18 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:45:18 --> Email Class Initialized
+DEBUG - 2020-10-27 12:45:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:45:18 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:45:18 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:45:18 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:45:18 --> Controller Class Initialized
+INFO - 2020-10-27 12:45:18 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:45:18 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:45:18 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:45:18 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:45:18 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:45:18 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:45:18 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Price"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Price"
+INFO - 2020-10-27 12:45:18 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:45:18 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:45:19 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:45:19 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:45:19 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:45:19 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:45:19 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:45:19 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:45:19 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:45:19 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:45:19 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:45:19 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:45:19 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:45:19 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:45:19 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:45:19 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:45:19 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:45:19 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:45:19 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:45:19 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:45:19 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:45:19 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:45:19 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:45:19 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:45:19 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:45:19 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:45:19 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:45:19 --> Final output sent to browser
+DEBUG - 2020-10-27 12:45:19 --> Total execution time: 1.2093
+INFO - 2020-10-27 12:45:19 --> Config Class Initialized
+INFO - 2020-10-27 12:45:19 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:45:19 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:45:20 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:45:20 --> URI Class Initialized
+INFO - 2020-10-27 12:45:20 --> Router Class Initialized
+INFO - 2020-10-27 12:45:20 --> Output Class Initialized
+INFO - 2020-10-27 12:45:20 --> Security Class Initialized
+DEBUG - 2020-10-27 12:45:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:45:20 --> Input Class Initialized
+INFO - 2020-10-27 12:45:20 --> Language Class Initialized
+ERROR - 2020-10-27 12:45:20 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 12:46:35 --> Config Class Initialized
+INFO - 2020-10-27 12:46:35 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:46:35 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:46:35 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:46:35 --> URI Class Initialized
+INFO - 2020-10-27 12:46:35 --> Router Class Initialized
+INFO - 2020-10-27 12:46:35 --> Output Class Initialized
+INFO - 2020-10-27 12:46:35 --> Security Class Initialized
+DEBUG - 2020-10-27 12:46:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:46:35 --> Input Class Initialized
+INFO - 2020-10-27 12:46:35 --> Language Class Initialized
+INFO - 2020-10-27 12:46:35 --> Loader Class Initialized
+INFO - 2020-10-27 12:46:35 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:46:35 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:46:35 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:46:35 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:46:35 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:46:35 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:46:35 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:46:35 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:46:35 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:46:35 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:46:35 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:46:35 --> Email Class Initialized
+DEBUG - 2020-10-27 12:46:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:46:35 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:46:35 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:46:35 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:46:35 --> Controller Class Initialized
+INFO - 2020-10-27 12:46:35 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:46:35 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:46:35 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:46:35 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:46:35 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:46:35 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:46:35 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 12:46:35 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 12:46:35 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:46:35 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:46:35 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 12:46:35 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 12:46:35 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:46:35 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:46:35 --> Could not find the language line "Price"
+ERROR - 2020-10-27 12:46:35 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:46:35 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:46:35 --> Could not find the language line "Price"
+INFO - 2020-10-27 12:46:35 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:46:36 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:46:36 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:46:36 --> Final output sent to browser
+DEBUG - 2020-10-27 12:46:36 --> Total execution time: 1.2325
+INFO - 2020-10-27 12:46:38 --> Config Class Initialized
+INFO - 2020-10-27 12:46:38 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:46:38 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:46:38 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:46:38 --> URI Class Initialized
+INFO - 2020-10-27 12:46:38 --> Router Class Initialized
+INFO - 2020-10-27 12:46:39 --> Output Class Initialized
+INFO - 2020-10-27 12:46:39 --> Security Class Initialized
+DEBUG - 2020-10-27 12:46:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:46:39 --> Input Class Initialized
+INFO - 2020-10-27 12:46:39 --> Language Class Initialized
+ERROR - 2020-10-27 12:46:39 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 12:47:03 --> Config Class Initialized
+INFO - 2020-10-27 12:47:03 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:47:03 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:47:03 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:47:03 --> URI Class Initialized
+INFO - 2020-10-27 12:47:03 --> Router Class Initialized
+INFO - 2020-10-27 12:47:03 --> Output Class Initialized
+INFO - 2020-10-27 12:47:03 --> Security Class Initialized
+DEBUG - 2020-10-27 12:47:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:47:03 --> Input Class Initialized
+INFO - 2020-10-27 12:47:03 --> Language Class Initialized
+INFO - 2020-10-27 12:47:03 --> Loader Class Initialized
+INFO - 2020-10-27 12:47:03 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:47:03 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:47:03 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:47:03 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:47:03 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:47:03 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:47:03 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:47:03 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:47:03 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:47:03 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:47:03 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:47:03 --> Email Class Initialized
+DEBUG - 2020-10-27 12:47:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:47:03 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:47:03 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:47:03 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:47:03 --> Controller Class Initialized
+INFO - 2020-10-27 12:47:03 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:47:03 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:47:03 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:47:03 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:47:03 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:47:03 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:47:03 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Price"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Price"
+INFO - 2020-10-27 12:47:04 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:47:04 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:47:05 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:47:05 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:47:05 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:47:05 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:47:05 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:47:05 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:47:05 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:47:05 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:47:05 --> Final output sent to browser
+DEBUG - 2020-10-27 12:47:05 --> Total execution time: 1.8070
+INFO - 2020-10-27 12:47:06 --> Config Class Initialized
+INFO - 2020-10-27 12:47:06 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:47:06 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:47:06 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:47:06 --> URI Class Initialized
+INFO - 2020-10-27 12:47:06 --> Router Class Initialized
+INFO - 2020-10-27 12:47:06 --> Output Class Initialized
+INFO - 2020-10-27 12:47:06 --> Security Class Initialized
+DEBUG - 2020-10-27 12:47:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:47:06 --> Input Class Initialized
+INFO - 2020-10-27 12:47:06 --> Language Class Initialized
+ERROR - 2020-10-27 12:47:06 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 12:48:27 --> Config Class Initialized
+INFO - 2020-10-27 12:48:27 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:48:27 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:48:27 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:48:27 --> URI Class Initialized
+INFO - 2020-10-27 12:48:27 --> Router Class Initialized
+INFO - 2020-10-27 12:48:27 --> Output Class Initialized
+INFO - 2020-10-27 12:48:27 --> Security Class Initialized
+DEBUG - 2020-10-27 12:48:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:48:27 --> Input Class Initialized
+INFO - 2020-10-27 12:48:27 --> Language Class Initialized
+INFO - 2020-10-27 12:48:27 --> Loader Class Initialized
+INFO - 2020-10-27 12:48:27 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:48:27 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:48:27 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:48:27 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:48:27 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:48:27 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:48:27 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:48:27 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:48:27 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:48:28 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:48:28 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:48:28 --> Email Class Initialized
+DEBUG - 2020-10-27 12:48:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:48:28 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:48:28 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:48:28 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:48:28 --> Controller Class Initialized
+INFO - 2020-10-27 12:48:28 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:48:28 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:48:28 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:48:28 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:48:28 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:48:28 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:48:28 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Price"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Price"
+INFO - 2020-10-27 12:48:28 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:48:28 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:48:29 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:48:29 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:48:29 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:48:29 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:48:29 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:48:29 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:48:29 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:48:29 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:48:29 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:48:29 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:48:29 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:48:29 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:48:29 --> Final output sent to browser
+DEBUG - 2020-10-27 12:48:29 --> Total execution time: 1.5921
+INFO - 2020-10-27 12:48:30 --> Config Class Initialized
+INFO - 2020-10-27 12:48:30 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:48:30 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:48:30 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:48:30 --> URI Class Initialized
+INFO - 2020-10-27 12:48:30 --> Router Class Initialized
+INFO - 2020-10-27 12:48:30 --> Output Class Initialized
+INFO - 2020-10-27 12:48:30 --> Security Class Initialized
+DEBUG - 2020-10-27 12:48:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:48:30 --> Input Class Initialized
+INFO - 2020-10-27 12:48:30 --> Language Class Initialized
+ERROR - 2020-10-27 12:48:30 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 12:50:14 --> Config Class Initialized
+INFO - 2020-10-27 12:50:14 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:50:14 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:50:14 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:50:14 --> URI Class Initialized
+INFO - 2020-10-27 12:50:14 --> Router Class Initialized
+INFO - 2020-10-27 12:50:14 --> Output Class Initialized
+INFO - 2020-10-27 12:50:14 --> Security Class Initialized
+DEBUG - 2020-10-27 12:50:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:50:14 --> Input Class Initialized
+INFO - 2020-10-27 12:50:14 --> Language Class Initialized
+INFO - 2020-10-27 12:50:14 --> Loader Class Initialized
+INFO - 2020-10-27 12:50:14 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:50:14 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:50:14 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:50:14 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:50:14 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:50:14 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:50:14 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:50:15 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:50:15 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:50:15 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:50:15 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:50:15 --> Email Class Initialized
+DEBUG - 2020-10-27 12:50:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:50:15 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:50:15 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:50:15 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:50:15 --> Controller Class Initialized
+INFO - 2020-10-27 12:50:15 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:50:15 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:50:15 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:50:15 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:50:15 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:50:15 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:50:15 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Price"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Price"
+INFO - 2020-10-27 12:50:15 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:50:15 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:50:16 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:50:16 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:50:16 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:50:16 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:50:16 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:50:16 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:50:16 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:50:16 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:50:16 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:50:16 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:50:16 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:50:16 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:50:16 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:50:16 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:50:16 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:50:16 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:50:16 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:50:16 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:50:16 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:50:16 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:50:16 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:50:16 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:50:16 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:50:16 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:50:16 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:50:16 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:50:16 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:50:16 --> Final output sent to browser
+DEBUG - 2020-10-27 12:50:16 --> Total execution time: 1.7495
+INFO - 2020-10-27 12:50:17 --> Config Class Initialized
+INFO - 2020-10-27 12:50:17 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:50:17 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:50:17 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:50:17 --> URI Class Initialized
+INFO - 2020-10-27 12:50:17 --> Router Class Initialized
+INFO - 2020-10-27 12:50:17 --> Output Class Initialized
+INFO - 2020-10-27 12:50:17 --> Security Class Initialized
+DEBUG - 2020-10-27 12:50:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:50:17 --> Input Class Initialized
+INFO - 2020-10-27 12:50:17 --> Language Class Initialized
+ERROR - 2020-10-27 12:50:17 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 12:51:14 --> Config Class Initialized
+INFO - 2020-10-27 12:51:14 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:51:14 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:51:14 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:51:14 --> URI Class Initialized
+INFO - 2020-10-27 12:51:14 --> Router Class Initialized
+INFO - 2020-10-27 12:51:14 --> Output Class Initialized
+INFO - 2020-10-27 12:51:14 --> Security Class Initialized
+DEBUG - 2020-10-27 12:51:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:51:14 --> Input Class Initialized
+INFO - 2020-10-27 12:51:14 --> Language Class Initialized
+INFO - 2020-10-27 12:51:14 --> Loader Class Initialized
+INFO - 2020-10-27 12:51:14 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:51:14 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:51:14 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:51:14 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:51:14 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:51:14 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:51:14 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:51:14 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:51:14 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:51:14 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:51:14 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:51:14 --> Email Class Initialized
+DEBUG - 2020-10-27 12:51:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:51:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:51:14 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:51:14 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:51:14 --> Controller Class Initialized
+INFO - 2020-10-27 12:51:14 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:51:14 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:51:14 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:51:14 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:51:14 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:51:14 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:51:14 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 12:51:14 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 12:51:14 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:51:14 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:51:14 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 12:51:14 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 12:51:14 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:51:14 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:51:14 --> Could not find the language line "Price"
+ERROR - 2020-10-27 12:51:14 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:51:14 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:51:14 --> Could not find the language line "Price"
+INFO - 2020-10-27 12:51:14 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 12:51:14 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:51:14 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:51:15 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:51:15 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:51:15 --> Final output sent to browser
+DEBUG - 2020-10-27 12:51:15 --> Total execution time: 1.7313
+INFO - 2020-10-27 12:51:17 --> Config Class Initialized
+INFO - 2020-10-27 12:51:17 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:51:18 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:51:18 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:51:18 --> URI Class Initialized
+INFO - 2020-10-27 12:51:18 --> Router Class Initialized
+INFO - 2020-10-27 12:51:18 --> Output Class Initialized
+INFO - 2020-10-27 12:51:18 --> Security Class Initialized
+DEBUG - 2020-10-27 12:51:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:51:18 --> Input Class Initialized
+INFO - 2020-10-27 12:51:18 --> Language Class Initialized
+ERROR - 2020-10-27 12:51:18 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 12:51:37 --> Config Class Initialized
+INFO - 2020-10-27 12:51:37 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:51:37 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:51:37 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:51:37 --> URI Class Initialized
+INFO - 2020-10-27 12:51:37 --> Router Class Initialized
+INFO - 2020-10-27 12:51:37 --> Output Class Initialized
+INFO - 2020-10-27 12:51:37 --> Security Class Initialized
+DEBUG - 2020-10-27 12:51:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:51:37 --> Input Class Initialized
+INFO - 2020-10-27 12:51:37 --> Language Class Initialized
+INFO - 2020-10-27 12:51:37 --> Loader Class Initialized
+INFO - 2020-10-27 12:51:37 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:51:37 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:51:37 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:51:37 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:51:37 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:51:37 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:51:37 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:51:37 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:51:37 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:51:37 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:51:37 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:51:37 --> Email Class Initialized
+DEBUG - 2020-10-27 12:51:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:51:37 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:51:37 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:51:37 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:51:37 --> Controller Class Initialized
+INFO - 2020-10-27 12:51:37 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:51:37 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:51:37 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:51:37 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:51:37 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:51:37 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:51:37 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 12:51:37 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:51:37 --> Could not find the language line "Manufacturing_Add"
+INFO - 2020-10-27 12:51:37 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingList.php
+ERROR - 2020-10-27 12:51:37 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:51:37 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:51:37 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:51:37 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:51:37 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:51:37 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:51:37 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:51:37 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:51:37 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:51:37 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:51:37 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:51:37 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:51:37 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:51:37 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:51:37 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:51:37 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:51:38 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:51:38 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:51:38 --> Final output sent to browser
+DEBUG - 2020-10-27 12:51:38 --> Total execution time: 1.1036
+INFO - 2020-10-27 12:51:42 --> Config Class Initialized
+INFO - 2020-10-27 12:51:42 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:51:42 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:51:42 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:51:42 --> URI Class Initialized
+INFO - 2020-10-27 12:51:42 --> Router Class Initialized
+INFO - 2020-10-27 12:51:42 --> Output Class Initialized
+INFO - 2020-10-27 12:51:42 --> Security Class Initialized
+DEBUG - 2020-10-27 12:51:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:51:42 --> Input Class Initialized
+INFO - 2020-10-27 12:51:42 --> Language Class Initialized
+INFO - 2020-10-27 12:51:42 --> Loader Class Initialized
+INFO - 2020-10-27 12:51:42 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:51:42 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:51:42 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:51:42 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:51:42 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:51:42 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:51:42 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:51:42 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:51:42 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:51:42 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:51:42 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:51:42 --> Email Class Initialized
+DEBUG - 2020-10-27 12:51:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:51:42 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:51:43 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:51:43 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:51:43 --> Controller Class Initialized
+INFO - 2020-10-27 12:51:43 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:51:43 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:51:43 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:51:43 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:51:43 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:51:43 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:51:43 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 12:51:43 --> Helper loaded: manufacturing_no_helper
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Price"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Price"
+INFO - 2020-10-27 12:51:43 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:51:43 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:51:44 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:51:44 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:51:44 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:51:44 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:51:44 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:51:44 --> Final output sent to browser
+DEBUG - 2020-10-27 12:51:44 --> Total execution time: 1.3803
+INFO - 2020-10-27 12:57:12 --> Config Class Initialized
+INFO - 2020-10-27 12:57:12 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:57:12 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:57:12 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:57:12 --> URI Class Initialized
+INFO - 2020-10-27 12:57:12 --> Router Class Initialized
+INFO - 2020-10-27 12:57:12 --> Output Class Initialized
+INFO - 2020-10-27 12:57:12 --> Security Class Initialized
+DEBUG - 2020-10-27 12:57:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:57:12 --> Input Class Initialized
+INFO - 2020-10-27 12:57:12 --> Language Class Initialized
+INFO - 2020-10-27 12:57:12 --> Loader Class Initialized
+INFO - 2020-10-27 12:57:12 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:57:12 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:57:12 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:57:12 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:57:12 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:57:12 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:57:12 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:57:12 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:57:12 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:57:12 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:57:12 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:57:12 --> Email Class Initialized
+DEBUG - 2020-10-27 12:57:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:57:12 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:57:12 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:57:12 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:57:12 --> Controller Class Initialized
+INFO - 2020-10-27 12:57:12 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:57:12 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:57:12 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:57:12 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:57:12 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:57:12 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:57:12 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 12:57:12 --> Could not find the language line "Sale_Order_View"
+ERROR - 2020-10-27 12:57:12 --> Could not find the language line "New_Sales_Order"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Sales_Order_List"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Sale_Order_Edit"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Soles_order_No"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Sales_Order_Info"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Sales_Order_Info"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Order_Date"
+INFO - 2020-10-27 12:57:13 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/sales_order/sales_order_view.php
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:57:13 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:57:13 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:57:13 --> Final output sent to browser
+DEBUG - 2020-10-27 12:57:13 --> Total execution time: 1.5697
+INFO - 2020-10-27 12:57:14 --> Config Class Initialized
+INFO - 2020-10-27 12:57:14 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:57:14 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:57:14 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:57:14 --> URI Class Initialized
+INFO - 2020-10-27 12:57:14 --> Router Class Initialized
+INFO - 2020-10-27 12:57:14 --> Output Class Initialized
+INFO - 2020-10-27 12:57:14 --> Security Class Initialized
+DEBUG - 2020-10-27 12:57:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:57:15 --> Input Class Initialized
+INFO - 2020-10-27 12:57:15 --> Language Class Initialized
+INFO - 2020-10-27 12:57:15 --> Loader Class Initialized
+INFO - 2020-10-27 12:57:15 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:57:15 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:57:15 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:57:15 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:57:15 --> Config Class Initialized
+INFO - 2020-10-27 12:57:15 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:57:15 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:57:15 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:57:15 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:57:15 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:57:15 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:57:15 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:57:15 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:57:15 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:57:15 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:57:15 --> Email Class Initialized
+DEBUG - 2020-10-27 12:57:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:57:15 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:57:15 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:57:15 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:57:15 --> Controller Class Initialized
+INFO - 2020-10-27 12:57:15 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:57:15 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:57:15 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:57:15 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:57:15 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:57:15 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:57:15 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 12:57:15 --> Helper loaded: manufacturing_no_helper
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Price"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Price"
+INFO - 2020-10-27 12:57:15 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 12:57:15 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 12:57:16 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 12:57:16 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:57:16 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 12:57:16 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 12:57:16 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 12:57:16 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 12:57:16 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 12:57:16 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 12:57:16 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 12:57:16 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 12:57:16 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 12:57:16 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:57:16 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 12:57:16 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 12:57:16 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 12:57:16 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 12:57:16 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 12:57:16 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 12:57:16 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 12:57:16 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 12:57:16 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 12:57:16 --> Could not find the language line "2019"
+ERROR - 2020-10-27 12:57:16 --> Could not find the language line "Report"
+ERROR - 2020-10-27 12:57:16 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 12:57:16 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 12:57:16 --> Final output sent to browser
+DEBUG - 2020-10-27 12:57:16 --> Total execution time: 1.4291
+INFO - 2020-10-27 12:57:19 --> Config Class Initialized
+INFO - 2020-10-27 12:57:19 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:57:19 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:57:20 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:57:20 --> URI Class Initialized
+INFO - 2020-10-27 12:57:20 --> Router Class Initialized
+INFO - 2020-10-27 12:57:20 --> Output Class Initialized
+INFO - 2020-10-27 12:57:20 --> Security Class Initialized
+DEBUG - 2020-10-27 12:57:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:57:20 --> Input Class Initialized
+INFO - 2020-10-27 12:57:20 --> Language Class Initialized
+INFO - 2020-10-27 12:57:20 --> Loader Class Initialized
+INFO - 2020-10-27 12:57:20 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:57:20 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:57:20 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:57:20 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:57:20 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:57:20 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:57:20 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:57:20 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:57:20 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:57:21 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:57:21 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:57:21 --> Email Class Initialized
+DEBUG - 2020-10-27 12:57:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:57:21 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:57:21 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:57:21 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:57:21 --> Controller Class Initialized
+INFO - 2020-10-27 12:57:21 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:57:21 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:57:21 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:57:21 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:57:21 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:57:21 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:57:21 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 12:57:22 --> Config Class Initialized
+INFO - 2020-10-27 12:57:22 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:57:22 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:57:22 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:57:22 --> URI Class Initialized
+INFO - 2020-10-27 12:57:22 --> Router Class Initialized
+INFO - 2020-10-27 12:57:22 --> Output Class Initialized
+INFO - 2020-10-27 12:57:22 --> Security Class Initialized
+DEBUG - 2020-10-27 12:57:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:57:22 --> Input Class Initialized
+INFO - 2020-10-27 12:57:22 --> Language Class Initialized
+INFO - 2020-10-27 12:57:22 --> Loader Class Initialized
+INFO - 2020-10-27 12:57:22 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:57:22 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:57:22 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:57:22 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:57:22 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:57:22 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:57:22 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:57:22 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:57:22 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:57:22 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:57:22 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:57:22 --> Email Class Initialized
+DEBUG - 2020-10-27 12:57:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:57:22 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:57:22 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:57:22 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:57:22 --> Controller Class Initialized
+INFO - 2020-10-27 12:57:22 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:57:22 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:57:23 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:57:23 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:57:23 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:57:23 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:57:23 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 12:57:23 --> Final output sent to browser
+DEBUG - 2020-10-27 12:57:23 --> Total execution time: 0.6268
+INFO - 2020-10-27 12:57:28 --> Config Class Initialized
+INFO - 2020-10-27 12:57:28 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:57:28 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:57:28 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:57:28 --> URI Class Initialized
+INFO - 2020-10-27 12:57:29 --> Router Class Initialized
+INFO - 2020-10-27 12:57:29 --> Output Class Initialized
+INFO - 2020-10-27 12:57:29 --> Security Class Initialized
+DEBUG - 2020-10-27 12:57:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:57:29 --> Input Class Initialized
+INFO - 2020-10-27 12:57:29 --> Language Class Initialized
+INFO - 2020-10-27 12:57:29 --> Loader Class Initialized
+INFO - 2020-10-27 12:57:29 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:57:29 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:57:29 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:57:29 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:57:29 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:57:29 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:57:29 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:57:29 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:57:29 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:57:29 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:57:29 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:57:29 --> Email Class Initialized
+DEBUG - 2020-10-27 12:57:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:57:29 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:57:29 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:57:29 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:57:29 --> Controller Class Initialized
+INFO - 2020-10-27 12:57:29 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:57:29 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:57:29 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:57:29 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:57:29 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:57:29 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:57:29 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 12:57:30 --> Config Class Initialized
+INFO - 2020-10-27 12:57:30 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:57:30 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:57:30 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:57:30 --> URI Class Initialized
+INFO - 2020-10-27 12:57:30 --> Router Class Initialized
+INFO - 2020-10-27 12:57:30 --> Output Class Initialized
+INFO - 2020-10-27 12:57:30 --> Security Class Initialized
+DEBUG - 2020-10-27 12:57:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:57:30 --> Input Class Initialized
+INFO - 2020-10-27 12:57:30 --> Language Class Initialized
+INFO - 2020-10-27 12:57:30 --> Loader Class Initialized
+INFO - 2020-10-27 12:57:30 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:57:30 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:57:30 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:57:30 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:57:30 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:57:30 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:57:30 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:57:30 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:57:30 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:57:30 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:57:30 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:57:30 --> Email Class Initialized
+DEBUG - 2020-10-27 12:57:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:57:30 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:57:31 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:57:31 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:57:31 --> Controller Class Initialized
+INFO - 2020-10-27 12:57:31 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:57:31 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:57:31 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:57:31 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:57:31 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:57:31 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:57:31 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 12:57:31 --> Final output sent to browser
+DEBUG - 2020-10-27 12:57:31 --> Total execution time: 0.5052
+INFO - 2020-10-27 12:57:36 --> Config Class Initialized
+INFO - 2020-10-27 12:57:36 --> Hooks Class Initialized
+DEBUG - 2020-10-27 12:57:36 --> UTF-8 Support Enabled
+INFO - 2020-10-27 12:57:36 --> Utf8 Class Initialized
+INFO - 2020-10-27 12:57:36 --> URI Class Initialized
+INFO - 2020-10-27 12:57:36 --> Router Class Initialized
+INFO - 2020-10-27 12:57:36 --> Output Class Initialized
+INFO - 2020-10-27 12:57:36 --> Security Class Initialized
+DEBUG - 2020-10-27 12:57:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 12:57:36 --> Input Class Initialized
+INFO - 2020-10-27 12:57:36 --> Language Class Initialized
+INFO - 2020-10-27 12:57:36 --> Loader Class Initialized
+INFO - 2020-10-27 12:57:36 --> Helper loaded: url_helper
+INFO - 2020-10-27 12:57:36 --> Helper loaded: file_helper
+INFO - 2020-10-27 12:57:36 --> Helper loaded: utility_helper
+INFO - 2020-10-27 12:57:36 --> Helper loaded: unit_helper
+INFO - 2020-10-27 12:57:36 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 12:57:36 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 12:57:36 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 12:57:36 --> Helper loaded: site_helper
+INFO - 2020-10-27 12:57:36 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 12:57:36 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 12:57:36 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:57:36 --> Email Class Initialized
+DEBUG - 2020-10-27 12:57:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 12:57:36 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 12:57:36 --> Helper loaded: form_helper
+INFO - 2020-10-27 12:57:36 --> Form Validation Class Initialized
+INFO - 2020-10-27 12:57:36 --> Controller Class Initialized
+INFO - 2020-10-27 12:57:36 --> Model "Common_model" initialized
+INFO - 2020-10-27 12:57:37 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 12:57:37 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 12:57:37 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 12:57:37 --> Database Driver Class Initialized
+INFO - 2020-10-27 12:57:37 --> Helper loaded: language_helper
+INFO - 2020-10-27 12:57:37 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 12:57:37 --> Helper loaded: manufacturing_no_helper
+INFO - 2020-10-27 12:57:37 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-10-27 13:01:19 --> Config Class Initialized
+INFO - 2020-10-27 13:01:19 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:01:19 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:01:19 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:01:19 --> URI Class Initialized
+INFO - 2020-10-27 13:01:19 --> Router Class Initialized
+INFO - 2020-10-27 13:01:19 --> Output Class Initialized
+INFO - 2020-10-27 13:01:19 --> Security Class Initialized
+DEBUG - 2020-10-27 13:01:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:01:19 --> Input Class Initialized
+INFO - 2020-10-27 13:01:19 --> Language Class Initialized
+INFO - 2020-10-27 13:01:19 --> Loader Class Initialized
+INFO - 2020-10-27 13:01:19 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:01:19 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:01:19 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:01:19 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:01:19 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:01:19 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:01:19 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:01:19 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:01:19 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:01:19 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:01:19 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:01:19 --> Email Class Initialized
+DEBUG - 2020-10-27 13:01:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:01:19 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:01:19 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:01:19 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:01:19 --> Controller Class Initialized
+INFO - 2020-10-27 13:01:19 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:01:19 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:01:19 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:01:19 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:01:19 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:01:19 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:01:19 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:01:19 --> Helper loaded: manufacturing_no_helper
+ERROR - 2020-10-27 13:01:19 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 13:01:19 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:01:19 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:01:19 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 13:01:19 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:01:20 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:01:20 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:01:20 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:01:20 --> Final output sent to browser
+DEBUG - 2020-10-27 13:01:20 --> Total execution time: 1.1844
+INFO - 2020-10-27 13:01:24 --> Config Class Initialized
+INFO - 2020-10-27 13:01:24 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:01:24 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:01:24 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:01:24 --> URI Class Initialized
+INFO - 2020-10-27 13:01:24 --> Router Class Initialized
+INFO - 2020-10-27 13:01:24 --> Output Class Initialized
+INFO - 2020-10-27 13:01:24 --> Security Class Initialized
+DEBUG - 2020-10-27 13:01:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:01:25 --> Input Class Initialized
+INFO - 2020-10-27 13:01:25 --> Language Class Initialized
+INFO - 2020-10-27 13:01:25 --> Loader Class Initialized
+INFO - 2020-10-27 13:01:25 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:01:25 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:01:25 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:01:25 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:01:25 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:01:25 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:01:25 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:01:25 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:01:25 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:01:25 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:01:25 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:01:25 --> Email Class Initialized
+DEBUG - 2020-10-27 13:01:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:01:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:01:25 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:01:25 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:01:25 --> Controller Class Initialized
+INFO - 2020-10-27 13:01:25 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:01:25 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:01:25 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:01:25 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:01:25 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:01:25 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:01:25 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Manufacturing_Add"
+INFO - 2020-10-27 13:01:26 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingList.php
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:01:26 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:01:26 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:01:26 --> Final output sent to browser
+DEBUG - 2020-10-27 13:01:26 --> Total execution time: 2.2128
+INFO - 2020-10-27 13:01:38 --> Config Class Initialized
+INFO - 2020-10-27 13:01:38 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:01:38 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:01:38 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:01:38 --> URI Class Initialized
+INFO - 2020-10-27 13:01:38 --> Router Class Initialized
+INFO - 2020-10-27 13:01:38 --> Output Class Initialized
+INFO - 2020-10-27 13:01:38 --> Security Class Initialized
+DEBUG - 2020-10-27 13:01:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:01:38 --> Input Class Initialized
+INFO - 2020-10-27 13:01:38 --> Language Class Initialized
+INFO - 2020-10-27 13:01:38 --> Loader Class Initialized
+INFO - 2020-10-27 13:01:38 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:01:38 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:01:38 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:01:38 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:01:38 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:01:38 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:01:38 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:01:38 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:01:38 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:01:38 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:01:38 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:01:38 --> Email Class Initialized
+DEBUG - 2020-10-27 13:01:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:01:38 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:01:38 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:01:38 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:01:38 --> Controller Class Initialized
+INFO - 2020-10-27 13:01:38 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:01:38 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:01:38 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:01:38 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:01:38 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:01:38 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:01:38 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:01:39 --> Config Class Initialized
+INFO - 2020-10-27 13:01:39 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:01:39 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:01:39 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:01:39 --> URI Class Initialized
+INFO - 2020-10-27 13:01:39 --> Router Class Initialized
+INFO - 2020-10-27 13:01:39 --> Output Class Initialized
+INFO - 2020-10-27 13:01:39 --> Security Class Initialized
+DEBUG - 2020-10-27 13:01:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:01:39 --> Input Class Initialized
+INFO - 2020-10-27 13:01:39 --> Language Class Initialized
+INFO - 2020-10-27 13:01:39 --> Loader Class Initialized
+INFO - 2020-10-27 13:01:39 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:01:39 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:01:39 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:01:40 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:01:40 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:01:40 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:01:40 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:01:40 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:01:40 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:01:40 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:01:40 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:01:40 --> Email Class Initialized
+DEBUG - 2020-10-27 13:01:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:01:40 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:01:40 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:01:40 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:01:40 --> Controller Class Initialized
+INFO - 2020-10-27 13:01:40 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:01:40 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:01:40 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:01:40 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:01:40 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:01:40 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:01:40 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:01:40 --> Final output sent to browser
+DEBUG - 2020-10-27 13:01:40 --> Total execution time: 0.5303
+INFO - 2020-10-27 13:01:45 --> Config Class Initialized
+INFO - 2020-10-27 13:01:45 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:01:45 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:01:45 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:01:45 --> URI Class Initialized
+INFO - 2020-10-27 13:01:45 --> Router Class Initialized
+INFO - 2020-10-27 13:01:45 --> Output Class Initialized
+INFO - 2020-10-27 13:01:45 --> Security Class Initialized
+DEBUG - 2020-10-27 13:01:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:01:45 --> Input Class Initialized
+INFO - 2020-10-27 13:01:45 --> Language Class Initialized
+INFO - 2020-10-27 13:01:45 --> Loader Class Initialized
+INFO - 2020-10-27 13:01:45 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:01:45 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:01:45 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:01:45 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:01:45 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:01:45 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:01:45 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:01:45 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:01:45 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:01:45 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:01:45 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:01:45 --> Email Class Initialized
+DEBUG - 2020-10-27 13:01:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:01:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:01:45 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:01:45 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:01:45 --> Controller Class Initialized
+INFO - 2020-10-27 13:01:45 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:01:45 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:01:45 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:01:45 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:01:45 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:01:45 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:01:45 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:01:45 --> Helper loaded: manufacturing_no_helper
+INFO - 2020-10-27 13:01:45 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-10-27 13:01:52 --> Config Class Initialized
+INFO - 2020-10-27 13:01:52 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:01:52 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:01:52 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:01:52 --> URI Class Initialized
+INFO - 2020-10-27 13:01:52 --> Router Class Initialized
+INFO - 2020-10-27 13:01:52 --> Output Class Initialized
+INFO - 2020-10-27 13:01:52 --> Security Class Initialized
+DEBUG - 2020-10-27 13:01:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:01:52 --> Input Class Initialized
+INFO - 2020-10-27 13:01:52 --> Language Class Initialized
+INFO - 2020-10-27 13:01:52 --> Loader Class Initialized
+INFO - 2020-10-27 13:01:52 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:01:52 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:01:52 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:01:52 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:01:52 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:01:52 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:01:52 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:01:52 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:01:52 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:01:52 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:01:52 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:01:52 --> Email Class Initialized
+DEBUG - 2020-10-27 13:01:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:01:52 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:01:52 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:01:52 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:01:52 --> Controller Class Initialized
+INFO - 2020-10-27 13:01:52 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:01:52 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:01:52 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:01:52 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:01:52 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:01:52 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:01:52 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:01:52 --> Helper loaded: manufacturing_no_helper
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:01:52 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:01:52 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:01:53 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:01:53 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:01:53 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:01:53 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:01:53 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:01:53 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:01:53 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:01:53 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:01:53 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:01:53 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:01:53 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:01:53 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:01:53 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:01:53 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:01:53 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:01:53 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:01:53 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:01:53 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:01:53 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:01:53 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:01:53 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:01:53 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:01:53 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:01:53 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:01:53 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:01:53 --> Final output sent to browser
+DEBUG - 2020-10-27 13:01:53 --> Total execution time: 1.2101
+INFO - 2020-10-27 13:02:04 --> Config Class Initialized
+INFO - 2020-10-27 13:02:04 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:02:04 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:02:04 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:02:04 --> URI Class Initialized
+INFO - 2020-10-27 13:02:04 --> Router Class Initialized
+INFO - 2020-10-27 13:02:04 --> Output Class Initialized
+INFO - 2020-10-27 13:02:04 --> Security Class Initialized
+DEBUG - 2020-10-27 13:02:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:02:04 --> Input Class Initialized
+INFO - 2020-10-27 13:02:04 --> Language Class Initialized
+INFO - 2020-10-27 13:02:04 --> Loader Class Initialized
+INFO - 2020-10-27 13:02:04 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:02:04 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:02:04 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:02:04 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:02:04 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:02:04 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:02:04 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:02:04 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:02:04 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:02:04 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:02:05 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:02:05 --> Email Class Initialized
+DEBUG - 2020-10-27 13:02:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:02:05 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:02:05 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:02:05 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:02:05 --> Controller Class Initialized
+INFO - 2020-10-27 13:02:05 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:02:05 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:02:05 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:02:05 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:02:05 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:02:05 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:02:05 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:02:06 --> Config Class Initialized
+INFO - 2020-10-27 13:02:06 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:02:06 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:02:06 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:02:06 --> URI Class Initialized
+INFO - 2020-10-27 13:02:06 --> Router Class Initialized
+INFO - 2020-10-27 13:02:06 --> Output Class Initialized
+INFO - 2020-10-27 13:02:06 --> Security Class Initialized
+DEBUG - 2020-10-27 13:02:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:02:06 --> Input Class Initialized
+INFO - 2020-10-27 13:02:06 --> Language Class Initialized
+INFO - 2020-10-27 13:02:06 --> Loader Class Initialized
+INFO - 2020-10-27 13:02:06 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:02:06 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:02:06 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:02:06 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:02:06 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:02:06 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:02:06 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:02:06 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:02:06 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:02:06 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:02:06 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:02:06 --> Email Class Initialized
+DEBUG - 2020-10-27 13:02:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:02:06 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:02:06 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:02:06 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:02:06 --> Controller Class Initialized
+INFO - 2020-10-27 13:02:06 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:02:06 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:02:06 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:02:06 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:02:06 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:02:06 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:02:06 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:02:06 --> Final output sent to browser
+DEBUG - 2020-10-27 13:02:06 --> Total execution time: 0.4912
+INFO - 2020-10-27 13:02:14 --> Config Class Initialized
+INFO - 2020-10-27 13:02:14 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:02:14 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:02:14 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:02:14 --> URI Class Initialized
+INFO - 2020-10-27 13:02:14 --> Router Class Initialized
+INFO - 2020-10-27 13:02:14 --> Output Class Initialized
+INFO - 2020-10-27 13:02:14 --> Security Class Initialized
+DEBUG - 2020-10-27 13:02:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:02:14 --> Input Class Initialized
+INFO - 2020-10-27 13:02:14 --> Language Class Initialized
+INFO - 2020-10-27 13:02:14 --> Loader Class Initialized
+INFO - 2020-10-27 13:02:14 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:02:14 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:02:14 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:02:14 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:02:14 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:02:14 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:02:14 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:02:14 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:02:14 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:02:14 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:02:14 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:02:14 --> Email Class Initialized
+DEBUG - 2020-10-27 13:02:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:02:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:02:14 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:02:14 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:02:14 --> Controller Class Initialized
+INFO - 2020-10-27 13:02:14 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:02:14 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:02:14 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:02:14 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:02:14 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:02:14 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:02:14 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:02:24 --> Config Class Initialized
+INFO - 2020-10-27 13:02:24 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:02:24 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:02:24 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:02:24 --> URI Class Initialized
+INFO - 2020-10-27 13:02:24 --> Router Class Initialized
+INFO - 2020-10-27 13:02:24 --> Output Class Initialized
+INFO - 2020-10-27 13:02:24 --> Security Class Initialized
+DEBUG - 2020-10-27 13:02:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:02:24 --> Input Class Initialized
+INFO - 2020-10-27 13:02:24 --> Language Class Initialized
+INFO - 2020-10-27 13:02:24 --> Loader Class Initialized
+INFO - 2020-10-27 13:02:24 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:02:24 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:02:24 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:02:24 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:02:24 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:02:24 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:02:24 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:02:24 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:02:24 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:02:24 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:02:24 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:02:24 --> Email Class Initialized
+DEBUG - 2020-10-27 13:02:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:02:24 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:02:24 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:02:24 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:02:24 --> Controller Class Initialized
+INFO - 2020-10-27 13:02:24 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:02:24 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:02:24 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:02:24 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:02:24 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:02:24 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:02:24 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:02:24 --> Final output sent to browser
+DEBUG - 2020-10-27 13:02:24 --> Total execution time: 0.4701
+INFO - 2020-10-27 13:02:38 --> Config Class Initialized
+INFO - 2020-10-27 13:02:38 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:02:38 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:02:38 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:02:38 --> URI Class Initialized
+INFO - 2020-10-27 13:02:38 --> Router Class Initialized
+INFO - 2020-10-27 13:02:38 --> Output Class Initialized
+INFO - 2020-10-27 13:02:38 --> Security Class Initialized
+DEBUG - 2020-10-27 13:02:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:02:38 --> Input Class Initialized
+INFO - 2020-10-27 13:02:38 --> Language Class Initialized
+INFO - 2020-10-27 13:02:38 --> Loader Class Initialized
+INFO - 2020-10-27 13:02:38 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:02:38 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:02:38 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:02:38 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:02:38 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:02:38 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:02:38 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:02:38 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:02:38 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:02:38 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:02:38 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:02:38 --> Email Class Initialized
+DEBUG - 2020-10-27 13:02:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:02:38 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:02:38 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:02:38 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:02:38 --> Controller Class Initialized
+INFO - 2020-10-27 13:02:38 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:02:38 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:02:38 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:02:38 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:02:38 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:02:38 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:02:39 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:02:39 --> Helper loaded: manufacturing_no_helper
+INFO - 2020-10-27 13:02:39 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-10-27 13:03:12 --> Config Class Initialized
+INFO - 2020-10-27 13:03:12 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:03:12 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:03:12 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:03:12 --> URI Class Initialized
+INFO - 2020-10-27 13:03:12 --> Router Class Initialized
+INFO - 2020-10-27 13:03:12 --> Output Class Initialized
+INFO - 2020-10-27 13:03:12 --> Security Class Initialized
+DEBUG - 2020-10-27 13:03:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:03:12 --> Input Class Initialized
+INFO - 2020-10-27 13:03:12 --> Language Class Initialized
+INFO - 2020-10-27 13:03:12 --> Loader Class Initialized
+INFO - 2020-10-27 13:03:12 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:03:12 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:03:12 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:03:12 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:03:12 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:03:12 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:03:12 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:03:12 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:03:12 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:03:12 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:03:12 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:03:12 --> Email Class Initialized
+DEBUG - 2020-10-27 13:03:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:03:12 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:03:12 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:03:12 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:03:13 --> Controller Class Initialized
+INFO - 2020-10-27 13:03:13 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:03:13 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:03:13 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:03:13 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:03:13 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:03:13 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:03:13 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:03:13 --> Helper loaded: manufacturing_no_helper
+INFO - 2020-10-27 13:03:13 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-10-27 13:03:13 --> Config Class Initialized
+INFO - 2020-10-27 13:03:14 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:03:14 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:03:14 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:03:14 --> URI Class Initialized
+INFO - 2020-10-27 13:03:14 --> Router Class Initialized
+INFO - 2020-10-27 13:03:14 --> Output Class Initialized
+INFO - 2020-10-27 13:03:14 --> Security Class Initialized
+DEBUG - 2020-10-27 13:03:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:03:14 --> Input Class Initialized
+INFO - 2020-10-27 13:03:14 --> Language Class Initialized
+INFO - 2020-10-27 13:03:14 --> Loader Class Initialized
+INFO - 2020-10-27 13:03:14 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:03:14 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:03:14 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:03:14 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:03:14 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:03:14 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:03:14 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:03:14 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:03:14 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:03:14 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:03:14 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:03:14 --> Email Class Initialized
+DEBUG - 2020-10-27 13:03:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:03:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:03:14 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:03:14 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:03:14 --> Controller Class Initialized
+INFO - 2020-10-27 13:03:14 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:03:14 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:03:14 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:03:14 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:03:14 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:03:14 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:03:14 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 13:03:14 --> Could not find the language line "Inventory_Adjustment_View"
+ERROR - 2020-10-27 13:03:14 --> Could not find the language line "Inventory_Adjustment_List"
+ERROR - 2020-10-27 13:03:14 --> Could not find the language line "Inventory_Adjustment_List"
+ERROR - 2020-10-27 13:03:14 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:03:14 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:03:14 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:03:14 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:03:14 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:03:14 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:03:14 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/InventoryAdjustment/invoiceAdjustmentShow.php
+ERROR - 2020-10-27 13:03:14 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:03:15 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:03:15 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:03:15 --> Final output sent to browser
+DEBUG - 2020-10-27 13:03:15 --> Total execution time: 1.9598
+INFO - 2020-10-27 13:04:11 --> Config Class Initialized
+INFO - 2020-10-27 13:04:11 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:04:11 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:04:12 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:04:12 --> URI Class Initialized
+INFO - 2020-10-27 13:04:12 --> Router Class Initialized
+INFO - 2020-10-27 13:04:12 --> Output Class Initialized
+INFO - 2020-10-27 13:04:12 --> Security Class Initialized
+DEBUG - 2020-10-27 13:04:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:04:12 --> Input Class Initialized
+INFO - 2020-10-27 13:04:12 --> Language Class Initialized
+INFO - 2020-10-27 13:04:12 --> Loader Class Initialized
+INFO - 2020-10-27 13:04:12 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:04:12 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:04:12 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:04:12 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:04:12 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:04:12 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:04:12 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:04:12 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:04:12 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:04:12 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:04:12 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:04:12 --> Email Class Initialized
+DEBUG - 2020-10-27 13:04:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:04:12 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:04:12 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:04:12 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:04:12 --> Controller Class Initialized
+INFO - 2020-10-27 13:04:12 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:04:12 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:04:12 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:04:12 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:04:12 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:04:12 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:04:12 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:04:12 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:04:12 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:04:13 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:04:13 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:04:13 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:04:13 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:04:13 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:04:13 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:04:13 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:04:13 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:04:13 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:04:13 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:04:13 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:04:13 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:04:13 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:04:13 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:04:13 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:04:13 --> Final output sent to browser
+DEBUG - 2020-10-27 13:04:13 --> Total execution time: 1.2387
+INFO - 2020-10-27 13:04:47 --> Config Class Initialized
+INFO - 2020-10-27 13:04:47 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:04:47 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:04:47 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:04:47 --> URI Class Initialized
+INFO - 2020-10-27 13:04:47 --> Router Class Initialized
+INFO - 2020-10-27 13:04:48 --> Output Class Initialized
+INFO - 2020-10-27 13:04:48 --> Security Class Initialized
+DEBUG - 2020-10-27 13:04:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:04:48 --> Input Class Initialized
+INFO - 2020-10-27 13:04:48 --> Language Class Initialized
+ERROR - 2020-10-27 13:04:48 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 13:07:56 --> Config Class Initialized
+INFO - 2020-10-27 13:07:57 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:07:57 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:07:57 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:07:57 --> URI Class Initialized
+INFO - 2020-10-27 13:07:57 --> Router Class Initialized
+INFO - 2020-10-27 13:07:57 --> Output Class Initialized
+INFO - 2020-10-27 13:07:57 --> Security Class Initialized
+DEBUG - 2020-10-27 13:07:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:07:57 --> Input Class Initialized
+INFO - 2020-10-27 13:07:57 --> Language Class Initialized
+INFO - 2020-10-27 13:07:57 --> Loader Class Initialized
+INFO - 2020-10-27 13:07:57 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:07:57 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:07:57 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:07:57 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:07:57 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:07:57 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:07:57 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:07:57 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:07:57 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:07:57 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:07:57 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:07:57 --> Email Class Initialized
+DEBUG - 2020-10-27 13:07:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:07:57 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:07:57 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:07:57 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:07:57 --> Controller Class Initialized
+INFO - 2020-10-27 13:07:57 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:07:57 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:07:57 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:07:57 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:07:57 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:07:57 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:07:57 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:07:57 --> Helper loaded: manufacturing_no_helper
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:07:57 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:07:57 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:07:58 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:07:58 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:07:58 --> Final output sent to browser
+DEBUG - 2020-10-27 13:07:58 --> Total execution time: 1.3855
+INFO - 2020-10-27 13:08:45 --> Config Class Initialized
+INFO - 2020-10-27 13:08:45 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:08:45 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:08:45 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:08:45 --> URI Class Initialized
+INFO - 2020-10-27 13:08:45 --> Router Class Initialized
+INFO - 2020-10-27 13:08:45 --> Output Class Initialized
+INFO - 2020-10-27 13:08:45 --> Security Class Initialized
+DEBUG - 2020-10-27 13:08:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:08:45 --> Input Class Initialized
+INFO - 2020-10-27 13:08:45 --> Language Class Initialized
+ERROR - 2020-10-27 13:08:45 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 13:12:25 --> Config Class Initialized
+INFO - 2020-10-27 13:12:25 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:12:25 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:12:25 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:12:25 --> URI Class Initialized
+INFO - 2020-10-27 13:12:25 --> Router Class Initialized
+INFO - 2020-10-27 13:12:25 --> Output Class Initialized
+INFO - 2020-10-27 13:12:25 --> Security Class Initialized
+DEBUG - 2020-10-27 13:12:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:12:25 --> Input Class Initialized
+INFO - 2020-10-27 13:12:25 --> Language Class Initialized
+INFO - 2020-10-27 13:12:26 --> Loader Class Initialized
+INFO - 2020-10-27 13:12:26 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:12:26 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:12:26 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:12:26 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:12:26 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:12:26 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:12:26 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:12:26 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:12:26 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:12:26 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:12:26 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:12:26 --> Email Class Initialized
+DEBUG - 2020-10-27 13:12:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:12:26 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:12:26 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:12:26 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:12:26 --> Controller Class Initialized
+INFO - 2020-10-27 13:12:26 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:12:26 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:12:26 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:12:26 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:12:26 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:12:26 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:12:26 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:12:26 --> Helper loaded: manufacturing_no_helper
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Reference_No"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:12:26 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:12:26 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:12:27 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:12:27 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:12:27 --> Final output sent to browser
+DEBUG - 2020-10-27 13:12:27 --> Total execution time: 1.9618
+INFO - 2020-10-27 13:12:29 --> Config Class Initialized
+INFO - 2020-10-27 13:12:29 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:12:29 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:12:29 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:12:29 --> URI Class Initialized
+INFO - 2020-10-27 13:12:29 --> Router Class Initialized
+INFO - 2020-10-27 13:12:29 --> Output Class Initialized
+INFO - 2020-10-27 13:12:29 --> Security Class Initialized
+DEBUG - 2020-10-27 13:12:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:12:29 --> Input Class Initialized
+INFO - 2020-10-27 13:12:29 --> Language Class Initialized
+ERROR - 2020-10-27 13:12:29 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 13:14:16 --> Config Class Initialized
+INFO - 2020-10-27 13:14:16 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:14:16 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:14:16 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:14:16 --> URI Class Initialized
+INFO - 2020-10-27 13:14:16 --> Router Class Initialized
+INFO - 2020-10-27 13:14:16 --> Output Class Initialized
+INFO - 2020-10-27 13:14:16 --> Security Class Initialized
+DEBUG - 2020-10-27 13:14:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:14:16 --> Input Class Initialized
+INFO - 2020-10-27 13:14:16 --> Language Class Initialized
+INFO - 2020-10-27 13:14:16 --> Loader Class Initialized
+INFO - 2020-10-27 13:14:16 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:14:16 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:14:16 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:14:16 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:14:16 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:14:16 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:14:16 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:14:16 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:14:16 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:14:16 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:14:16 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:14:16 --> Email Class Initialized
+DEBUG - 2020-10-27 13:14:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:14:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:14:17 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:14:17 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:14:17 --> Controller Class Initialized
+INFO - 2020-10-27 13:14:17 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:14:17 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:14:17 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:14:17 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:14:17 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:14:17 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:14:17 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:14:17 --> Helper loaded: manufacturing_no_helper
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Reference_No"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:14:17 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:14:17 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:14:17 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:14:17 --> Final output sent to browser
+DEBUG - 2020-10-27 13:14:17 --> Total execution time: 1.3557
+INFO - 2020-10-27 13:14:19 --> Config Class Initialized
+INFO - 2020-10-27 13:14:19 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:14:19 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:14:19 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:14:19 --> URI Class Initialized
+INFO - 2020-10-27 13:14:19 --> Router Class Initialized
+INFO - 2020-10-27 13:14:20 --> Output Class Initialized
+INFO - 2020-10-27 13:14:20 --> Security Class Initialized
+DEBUG - 2020-10-27 13:14:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:14:20 --> Input Class Initialized
+INFO - 2020-10-27 13:14:20 --> Language Class Initialized
+ERROR - 2020-10-27 13:14:20 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 13:16:07 --> Config Class Initialized
+INFO - 2020-10-27 13:16:07 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:16:07 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:16:07 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:16:07 --> URI Class Initialized
+INFO - 2020-10-27 13:16:07 --> Router Class Initialized
+INFO - 2020-10-27 13:16:07 --> Output Class Initialized
+INFO - 2020-10-27 13:16:07 --> Security Class Initialized
+DEBUG - 2020-10-27 13:16:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:16:07 --> Input Class Initialized
+INFO - 2020-10-27 13:16:07 --> Language Class Initialized
+INFO - 2020-10-27 13:16:07 --> Loader Class Initialized
+INFO - 2020-10-27 13:16:07 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:16:07 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:16:07 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:16:07 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:16:08 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:16:08 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:16:08 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:16:08 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:16:08 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:16:08 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:16:08 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:16:08 --> Email Class Initialized
+DEBUG - 2020-10-27 13:16:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:16:08 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:16:08 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:16:08 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:16:08 --> Controller Class Initialized
+INFO - 2020-10-27 13:16:08 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:16:08 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:16:08 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:16:08 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:16:08 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:16:08 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:16:08 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:16:08 --> Helper loaded: manufacturing_no_helper
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Reference_No"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:16:08 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:16:08 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:16:08 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:16:09 --> Final output sent to browser
+DEBUG - 2020-10-27 13:16:09 --> Total execution time: 1.2047
+INFO - 2020-10-27 13:16:11 --> Config Class Initialized
+INFO - 2020-10-27 13:16:11 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:16:11 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:16:11 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:16:11 --> URI Class Initialized
+INFO - 2020-10-27 13:16:11 --> Router Class Initialized
+INFO - 2020-10-27 13:16:11 --> Output Class Initialized
+INFO - 2020-10-27 13:16:11 --> Security Class Initialized
+DEBUG - 2020-10-27 13:16:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:16:11 --> Input Class Initialized
+INFO - 2020-10-27 13:16:11 --> Language Class Initialized
+ERROR - 2020-10-27 13:16:11 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 13:20:25 --> Config Class Initialized
+INFO - 2020-10-27 13:20:25 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:20:25 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:20:25 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:20:25 --> URI Class Initialized
+INFO - 2020-10-27 13:20:25 --> Router Class Initialized
+INFO - 2020-10-27 13:20:25 --> Output Class Initialized
+INFO - 2020-10-27 13:20:25 --> Security Class Initialized
+DEBUG - 2020-10-27 13:20:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:20:25 --> Input Class Initialized
+INFO - 2020-10-27 13:20:25 --> Language Class Initialized
+INFO - 2020-10-27 13:20:26 --> Loader Class Initialized
+INFO - 2020-10-27 13:20:26 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:20:26 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:20:26 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:20:26 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:20:26 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:20:26 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:20:26 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:20:26 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:20:26 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:20:26 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:20:26 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:20:26 --> Email Class Initialized
+DEBUG - 2020-10-27 13:20:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:20:26 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:20:26 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:20:26 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:20:26 --> Controller Class Initialized
+INFO - 2020-10-27 13:20:26 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:20:26 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:20:26 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:20:26 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:20:26 --> Model "Dashboard_Model" initialized
+INFO - 2020-10-27 13:20:26 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:20:26 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:20:26 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 13:20:26 --> Could not find the language line "Si"
+ERROR - 2020-10-27 13:20:26 --> Could not find the language line "JV_No"
+ERROR - 2020-10-27 13:20:26 --> Could not find the language line "User_name"
+INFO - 2020-10-27 13:20:26 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/account/journal/journalVoucher.php
+ERROR - 2020-10-27 13:20:26 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:20:27 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:20:28 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:20:28 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:20:28 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:20:28 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:20:28 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:20:28 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:20:28 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:20:28 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:20:28 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:20:28 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:20:28 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:20:28 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:20:28 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:20:28 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:20:28 --> Final output sent to browser
+DEBUG - 2020-10-27 13:20:28 --> Total execution time: 2.3900
+INFO - 2020-10-27 13:20:31 --> Config Class Initialized
+INFO - 2020-10-27 13:20:31 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:20:31 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:20:31 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:20:31 --> URI Class Initialized
+INFO - 2020-10-27 13:20:31 --> Router Class Initialized
+INFO - 2020-10-27 13:20:31 --> Output Class Initialized
+INFO - 2020-10-27 13:20:31 --> Security Class Initialized
+DEBUG - 2020-10-27 13:20:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:20:31 --> Input Class Initialized
+INFO - 2020-10-27 13:20:31 --> Language Class Initialized
+INFO - 2020-10-27 13:20:31 --> Loader Class Initialized
+INFO - 2020-10-27 13:20:31 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:20:31 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:20:31 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:20:31 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:20:31 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:20:31 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:20:31 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:20:31 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:20:31 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:20:31 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:20:31 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:20:31 --> Email Class Initialized
+DEBUG - 2020-10-27 13:20:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:20:31 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:20:31 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:20:31 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:20:31 --> Controller Class Initialized
+INFO - 2020-10-27 13:20:31 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:20:31 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:20:31 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:20:31 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:20:31 --> Model "ServerFilterModel" initialized
+INFO - 2020-10-27 13:20:31 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:20:31 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:20:31 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:20:31 --> Final output sent to browser
+DEBUG - 2020-10-27 13:20:31 --> Total execution time: 0.5904
+INFO - 2020-10-27 13:20:38 --> Config Class Initialized
+INFO - 2020-10-27 13:20:39 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:20:39 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:20:39 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:20:39 --> URI Class Initialized
+INFO - 2020-10-27 13:20:39 --> Router Class Initialized
+INFO - 2020-10-27 13:20:39 --> Output Class Initialized
+INFO - 2020-10-27 13:20:39 --> Security Class Initialized
+DEBUG - 2020-10-27 13:20:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:20:39 --> Input Class Initialized
+INFO - 2020-10-27 13:20:39 --> Language Class Initialized
+INFO - 2020-10-27 13:20:39 --> Loader Class Initialized
+INFO - 2020-10-27 13:20:39 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:20:39 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:20:39 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:20:39 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:20:39 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:20:39 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:20:39 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:20:39 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:20:39 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:20:39 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:20:39 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:20:39 --> Email Class Initialized
+DEBUG - 2020-10-27 13:20:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:20:39 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:20:39 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:20:39 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:20:39 --> Controller Class Initialized
+INFO - 2020-10-27 13:20:39 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:20:39 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:20:39 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:20:39 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:20:39 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:20:39 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:20:39 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:20:39 --> Helper loaded: manufacturing_no_helper
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Reference_No"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:20:39 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:20:39 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:20:40 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:20:40 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:20:40 --> Final output sent to browser
+DEBUG - 2020-10-27 13:20:40 --> Total execution time: 1.3460
+INFO - 2020-10-27 13:20:41 --> Config Class Initialized
+INFO - 2020-10-27 13:20:42 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:20:42 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:20:42 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:20:42 --> URI Class Initialized
+INFO - 2020-10-27 13:20:42 --> Router Class Initialized
+INFO - 2020-10-27 13:20:42 --> Output Class Initialized
+INFO - 2020-10-27 13:20:42 --> Security Class Initialized
+DEBUG - 2020-10-27 13:20:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:20:42 --> Input Class Initialized
+INFO - 2020-10-27 13:20:42 --> Language Class Initialized
+ERROR - 2020-10-27 13:20:42 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 13:22:08 --> Config Class Initialized
+INFO - 2020-10-27 13:22:08 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:22:08 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:22:08 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:22:08 --> URI Class Initialized
+INFO - 2020-10-27 13:22:08 --> Router Class Initialized
+INFO - 2020-10-27 13:22:08 --> Output Class Initialized
+INFO - 2020-10-27 13:22:08 --> Security Class Initialized
+DEBUG - 2020-10-27 13:22:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:22:08 --> Input Class Initialized
+INFO - 2020-10-27 13:22:08 --> Language Class Initialized
+INFO - 2020-10-27 13:22:08 --> Loader Class Initialized
+INFO - 2020-10-27 13:22:08 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:22:08 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:22:08 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:22:08 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:22:08 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:22:08 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:22:08 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:22:08 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:22:08 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:22:08 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:22:08 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:22:08 --> Email Class Initialized
+DEBUG - 2020-10-27 13:22:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:22:08 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:22:08 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:22:08 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:22:08 --> Controller Class Initialized
+INFO - 2020-10-27 13:22:08 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:22:08 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:22:08 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:22:08 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:22:08 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:22:08 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:22:08 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:22:08 --> Helper loaded: manufacturing_no_helper
+ERROR - 2020-10-27 13:22:08 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 13:22:08 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:22:08 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:22:08 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 13:22:08 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 13:22:08 --> Could not find the language line "Reference_No"
+ERROR - 2020-10-27 13:22:08 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:22:08 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:22:09 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:22:09 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:22:09 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:22:09 --> Final output sent to browser
+DEBUG - 2020-10-27 13:22:09 --> Total execution time: 1.1892
+INFO - 2020-10-27 13:22:11 --> Config Class Initialized
+INFO - 2020-10-27 13:22:11 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:22:11 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:22:11 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:22:11 --> URI Class Initialized
+INFO - 2020-10-27 13:22:12 --> Router Class Initialized
+INFO - 2020-10-27 13:22:12 --> Output Class Initialized
+INFO - 2020-10-27 13:22:12 --> Security Class Initialized
+DEBUG - 2020-10-27 13:22:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:22:12 --> Input Class Initialized
+INFO - 2020-10-27 13:22:12 --> Language Class Initialized
+ERROR - 2020-10-27 13:22:12 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 13:22:35 --> Config Class Initialized
+INFO - 2020-10-27 13:22:35 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:22:35 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:22:35 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:22:36 --> URI Class Initialized
+INFO - 2020-10-27 13:22:36 --> Router Class Initialized
+INFO - 2020-10-27 13:22:36 --> Output Class Initialized
+INFO - 2020-10-27 13:22:36 --> Security Class Initialized
+DEBUG - 2020-10-27 13:22:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:22:36 --> Input Class Initialized
+INFO - 2020-10-27 13:22:36 --> Language Class Initialized
+INFO - 2020-10-27 13:22:36 --> Loader Class Initialized
+INFO - 2020-10-27 13:22:36 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:22:36 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:22:36 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:22:36 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:22:36 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:22:36 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:22:36 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:22:36 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:22:36 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:22:36 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:22:36 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:22:36 --> Email Class Initialized
+DEBUG - 2020-10-27 13:22:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:22:36 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:22:36 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:22:36 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:22:36 --> Controller Class Initialized
+INFO - 2020-10-27 13:22:36 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:22:36 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:22:36 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:22:36 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:22:36 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:22:36 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:22:36 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:22:36 --> Helper loaded: manufacturing_no_helper
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Reference_No"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:22:36 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:22:36 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:22:37 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:22:37 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:22:37 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:22:37 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:22:37 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:22:37 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:22:37 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:22:37 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:22:37 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:22:37 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:22:37 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:22:37 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:22:37 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:22:37 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:22:37 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:22:37 --> Final output sent to browser
+DEBUG - 2020-10-27 13:22:37 --> Total execution time: 1.2186
+INFO - 2020-10-27 13:22:38 --> Config Class Initialized
+INFO - 2020-10-27 13:22:38 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:22:39 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:22:39 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:22:39 --> URI Class Initialized
+INFO - 2020-10-27 13:22:39 --> Router Class Initialized
+INFO - 2020-10-27 13:22:39 --> Output Class Initialized
+INFO - 2020-10-27 13:22:39 --> Security Class Initialized
+DEBUG - 2020-10-27 13:22:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:22:39 --> Input Class Initialized
+INFO - 2020-10-27 13:22:39 --> Language Class Initialized
+ERROR - 2020-10-27 13:22:39 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 13:23:08 --> Config Class Initialized
+INFO - 2020-10-27 13:23:08 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:23:08 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:23:08 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:23:08 --> URI Class Initialized
+INFO - 2020-10-27 13:23:08 --> Router Class Initialized
+INFO - 2020-10-27 13:23:08 --> Output Class Initialized
+INFO - 2020-10-27 13:23:08 --> Security Class Initialized
+DEBUG - 2020-10-27 13:23:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:23:08 --> Input Class Initialized
+INFO - 2020-10-27 13:23:08 --> Language Class Initialized
+INFO - 2020-10-27 13:23:08 --> Loader Class Initialized
+INFO - 2020-10-27 13:23:08 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:23:08 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:23:08 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:23:08 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:23:08 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:23:08 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:23:08 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:23:08 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:23:08 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:23:08 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:23:08 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:23:08 --> Email Class Initialized
+DEBUG - 2020-10-27 13:23:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:23:08 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:23:08 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:23:08 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:23:08 --> Controller Class Initialized
+INFO - 2020-10-27 13:23:08 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:23:08 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:23:08 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:23:08 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:23:08 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:23:08 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:23:08 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:23:08 --> Helper loaded: manufacturing_no_helper
+ERROR - 2020-10-27 13:23:08 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 13:23:08 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:23:08 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:23:08 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 13:23:08 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 13:23:08 --> Could not find the language line "Reference_No"
+ERROR - 2020-10-27 13:23:08 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:23:08 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:23:08 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:23:08 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:23:08 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:23:08 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:23:09 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:23:09 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:23:09 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:23:09 --> Final output sent to browser
+DEBUG - 2020-10-27 13:23:09 --> Total execution time: 1.1936
+INFO - 2020-10-27 13:23:11 --> Config Class Initialized
+INFO - 2020-10-27 13:23:11 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:23:11 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:23:11 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:23:11 --> URI Class Initialized
+INFO - 2020-10-27 13:23:11 --> Router Class Initialized
+INFO - 2020-10-27 13:23:11 --> Output Class Initialized
+INFO - 2020-10-27 13:23:12 --> Security Class Initialized
+DEBUG - 2020-10-27 13:23:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:23:12 --> Input Class Initialized
+INFO - 2020-10-27 13:23:12 --> Language Class Initialized
+ERROR - 2020-10-27 13:23:12 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 13:24:55 --> Config Class Initialized
+INFO - 2020-10-27 13:24:55 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:24:55 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:24:55 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:24:55 --> URI Class Initialized
+INFO - 2020-10-27 13:24:55 --> Router Class Initialized
+INFO - 2020-10-27 13:24:55 --> Output Class Initialized
+INFO - 2020-10-27 13:24:55 --> Security Class Initialized
+DEBUG - 2020-10-27 13:24:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:24:55 --> Input Class Initialized
+INFO - 2020-10-27 13:24:55 --> Language Class Initialized
+INFO - 2020-10-27 13:24:55 --> Loader Class Initialized
+INFO - 2020-10-27 13:24:55 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:24:55 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:24:55 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:24:55 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:24:55 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:24:55 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:24:55 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:24:55 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:24:55 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:24:55 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:24:55 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:24:55 --> Email Class Initialized
+DEBUG - 2020-10-27 13:24:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:24:55 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:24:55 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:24:55 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:24:55 --> Controller Class Initialized
+INFO - 2020-10-27 13:24:55 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:24:55 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:24:55 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:24:55 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:24:55 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:24:55 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:24:55 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:24:55 --> Helper loaded: manufacturing_no_helper
+ERROR - 2020-10-27 13:24:55 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 13:24:55 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:24:55 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Reference_No"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:24:56 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:24:56 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:24:56 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:24:56 --> Final output sent to browser
+DEBUG - 2020-10-27 13:24:56 --> Total execution time: 1.2317
+INFO - 2020-10-27 13:24:58 --> Config Class Initialized
+INFO - 2020-10-27 13:24:58 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:24:58 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:24:58 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:24:58 --> URI Class Initialized
+INFO - 2020-10-27 13:24:58 --> Router Class Initialized
+INFO - 2020-10-27 13:24:58 --> Output Class Initialized
+INFO - 2020-10-27 13:24:58 --> Security Class Initialized
+DEBUG - 2020-10-27 13:24:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:24:59 --> Input Class Initialized
+INFO - 2020-10-27 13:24:59 --> Language Class Initialized
+ERROR - 2020-10-27 13:24:59 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 13:26:44 --> Config Class Initialized
+INFO - 2020-10-27 13:26:44 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:26:44 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:26:44 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:26:44 --> URI Class Initialized
+INFO - 2020-10-27 13:26:44 --> Router Class Initialized
+INFO - 2020-10-27 13:26:44 --> Output Class Initialized
+INFO - 2020-10-27 13:26:44 --> Security Class Initialized
+DEBUG - 2020-10-27 13:26:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:26:44 --> Input Class Initialized
+INFO - 2020-10-27 13:26:44 --> Language Class Initialized
+INFO - 2020-10-27 13:26:44 --> Loader Class Initialized
+INFO - 2020-10-27 13:26:44 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:26:44 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:26:44 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:26:44 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:26:44 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:26:44 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:26:44 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:26:44 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:26:45 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:26:45 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:26:45 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:26:45 --> Email Class Initialized
+DEBUG - 2020-10-27 13:26:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:26:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:26:45 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:26:45 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:26:45 --> Controller Class Initialized
+INFO - 2020-10-27 13:26:45 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:26:45 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:26:45 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:26:45 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:26:45 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:26:45 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:26:45 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:26:45 --> Helper loaded: manufacturing_no_helper
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Reference_No"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:26:45 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:26:45 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:26:46 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:26:46 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:26:46 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:26:46 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:26:46 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:26:46 --> Final output sent to browser
+DEBUG - 2020-10-27 13:26:46 --> Total execution time: 1.4367
+INFO - 2020-10-27 13:26:48 --> Config Class Initialized
+INFO - 2020-10-27 13:26:48 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:26:48 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:26:48 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:26:48 --> URI Class Initialized
+INFO - 2020-10-27 13:26:48 --> Router Class Initialized
+INFO - 2020-10-27 13:26:48 --> Output Class Initialized
+INFO - 2020-10-27 13:26:48 --> Security Class Initialized
+DEBUG - 2020-10-27 13:26:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:26:48 --> Input Class Initialized
+INFO - 2020-10-27 13:26:48 --> Language Class Initialized
+ERROR - 2020-10-27 13:26:48 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 13:27:37 --> Config Class Initialized
+INFO - 2020-10-27 13:27:37 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:27:37 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:27:37 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:27:37 --> URI Class Initialized
+INFO - 2020-10-27 13:27:37 --> Router Class Initialized
+INFO - 2020-10-27 13:27:37 --> Output Class Initialized
+INFO - 2020-10-27 13:27:37 --> Security Class Initialized
+DEBUG - 2020-10-27 13:27:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:27:37 --> Input Class Initialized
+INFO - 2020-10-27 13:27:37 --> Language Class Initialized
+INFO - 2020-10-27 13:27:37 --> Loader Class Initialized
+INFO - 2020-10-27 13:27:37 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:27:37 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:27:37 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:27:37 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:27:37 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:27:37 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:27:37 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:27:37 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:27:37 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:27:37 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:27:37 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:27:37 --> Email Class Initialized
+DEBUG - 2020-10-27 13:27:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:27:37 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:27:37 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:27:37 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:27:37 --> Controller Class Initialized
+INFO - 2020-10-27 13:27:37 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:27:37 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:27:37 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:27:37 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:27:37 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:27:37 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:27:37 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:27:37 --> Helper loaded: manufacturing_no_helper
+ERROR - 2020-10-27 13:27:37 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 13:27:37 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:27:37 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:27:37 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 13:27:37 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 13:27:37 --> Could not find the language line "Reference_No"
+ERROR - 2020-10-27 13:27:37 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:27:37 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:27:37 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:27:37 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:27:37 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:27:37 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:27:38 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:27:38 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:27:38 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:27:38 --> Final output sent to browser
+DEBUG - 2020-10-27 13:27:38 --> Total execution time: 1.2642
+INFO - 2020-10-27 13:27:40 --> Config Class Initialized
+INFO - 2020-10-27 13:27:40 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:27:40 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:27:40 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:27:40 --> URI Class Initialized
+INFO - 2020-10-27 13:27:40 --> Router Class Initialized
+INFO - 2020-10-27 13:27:40 --> Output Class Initialized
+INFO - 2020-10-27 13:27:40 --> Security Class Initialized
+DEBUG - 2020-10-27 13:27:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:27:40 --> Input Class Initialized
+INFO - 2020-10-27 13:27:41 --> Language Class Initialized
+ERROR - 2020-10-27 13:27:41 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 13:29:02 --> Config Class Initialized
+INFO - 2020-10-27 13:29:02 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:29:02 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:29:02 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:29:02 --> URI Class Initialized
+INFO - 2020-10-27 13:29:02 --> Router Class Initialized
+INFO - 2020-10-27 13:29:02 --> Output Class Initialized
+INFO - 2020-10-27 13:29:02 --> Security Class Initialized
+DEBUG - 2020-10-27 13:29:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:29:02 --> Input Class Initialized
+INFO - 2020-10-27 13:29:02 --> Language Class Initialized
+INFO - 2020-10-27 13:29:02 --> Loader Class Initialized
+INFO - 2020-10-27 13:29:02 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:29:02 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:29:02 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:29:02 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:29:02 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:29:02 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:29:02 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:29:02 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:29:02 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:29:02 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:29:02 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:29:02 --> Email Class Initialized
+DEBUG - 2020-10-27 13:29:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:29:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:29:02 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:29:02 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:29:02 --> Controller Class Initialized
+INFO - 2020-10-27 13:29:02 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:29:02 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:29:02 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:29:02 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:29:02 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:29:02 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:29:02 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:29:02 --> Helper loaded: manufacturing_no_helper
+ERROR - 2020-10-27 13:29:02 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 13:29:02 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:29:02 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:29:02 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 13:29:02 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 13:29:02 --> Could not find the language line "Reference_No"
+ERROR - 2020-10-27 13:29:02 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:29:02 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:29:02 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:29:02 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:29:02 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:29:02 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:29:02 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 13:29:02 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:29:02 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:29:02 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:29:02 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:29:02 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:29:02 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:29:02 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:29:02 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:29:03 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:29:03 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:29:03 --> Final output sent to browser
+DEBUG - 2020-10-27 13:29:03 --> Total execution time: 1.2239
+INFO - 2020-10-27 13:29:05 --> Config Class Initialized
+INFO - 2020-10-27 13:29:05 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:29:05 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:29:05 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:29:05 --> URI Class Initialized
+INFO - 2020-10-27 13:29:05 --> Router Class Initialized
+INFO - 2020-10-27 13:29:05 --> Output Class Initialized
+INFO - 2020-10-27 13:29:05 --> Security Class Initialized
+DEBUG - 2020-10-27 13:29:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:29:05 --> Input Class Initialized
+INFO - 2020-10-27 13:29:05 --> Language Class Initialized
+ERROR - 2020-10-27 13:29:05 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 13:29:22 --> Config Class Initialized
+INFO - 2020-10-27 13:29:22 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:29:22 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:29:22 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:29:22 --> URI Class Initialized
+INFO - 2020-10-27 13:29:22 --> Router Class Initialized
+INFO - 2020-10-27 13:29:22 --> Output Class Initialized
+INFO - 2020-10-27 13:29:22 --> Security Class Initialized
+DEBUG - 2020-10-27 13:29:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:29:22 --> Input Class Initialized
+INFO - 2020-10-27 13:29:22 --> Language Class Initialized
+INFO - 2020-10-27 13:29:22 --> Loader Class Initialized
+INFO - 2020-10-27 13:29:22 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:29:22 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:29:22 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:29:22 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:29:22 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:29:22 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:29:22 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:29:22 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:29:22 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:29:22 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:29:22 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:29:22 --> Email Class Initialized
+DEBUG - 2020-10-27 13:29:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:29:22 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:29:22 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:29:22 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:29:22 --> Controller Class Initialized
+INFO - 2020-10-27 13:29:23 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:29:23 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:29:23 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:29:23 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:29:23 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:29:23 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:29:23 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:29:23 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:29:23 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:29:24 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:29:24 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:29:24 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:29:24 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:29:24 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:29:24 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:29:24 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:29:24 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:29:24 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:29:24 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:29:24 --> Final output sent to browser
+DEBUG - 2020-10-27 13:29:24 --> Total execution time: 1.6148
+INFO - 2020-10-27 13:29:39 --> Config Class Initialized
+INFO - 2020-10-27 13:29:39 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:29:39 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:29:39 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:29:39 --> URI Class Initialized
+INFO - 2020-10-27 13:29:39 --> Router Class Initialized
+INFO - 2020-10-27 13:29:39 --> Output Class Initialized
+INFO - 2020-10-27 13:29:39 --> Security Class Initialized
+DEBUG - 2020-10-27 13:29:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:29:39 --> Input Class Initialized
+INFO - 2020-10-27 13:29:39 --> Language Class Initialized
+INFO - 2020-10-27 13:29:39 --> Loader Class Initialized
+INFO - 2020-10-27 13:29:39 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:29:39 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:29:39 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:29:39 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:29:39 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:29:39 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:29:39 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:29:39 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:29:39 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:29:39 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:29:39 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:29:39 --> Email Class Initialized
+DEBUG - 2020-10-27 13:29:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:29:40 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:29:40 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:29:40 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:29:40 --> Controller Class Initialized
+INFO - 2020-10-27 13:29:40 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:29:40 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:29:40 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:29:40 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:29:40 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:29:40 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:29:40 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:29:41 --> Config Class Initialized
+INFO - 2020-10-27 13:29:41 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:29:41 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:29:41 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:29:41 --> URI Class Initialized
+INFO - 2020-10-27 13:29:41 --> Router Class Initialized
+INFO - 2020-10-27 13:29:41 --> Output Class Initialized
+INFO - 2020-10-27 13:29:41 --> Security Class Initialized
+DEBUG - 2020-10-27 13:29:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:29:41 --> Input Class Initialized
+INFO - 2020-10-27 13:29:41 --> Language Class Initialized
+INFO - 2020-10-27 13:29:41 --> Loader Class Initialized
+INFO - 2020-10-27 13:29:41 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:29:41 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:29:41 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:29:41 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:29:41 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:29:41 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:29:41 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:29:41 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:29:41 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:29:41 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:29:41 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:29:41 --> Email Class Initialized
+DEBUG - 2020-10-27 13:29:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:29:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:29:41 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:29:41 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:29:41 --> Controller Class Initialized
+INFO - 2020-10-27 13:29:41 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:29:41 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:29:41 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:29:41 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:29:41 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:29:41 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:29:41 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:29:41 --> Final output sent to browser
+DEBUG - 2020-10-27 13:29:41 --> Total execution time: 0.4944
+INFO - 2020-10-27 13:29:53 --> Config Class Initialized
+INFO - 2020-10-27 13:29:53 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:29:53 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:29:53 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:29:53 --> URI Class Initialized
+INFO - 2020-10-27 13:29:53 --> Router Class Initialized
+INFO - 2020-10-27 13:29:53 --> Output Class Initialized
+INFO - 2020-10-27 13:29:53 --> Security Class Initialized
+DEBUG - 2020-10-27 13:29:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:29:53 --> Input Class Initialized
+INFO - 2020-10-27 13:29:53 --> Language Class Initialized
+INFO - 2020-10-27 13:29:53 --> Loader Class Initialized
+INFO - 2020-10-27 13:29:53 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:29:53 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:29:53 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:29:53 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:29:53 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:29:53 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:29:53 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:29:53 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:29:53 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:29:53 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:29:53 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:29:53 --> Email Class Initialized
+DEBUG - 2020-10-27 13:29:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:29:53 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:29:53 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:29:53 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:29:53 --> Controller Class Initialized
+INFO - 2020-10-27 13:29:53 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:29:53 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:29:53 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:29:53 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:29:53 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:29:53 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:29:53 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:29:54 --> Config Class Initialized
+INFO - 2020-10-27 13:29:54 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:29:54 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:29:54 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:29:54 --> URI Class Initialized
+INFO - 2020-10-27 13:29:54 --> Router Class Initialized
+INFO - 2020-10-27 13:29:54 --> Output Class Initialized
+INFO - 2020-10-27 13:29:55 --> Security Class Initialized
+DEBUG - 2020-10-27 13:29:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:29:55 --> Input Class Initialized
+INFO - 2020-10-27 13:29:55 --> Language Class Initialized
+INFO - 2020-10-27 13:29:55 --> Loader Class Initialized
+INFO - 2020-10-27 13:29:55 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:29:55 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:29:55 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:29:55 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:29:55 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:29:55 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:29:55 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:29:55 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:29:55 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:29:55 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:29:55 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:29:55 --> Email Class Initialized
+DEBUG - 2020-10-27 13:29:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:29:55 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:29:55 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:29:55 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:29:55 --> Controller Class Initialized
+INFO - 2020-10-27 13:29:55 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:29:55 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:29:55 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:29:55 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:29:55 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:29:55 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:29:55 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:29:55 --> Final output sent to browser
+DEBUG - 2020-10-27 13:29:55 --> Total execution time: 0.4861
+INFO - 2020-10-27 13:30:01 --> Config Class Initialized
+INFO - 2020-10-27 13:30:01 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:30:01 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:30:01 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:30:01 --> URI Class Initialized
+INFO - 2020-10-27 13:30:01 --> Router Class Initialized
+INFO - 2020-10-27 13:30:01 --> Output Class Initialized
+INFO - 2020-10-27 13:30:01 --> Security Class Initialized
+DEBUG - 2020-10-27 13:30:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:30:01 --> Input Class Initialized
+INFO - 2020-10-27 13:30:01 --> Language Class Initialized
+INFO - 2020-10-27 13:30:01 --> Loader Class Initialized
+INFO - 2020-10-27 13:30:01 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:30:01 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:30:01 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:30:01 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:30:01 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:30:01 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:30:02 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:30:02 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:30:02 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:30:02 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:30:02 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:30:02 --> Email Class Initialized
+DEBUG - 2020-10-27 13:30:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:30:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:30:02 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:30:02 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:30:02 --> Controller Class Initialized
+INFO - 2020-10-27 13:30:02 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:30:02 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:30:02 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:30:02 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:30:02 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:30:02 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:30:02 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:30:02 --> Helper loaded: manufacturing_no_helper
+INFO - 2020-10-27 13:30:02 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-10-27 13:30:02 --> Config Class Initialized
+INFO - 2020-10-27 13:30:02 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:30:02 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:30:02 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:30:02 --> URI Class Initialized
+INFO - 2020-10-27 13:30:02 --> Router Class Initialized
+INFO - 2020-10-27 13:30:02 --> Output Class Initialized
+INFO - 2020-10-27 13:30:02 --> Security Class Initialized
+DEBUG - 2020-10-27 13:30:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:30:02 --> Input Class Initialized
+INFO - 2020-10-27 13:30:02 --> Language Class Initialized
+INFO - 2020-10-27 13:30:02 --> Loader Class Initialized
+INFO - 2020-10-27 13:30:02 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:30:02 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:30:02 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:30:02 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:30:02 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:30:02 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:30:02 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:30:02 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:30:02 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:30:02 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:30:02 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:30:02 --> Email Class Initialized
+DEBUG - 2020-10-27 13:30:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:30:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:30:02 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:30:02 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:30:02 --> Controller Class Initialized
+INFO - 2020-10-27 13:30:02 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:30:02 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:30:02 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:30:02 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:30:02 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:30:02 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:30:02 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 13:30:02 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 13:30:02 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:30:02 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:30:02 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 13:30:02 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 13:30:02 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:30:02 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:30:02 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:30:02 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:30:02 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:30:02 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:30:02 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 13:30:02 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:30:02 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:30:03 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:30:03 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:30:03 --> Final output sent to browser
+DEBUG - 2020-10-27 13:30:03 --> Total execution time: 1.2173
+INFO - 2020-10-27 13:30:26 --> Config Class Initialized
+INFO - 2020-10-27 13:30:26 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:30:26 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:30:26 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:30:26 --> URI Class Initialized
+INFO - 2020-10-27 13:30:26 --> Router Class Initialized
+INFO - 2020-10-27 13:30:26 --> Output Class Initialized
+INFO - 2020-10-27 13:30:26 --> Security Class Initialized
+DEBUG - 2020-10-27 13:30:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:30:26 --> Input Class Initialized
+INFO - 2020-10-27 13:30:26 --> Language Class Initialized
+INFO - 2020-10-27 13:30:26 --> Loader Class Initialized
+INFO - 2020-10-27 13:30:26 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:30:26 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:30:26 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:30:26 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:30:26 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:30:26 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:30:26 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:30:26 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:30:26 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:30:26 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:30:26 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:30:26 --> Email Class Initialized
+DEBUG - 2020-10-27 13:30:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:30:26 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:30:26 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:30:26 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:30:26 --> Controller Class Initialized
+INFO - 2020-10-27 13:30:26 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:30:26 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:30:27 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:30:27 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:30:27 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:30:27 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:30:27 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Inventory_Adjustment_View"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Inventory_Adjustment_List"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Inventory_Adjustment_List"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:30:27 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/InventoryAdjustment/invoiceAdjustmentShow.php
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:30:27 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:30:27 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:30:27 --> Final output sent to browser
+DEBUG - 2020-10-27 13:30:27 --> Total execution time: 1.2587
+INFO - 2020-10-27 13:30:31 --> Config Class Initialized
+INFO - 2020-10-27 13:30:31 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:30:31 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:30:31 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:30:31 --> URI Class Initialized
+INFO - 2020-10-27 13:30:31 --> Router Class Initialized
+INFO - 2020-10-27 13:30:31 --> Output Class Initialized
+INFO - 2020-10-27 13:30:31 --> Security Class Initialized
+DEBUG - 2020-10-27 13:30:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:30:31 --> Input Class Initialized
+INFO - 2020-10-27 13:30:31 --> Language Class Initialized
+INFO - 2020-10-27 13:30:31 --> Loader Class Initialized
+INFO - 2020-10-27 13:30:31 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:30:31 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:30:31 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:30:31 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:30:31 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:30:31 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:30:31 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:30:31 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:30:31 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:30:31 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:30:31 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:30:31 --> Email Class Initialized
+DEBUG - 2020-10-27 13:30:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:30:31 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:30:31 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:30:31 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:30:31 --> Controller Class Initialized
+INFO - 2020-10-27 13:30:31 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:30:31 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:30:32 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:30:32 --> Config Class Initialized
+INFO - 2020-10-27 13:30:32 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:30:32 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:30:32 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:30:32 --> URI Class Initialized
+INFO - 2020-10-27 13:30:32 --> Router Class Initialized
+INFO - 2020-10-27 13:30:32 --> Output Class Initialized
+INFO - 2020-10-27 13:30:32 --> Security Class Initialized
+INFO - 2020-10-27 13:30:32 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:30:32 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:30:32 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:30:32 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:30:32 --> Helper loaded: manufacturing_no_helper
+DEBUG - 2020-10-27 13:30:32 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Manufacturing_List"
+INFO - 2020-10-27 13:30:32 --> Input Class Initialized
+INFO - 2020-10-27 13:30:32 --> Language Class Initialized
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Manufacturing_List"
+INFO - 2020-10-27 13:30:32 --> Loader Class Initialized
+INFO - 2020-10-27 13:30:32 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:30:32 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:30:32 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:30:32 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:30:32 --> Helper loaded: multi_language_helper
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Branch"
+INFO - 2020-10-27 13:30:32 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:30:32 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:30:32 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:30:32 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:30:32 --> Helper loaded: account_ledger_dropdown_helper
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Order_No"
+INFO - 2020-10-27 13:30:32 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:30:32 --> Email Class Initialized
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Reference_No"
+DEBUG - 2020-10-27 13:30:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:30:32 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:30:32 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:30:32 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:30:32 --> Final output sent to browser
+DEBUG - 2020-10-27 13:30:32 --> Total execution time: 1.3426
+INFO - 2020-10-27 13:30:32 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:30:32 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:30:32 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:30:32 --> Controller Class Initialized
+INFO - 2020-10-27 13:30:32 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:30:32 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:30:32 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:30:32 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:30:32 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:30:32 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:30:33 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:30:33 --> Helper loaded: manufacturing_no_helper
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Reference_No"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:30:33 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:30:33 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:30:33 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:30:33 --> Final output sent to browser
+DEBUG - 2020-10-27 13:30:33 --> Total execution time: 1.7455
+INFO - 2020-10-27 13:30:37 --> Config Class Initialized
+INFO - 2020-10-27 13:30:37 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:30:37 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:30:37 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:30:37 --> URI Class Initialized
+INFO - 2020-10-27 13:30:37 --> Router Class Initialized
+INFO - 2020-10-27 13:30:37 --> Output Class Initialized
+INFO - 2020-10-27 13:30:37 --> Security Class Initialized
+DEBUG - 2020-10-27 13:30:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:30:37 --> Input Class Initialized
+INFO - 2020-10-27 13:30:37 --> Language Class Initialized
+INFO - 2020-10-27 13:30:37 --> Loader Class Initialized
+INFO - 2020-10-27 13:30:37 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:30:37 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:30:37 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:30:37 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:30:37 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:30:37 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:30:37 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:30:37 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:30:37 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:30:37 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:30:37 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:30:37 --> Email Class Initialized
+DEBUG - 2020-10-27 13:30:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:30:37 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:30:37 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:30:37 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:30:37 --> Controller Class Initialized
+INFO - 2020-10-27 13:30:37 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:30:38 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:30:38 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:30:38 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:30:38 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:30:38 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:30:38 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:30:38 --> Helper loaded: manufacturing_no_helper
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Reference_No"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:30:38 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:30:38 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:30:38 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:30:38 --> Final output sent to browser
+DEBUG - 2020-10-27 13:30:39 --> Total execution time: 1.4011
+INFO - 2020-10-27 13:30:47 --> Config Class Initialized
+INFO - 2020-10-27 13:30:47 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:30:47 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:30:47 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:30:47 --> URI Class Initialized
+INFO - 2020-10-27 13:30:47 --> Router Class Initialized
+INFO - 2020-10-27 13:30:47 --> Output Class Initialized
+INFO - 2020-10-27 13:30:47 --> Security Class Initialized
+DEBUG - 2020-10-27 13:30:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:30:47 --> Input Class Initialized
+INFO - 2020-10-27 13:30:47 --> Language Class Initialized
+INFO - 2020-10-27 13:30:47 --> Loader Class Initialized
+INFO - 2020-10-27 13:30:47 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:30:47 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:30:47 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:30:47 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:30:47 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:30:47 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:30:47 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:30:47 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:30:47 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:30:47 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:30:47 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:30:47 --> Email Class Initialized
+DEBUG - 2020-10-27 13:30:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:30:47 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:30:47 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:30:47 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:30:47 --> Controller Class Initialized
+INFO - 2020-10-27 13:30:47 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:30:47 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:30:47 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:30:47 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:30:48 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:30:48 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:30:48 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:30:48 --> Config Class Initialized
+INFO - 2020-10-27 13:30:48 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:30:48 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:30:48 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:30:48 --> URI Class Initialized
+INFO - 2020-10-27 13:30:48 --> Router Class Initialized
+INFO - 2020-10-27 13:30:48 --> Output Class Initialized
+INFO - 2020-10-27 13:30:48 --> Security Class Initialized
+DEBUG - 2020-10-27 13:30:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:30:48 --> Input Class Initialized
+INFO - 2020-10-27 13:30:48 --> Language Class Initialized
+INFO - 2020-10-27 13:30:48 --> Loader Class Initialized
+INFO - 2020-10-27 13:30:48 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:30:49 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:30:49 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:30:49 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:30:49 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:30:49 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:30:49 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:30:49 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:30:49 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:30:49 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:30:49 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:30:49 --> Email Class Initialized
+DEBUG - 2020-10-27 13:30:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:30:49 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:30:49 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:30:49 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:30:49 --> Controller Class Initialized
+INFO - 2020-10-27 13:30:49 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:30:49 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:30:49 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:30:49 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:30:49 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:30:49 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:30:49 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:30:49 --> Final output sent to browser
+DEBUG - 2020-10-27 13:30:49 --> Total execution time: 0.4539
+INFO - 2020-10-27 13:31:01 --> Config Class Initialized
+INFO - 2020-10-27 13:31:01 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:31:01 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:31:01 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:31:01 --> URI Class Initialized
+INFO - 2020-10-27 13:31:01 --> Router Class Initialized
+INFO - 2020-10-27 13:31:01 --> Output Class Initialized
+INFO - 2020-10-27 13:31:01 --> Security Class Initialized
+DEBUG - 2020-10-27 13:31:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:31:01 --> Input Class Initialized
+INFO - 2020-10-27 13:31:01 --> Language Class Initialized
+INFO - 2020-10-27 13:31:01 --> Loader Class Initialized
+INFO - 2020-10-27 13:31:01 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:31:01 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:31:01 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:31:01 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:31:01 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:31:01 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:31:01 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:31:01 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:31:01 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:31:01 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:31:01 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:31:01 --> Email Class Initialized
+DEBUG - 2020-10-27 13:31:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:31:01 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:31:01 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:31:01 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:31:01 --> Controller Class Initialized
+INFO - 2020-10-27 13:31:01 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:31:01 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:31:01 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:31:01 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:31:01 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:31:01 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:31:01 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:31:02 --> Config Class Initialized
+INFO - 2020-10-27 13:31:02 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:31:02 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:31:02 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:31:02 --> URI Class Initialized
+INFO - 2020-10-27 13:31:02 --> Router Class Initialized
+INFO - 2020-10-27 13:31:02 --> Output Class Initialized
+INFO - 2020-10-27 13:31:02 --> Security Class Initialized
+DEBUG - 2020-10-27 13:31:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:31:02 --> Input Class Initialized
+INFO - 2020-10-27 13:31:02 --> Language Class Initialized
+INFO - 2020-10-27 13:31:02 --> Loader Class Initialized
+INFO - 2020-10-27 13:31:02 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:31:02 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:31:02 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:31:02 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:31:02 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:31:02 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:31:02 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:31:02 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:31:02 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:31:02 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:31:02 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:31:02 --> Email Class Initialized
+DEBUG - 2020-10-27 13:31:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:31:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:31:02 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:31:02 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:31:02 --> Controller Class Initialized
+INFO - 2020-10-27 13:31:02 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:31:02 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:31:02 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:31:02 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:31:02 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:31:02 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:31:02 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:31:02 --> Final output sent to browser
+DEBUG - 2020-10-27 13:31:02 --> Total execution time: 0.4816
+INFO - 2020-10-27 13:31:10 --> Config Class Initialized
+INFO - 2020-10-27 13:31:10 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:31:10 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:31:10 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:31:10 --> URI Class Initialized
+INFO - 2020-10-27 13:31:10 --> Router Class Initialized
+INFO - 2020-10-27 13:31:10 --> Output Class Initialized
+INFO - 2020-10-27 13:31:10 --> Security Class Initialized
+DEBUG - 2020-10-27 13:31:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:31:10 --> Input Class Initialized
+INFO - 2020-10-27 13:31:10 --> Language Class Initialized
+INFO - 2020-10-27 13:31:10 --> Loader Class Initialized
+INFO - 2020-10-27 13:31:10 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:31:10 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:31:10 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:31:10 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:31:10 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:31:10 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:31:10 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:31:10 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:31:10 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:31:10 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:31:10 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:31:10 --> Email Class Initialized
+DEBUG - 2020-10-27 13:31:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:31:10 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:31:10 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:31:10 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:31:10 --> Controller Class Initialized
+INFO - 2020-10-27 13:31:10 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:31:10 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:31:11 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:31:11 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:31:11 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:31:11 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:31:11 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 13:31:11 --> Helper loaded: manufacturing_no_helper
+INFO - 2020-10-27 13:31:11 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2020-10-27 13:31:11 --> Config Class Initialized
+INFO - 2020-10-27 13:31:11 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:31:11 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:31:11 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:31:11 --> URI Class Initialized
+INFO - 2020-10-27 13:31:11 --> Router Class Initialized
+INFO - 2020-10-27 13:31:11 --> Output Class Initialized
+INFO - 2020-10-27 13:31:11 --> Security Class Initialized
+DEBUG - 2020-10-27 13:31:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:31:11 --> Input Class Initialized
+INFO - 2020-10-27 13:31:11 --> Language Class Initialized
+INFO - 2020-10-27 13:31:11 --> Loader Class Initialized
+INFO - 2020-10-27 13:31:11 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:31:11 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:31:11 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:31:11 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:31:11 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:31:11 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:31:11 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:31:11 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:31:11 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:31:11 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:31:11 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:31:11 --> Email Class Initialized
+DEBUG - 2020-10-27 13:31:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:31:11 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:31:11 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:31:11 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:31:11 --> Controller Class Initialized
+INFO - 2020-10-27 13:31:11 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:31:11 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:31:11 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:31:11 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:31:11 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:31:11 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:31:11 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 13:31:11 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 13:31:11 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:31:11 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:31:11 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 13:31:11 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 13:31:11 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:31:11 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:31:11 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:31:11 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:31:11 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:31:12 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:31:12 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:31:12 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:31:12 --> Final output sent to browser
+DEBUG - 2020-10-27 13:31:12 --> Total execution time: 1.3436
+INFO - 2020-10-27 13:31:47 --> Config Class Initialized
+INFO - 2020-10-27 13:31:47 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:31:47 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:31:47 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:31:47 --> URI Class Initialized
+INFO - 2020-10-27 13:31:47 --> Router Class Initialized
+INFO - 2020-10-27 13:31:47 --> Output Class Initialized
+INFO - 2020-10-27 13:31:47 --> Security Class Initialized
+DEBUG - 2020-10-27 13:31:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:31:47 --> Input Class Initialized
+INFO - 2020-10-27 13:31:47 --> Language Class Initialized
+INFO - 2020-10-27 13:31:47 --> Loader Class Initialized
+INFO - 2020-10-27 13:31:47 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:31:47 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:31:47 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:31:47 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:31:47 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:31:47 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:31:47 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:31:47 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:31:47 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:31:47 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:31:47 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:31:47 --> Email Class Initialized
+DEBUG - 2020-10-27 13:31:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:31:47 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:31:47 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:31:47 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:31:47 --> Controller Class Initialized
+INFO - 2020-10-27 13:31:47 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:31:47 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:31:47 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:31:47 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:31:47 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:31:47 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:31:47 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 13:31:47 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 13:31:47 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:31:47 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:31:47 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 13:31:47 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 13:31:47 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:31:47 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:31:47 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:31:47 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:31:47 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:31:47 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:31:47 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 13:31:47 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:31:47 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:31:47 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:31:47 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:31:47 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:31:47 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:31:47 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:31:47 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:31:47 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:31:47 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:31:47 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:31:47 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:31:48 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:31:48 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:31:48 --> Final output sent to browser
+DEBUG - 2020-10-27 13:31:48 --> Total execution time: 1.3363
+INFO - 2020-10-27 13:32:28 --> Config Class Initialized
+INFO - 2020-10-27 13:32:28 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:32:28 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:32:28 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:32:28 --> URI Class Initialized
+INFO - 2020-10-27 13:32:28 --> Router Class Initialized
+INFO - 2020-10-27 13:32:28 --> Output Class Initialized
+INFO - 2020-10-27 13:32:28 --> Security Class Initialized
+DEBUG - 2020-10-27 13:32:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:32:28 --> Input Class Initialized
+INFO - 2020-10-27 13:32:28 --> Language Class Initialized
+INFO - 2020-10-27 13:32:28 --> Loader Class Initialized
+INFO - 2020-10-27 13:32:28 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:32:28 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:32:28 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:32:28 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:32:28 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:32:28 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:32:28 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:32:28 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:32:28 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:32:28 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:32:28 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:32:28 --> Email Class Initialized
+DEBUG - 2020-10-27 13:32:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:32:29 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:32:29 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:32:29 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:32:29 --> Controller Class Initialized
+INFO - 2020-10-27 13:32:29 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:32:29 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:32:29 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:32:29 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:32:29 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:32:29 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:32:29 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:32:29 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:32:29 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:32:29 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:32:29 --> Final output sent to browser
+DEBUG - 2020-10-27 13:32:29 --> Total execution time: 1.3352
+INFO - 2020-10-27 13:33:58 --> Config Class Initialized
+INFO - 2020-10-27 13:33:58 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:33:58 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:33:58 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:33:58 --> URI Class Initialized
+INFO - 2020-10-27 13:33:58 --> Router Class Initialized
+INFO - 2020-10-27 13:33:58 --> Output Class Initialized
+INFO - 2020-10-27 13:33:58 --> Security Class Initialized
+DEBUG - 2020-10-27 13:33:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:33:58 --> Input Class Initialized
+INFO - 2020-10-27 13:33:58 --> Language Class Initialized
+INFO - 2020-10-27 13:33:58 --> Loader Class Initialized
+INFO - 2020-10-27 13:33:58 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:33:58 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:33:58 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:33:58 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:33:58 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:33:58 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:33:58 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:33:58 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:33:58 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:33:58 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:33:58 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:33:58 --> Email Class Initialized
+DEBUG - 2020-10-27 13:33:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:33:58 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:33:58 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:33:58 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:33:58 --> Controller Class Initialized
+INFO - 2020-10-27 13:33:58 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:33:58 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:33:58 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:33:58 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:33:58 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:33:58 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:33:58 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 13:33:58 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:33:58 --> Could not find the language line "Manufacturing_Add"
+INFO - 2020-10-27 13:33:58 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingList.php
+ERROR - 2020-10-27 13:33:58 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:33:58 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:33:58 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:33:58 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:33:58 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:33:58 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:33:58 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:33:58 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:33:58 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:33:58 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:33:58 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:33:58 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:33:58 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:33:59 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:33:59 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:33:59 --> Final output sent to browser
+DEBUG - 2020-10-27 13:33:59 --> Total execution time: 1.1389
+INFO - 2020-10-27 13:34:03 --> Config Class Initialized
+INFO - 2020-10-27 13:34:03 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:34:03 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:34:03 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:34:03 --> URI Class Initialized
+INFO - 2020-10-27 13:34:03 --> Router Class Initialized
+INFO - 2020-10-27 13:34:04 --> Output Class Initialized
+INFO - 2020-10-27 13:34:04 --> Security Class Initialized
+DEBUG - 2020-10-27 13:34:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:34:04 --> Input Class Initialized
+INFO - 2020-10-27 13:34:04 --> Language Class Initialized
+INFO - 2020-10-27 13:34:04 --> Loader Class Initialized
+INFO - 2020-10-27 13:34:04 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:34:04 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:34:04 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:34:04 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:34:04 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:34:04 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:34:04 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:34:04 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:34:04 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:34:04 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:34:04 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:34:04 --> Email Class Initialized
+DEBUG - 2020-10-27 13:34:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:34:04 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:34:04 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:34:04 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:34:04 --> Controller Class Initialized
+INFO - 2020-10-27 13:34:04 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:34:04 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:34:04 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:34:04 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:34:04 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:34:04 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:34:04 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:34:04 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:34:04 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:34:05 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:34:05 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:34:05 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:34:05 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:34:05 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:34:05 --> Final output sent to browser
+DEBUG - 2020-10-27 13:34:05 --> Total execution time: 1.1364
+INFO - 2020-10-27 13:36:51 --> Config Class Initialized
+INFO - 2020-10-27 13:36:51 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:36:51 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:36:51 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:36:51 --> URI Class Initialized
+INFO - 2020-10-27 13:36:51 --> Router Class Initialized
+INFO - 2020-10-27 13:36:51 --> Output Class Initialized
+INFO - 2020-10-27 13:36:51 --> Security Class Initialized
+DEBUG - 2020-10-27 13:36:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:36:51 --> Input Class Initialized
+INFO - 2020-10-27 13:36:51 --> Language Class Initialized
+INFO - 2020-10-27 13:36:51 --> Loader Class Initialized
+INFO - 2020-10-27 13:36:51 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:36:51 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:36:51 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:36:51 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:36:51 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:36:51 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:36:51 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:36:51 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:36:51 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:36:51 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:36:51 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:36:51 --> Email Class Initialized
+DEBUG - 2020-10-27 13:36:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:36:51 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:36:51 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:36:51 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:36:51 --> Controller Class Initialized
+INFO - 2020-10-27 13:36:51 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:36:51 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:36:51 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:36:51 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:36:51 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:36:51 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:36:51 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Reference_no"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:36:51 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:36:51 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:36:52 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:36:52 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:36:52 --> Final output sent to browser
+DEBUG - 2020-10-27 13:36:52 --> Total execution time: 1.2846
+INFO - 2020-10-27 13:37:08 --> Config Class Initialized
+INFO - 2020-10-27 13:37:08 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:37:08 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:37:08 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:37:08 --> URI Class Initialized
+INFO - 2020-10-27 13:37:08 --> Router Class Initialized
+INFO - 2020-10-27 13:37:08 --> Output Class Initialized
+INFO - 2020-10-27 13:37:08 --> Security Class Initialized
+DEBUG - 2020-10-27 13:37:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:37:08 --> Input Class Initialized
+INFO - 2020-10-27 13:37:08 --> Language Class Initialized
+ERROR - 2020-10-27 13:37:08 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 13:38:32 --> Config Class Initialized
+INFO - 2020-10-27 13:38:32 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:38:32 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:38:32 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:38:32 --> URI Class Initialized
+INFO - 2020-10-27 13:38:32 --> Router Class Initialized
+INFO - 2020-10-27 13:38:32 --> Output Class Initialized
+INFO - 2020-10-27 13:38:32 --> Security Class Initialized
+DEBUG - 2020-10-27 13:38:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:38:32 --> Input Class Initialized
+INFO - 2020-10-27 13:38:32 --> Language Class Initialized
+INFO - 2020-10-27 13:38:33 --> Loader Class Initialized
+INFO - 2020-10-27 13:38:33 --> Helper loaded: url_helper
+INFO - 2020-10-27 13:38:33 --> Helper loaded: file_helper
+INFO - 2020-10-27 13:38:33 --> Helper loaded: utility_helper
+INFO - 2020-10-27 13:38:33 --> Helper loaded: unit_helper
+INFO - 2020-10-27 13:38:33 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 13:38:33 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 13:38:33 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 13:38:33 --> Helper loaded: site_helper
+INFO - 2020-10-27 13:38:33 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 13:38:33 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 13:38:33 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:38:33 --> Email Class Initialized
+DEBUG - 2020-10-27 13:38:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 13:38:33 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 13:38:33 --> Helper loaded: form_helper
+INFO - 2020-10-27 13:38:33 --> Form Validation Class Initialized
+INFO - 2020-10-27 13:38:33 --> Controller Class Initialized
+INFO - 2020-10-27 13:38:33 --> Model "Common_model" initialized
+INFO - 2020-10-27 13:38:33 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 13:38:33 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 13:38:33 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 13:38:33 --> Database Driver Class Initialized
+INFO - 2020-10-27 13:38:33 --> Helper loaded: language_helper
+INFO - 2020-10-27 13:38:33 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Reference_no"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Price"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Price"
+INFO - 2020-10-27 13:38:33 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "2019"
+ERROR - 2020-10-27 13:38:33 --> Could not find the language line "Report"
+ERROR - 2020-10-27 13:38:34 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 13:38:34 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 13:38:34 --> Final output sent to browser
+DEBUG - 2020-10-27 13:38:34 --> Total execution time: 1.1697
+INFO - 2020-10-27 13:38:35 --> Config Class Initialized
+INFO - 2020-10-27 13:38:35 --> Hooks Class Initialized
+DEBUG - 2020-10-27 13:38:35 --> UTF-8 Support Enabled
+INFO - 2020-10-27 13:38:36 --> Utf8 Class Initialized
+INFO - 2020-10-27 13:38:36 --> URI Class Initialized
+INFO - 2020-10-27 13:38:36 --> Router Class Initialized
+INFO - 2020-10-27 13:38:36 --> Output Class Initialized
+INFO - 2020-10-27 13:38:36 --> Security Class Initialized
+DEBUG - 2020-10-27 13:38:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 13:38:36 --> Input Class Initialized
+INFO - 2020-10-27 13:38:36 --> Language Class Initialized
+ERROR - 2020-10-27 13:38:36 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 14:26:50 --> Config Class Initialized
+INFO - 2020-10-27 14:26:51 --> Hooks Class Initialized
+DEBUG - 2020-10-27 14:26:51 --> UTF-8 Support Enabled
+INFO - 2020-10-27 14:26:51 --> Utf8 Class Initialized
+INFO - 2020-10-27 14:26:51 --> URI Class Initialized
+INFO - 2020-10-27 14:26:51 --> Router Class Initialized
+INFO - 2020-10-27 14:26:51 --> Output Class Initialized
+INFO - 2020-10-27 14:26:51 --> Security Class Initialized
+DEBUG - 2020-10-27 14:26:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 14:26:51 --> Input Class Initialized
+INFO - 2020-10-27 14:26:51 --> Language Class Initialized
+INFO - 2020-10-27 14:26:51 --> Loader Class Initialized
+INFO - 2020-10-27 14:26:51 --> Helper loaded: url_helper
+INFO - 2020-10-27 14:26:51 --> Helper loaded: file_helper
+INFO - 2020-10-27 14:26:51 --> Helper loaded: utility_helper
+INFO - 2020-10-27 14:26:51 --> Helper loaded: unit_helper
+INFO - 2020-10-27 14:26:51 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 14:26:51 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 14:26:51 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 14:26:51 --> Helper loaded: site_helper
+INFO - 2020-10-27 14:26:51 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 14:26:51 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 14:26:51 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:26:51 --> Email Class Initialized
+DEBUG - 2020-10-27 14:26:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 14:26:51 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 14:26:51 --> Helper loaded: form_helper
+INFO - 2020-10-27 14:26:51 --> Form Validation Class Initialized
+INFO - 2020-10-27 14:26:51 --> Controller Class Initialized
+INFO - 2020-10-27 14:26:51 --> Model "Common_model" initialized
+INFO - 2020-10-27 14:26:51 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 14:26:51 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 14:26:51 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 14:26:51 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:26:51 --> Helper loaded: language_helper
+INFO - 2020-10-27 14:26:52 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Reference_no"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Price"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Price"
+INFO - 2020-10-27 14:26:52 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "2019"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:26:52 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 14:26:52 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 14:26:52 --> Final output sent to browser
+DEBUG - 2020-10-27 14:26:53 --> Total execution time: 2.0270
+INFO - 2020-10-27 14:27:05 --> Config Class Initialized
+INFO - 2020-10-27 14:27:05 --> Hooks Class Initialized
+DEBUG - 2020-10-27 14:27:05 --> UTF-8 Support Enabled
+INFO - 2020-10-27 14:27:05 --> Utf8 Class Initialized
+INFO - 2020-10-27 14:27:05 --> URI Class Initialized
+INFO - 2020-10-27 14:27:05 --> Router Class Initialized
+INFO - 2020-10-27 14:27:05 --> Output Class Initialized
+INFO - 2020-10-27 14:27:05 --> Security Class Initialized
+DEBUG - 2020-10-27 14:27:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 14:27:05 --> Input Class Initialized
+INFO - 2020-10-27 14:27:05 --> Language Class Initialized
+ERROR - 2020-10-27 14:27:06 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 14:28:39 --> Config Class Initialized
+INFO - 2020-10-27 14:28:41 --> Hooks Class Initialized
+DEBUG - 2020-10-27 14:28:42 --> UTF-8 Support Enabled
+INFO - 2020-10-27 14:28:43 --> Utf8 Class Initialized
+INFO - 2020-10-27 14:28:43 --> URI Class Initialized
+INFO - 2020-10-27 14:28:43 --> Router Class Initialized
+INFO - 2020-10-27 14:28:44 --> Output Class Initialized
+INFO - 2020-10-27 14:28:44 --> Security Class Initialized
+DEBUG - 2020-10-27 14:28:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 14:28:44 --> Input Class Initialized
+INFO - 2020-10-27 14:28:44 --> Language Class Initialized
+INFO - 2020-10-27 14:28:45 --> Loader Class Initialized
+INFO - 2020-10-27 14:28:45 --> Helper loaded: url_helper
+INFO - 2020-10-27 14:28:45 --> Helper loaded: file_helper
+INFO - 2020-10-27 14:28:45 --> Helper loaded: utility_helper
+INFO - 2020-10-27 14:28:45 --> Helper loaded: unit_helper
+INFO - 2020-10-27 14:28:45 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 14:28:46 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 14:28:46 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 14:28:46 --> Helper loaded: site_helper
+INFO - 2020-10-27 14:28:46 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 14:28:46 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 14:28:46 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:28:47 --> Email Class Initialized
+DEBUG - 2020-10-27 14:28:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 14:28:48 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 14:28:48 --> Helper loaded: form_helper
+INFO - 2020-10-27 14:28:49 --> Form Validation Class Initialized
+INFO - 2020-10-27 14:28:49 --> Controller Class Initialized
+INFO - 2020-10-27 14:28:50 --> Model "Common_model" initialized
+INFO - 2020-10-27 14:28:50 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 14:28:50 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 14:28:50 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 14:28:51 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:28:51 --> Helper loaded: language_helper
+INFO - 2020-10-27 14:28:52 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 14:28:52 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 14:28:53 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 14:28:53 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 14:28:53 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 14:28:53 --> Could not find the language line "Reference_no"
+ERROR - 2020-10-27 14:28:53 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 14:28:53 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 14:28:53 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 14:28:53 --> Could not find the language line "Price"
+ERROR - 2020-10-27 14:28:53 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 14:28:53 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 14:28:53 --> Could not find the language line "Price"
+INFO - 2020-10-27 14:28:53 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 14:28:54 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 14:28:54 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 14:28:54 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 14:28:54 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 14:28:54 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 14:28:54 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:28:54 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 14:28:54 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 14:28:54 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 14:28:54 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:28:54 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 14:28:54 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 14:28:54 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 14:28:54 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 14:28:54 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 14:28:54 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 14:28:54 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 14:28:54 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 14:28:55 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 14:28:56 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 14:28:59 --> Could not find the language line "2019"
+ERROR - 2020-10-27 14:28:59 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:28:59 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 14:28:59 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 14:28:59 --> Final output sent to browser
+DEBUG - 2020-10-27 14:28:59 --> Total execution time: 20.5097
+INFO - 2020-10-27 14:29:04 --> Config Class Initialized
+INFO - 2020-10-27 14:29:04 --> Hooks Class Initialized
+DEBUG - 2020-10-27 14:29:04 --> UTF-8 Support Enabled
+INFO - 2020-10-27 14:29:04 --> Utf8 Class Initialized
+INFO - 2020-10-27 14:29:05 --> URI Class Initialized
+INFO - 2020-10-27 14:29:05 --> Router Class Initialized
+INFO - 2020-10-27 14:29:05 --> Output Class Initialized
+INFO - 2020-10-27 14:29:05 --> Security Class Initialized
+DEBUG - 2020-10-27 14:29:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 14:29:05 --> Input Class Initialized
+INFO - 2020-10-27 14:29:06 --> Language Class Initialized
+ERROR - 2020-10-27 14:29:06 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 14:32:43 --> Config Class Initialized
+INFO - 2020-10-27 14:32:43 --> Hooks Class Initialized
+DEBUG - 2020-10-27 14:32:43 --> UTF-8 Support Enabled
+INFO - 2020-10-27 14:32:43 --> Utf8 Class Initialized
+INFO - 2020-10-27 14:32:43 --> URI Class Initialized
+INFO - 2020-10-27 14:32:43 --> Router Class Initialized
+INFO - 2020-10-27 14:32:43 --> Output Class Initialized
+INFO - 2020-10-27 14:32:43 --> Security Class Initialized
+DEBUG - 2020-10-27 14:32:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 14:32:43 --> Input Class Initialized
+INFO - 2020-10-27 14:32:43 --> Language Class Initialized
+INFO - 2020-10-27 14:32:43 --> Loader Class Initialized
+INFO - 2020-10-27 14:32:43 --> Helper loaded: url_helper
+INFO - 2020-10-27 14:32:43 --> Helper loaded: file_helper
+INFO - 2020-10-27 14:32:43 --> Helper loaded: utility_helper
+INFO - 2020-10-27 14:32:43 --> Helper loaded: unit_helper
+INFO - 2020-10-27 14:32:43 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 14:32:43 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 14:32:43 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 14:32:43 --> Helper loaded: site_helper
+INFO - 2020-10-27 14:32:43 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 14:32:43 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 14:32:44 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:32:44 --> Email Class Initialized
+DEBUG - 2020-10-27 14:32:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 14:32:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 14:32:44 --> Helper loaded: form_helper
+INFO - 2020-10-27 14:32:44 --> Form Validation Class Initialized
+INFO - 2020-10-27 14:32:44 --> Controller Class Initialized
+INFO - 2020-10-27 14:32:44 --> Model "Common_model" initialized
+INFO - 2020-10-27 14:32:44 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 14:32:44 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 14:32:44 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 14:32:44 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:32:44 --> Helper loaded: language_helper
+INFO - 2020-10-27 14:32:44 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Reference_no"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Price"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Price"
+INFO - 2020-10-27 14:32:44 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "2019"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:32:44 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 14:32:45 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 14:32:45 --> Final output sent to browser
+DEBUG - 2020-10-27 14:32:45 --> Total execution time: 1.5014
+INFO - 2020-10-27 14:32:46 --> Config Class Initialized
+INFO - 2020-10-27 14:32:46 --> Hooks Class Initialized
+DEBUG - 2020-10-27 14:32:46 --> UTF-8 Support Enabled
+INFO - 2020-10-27 14:32:46 --> Utf8 Class Initialized
+INFO - 2020-10-27 14:32:46 --> URI Class Initialized
+INFO - 2020-10-27 14:32:46 --> Router Class Initialized
+INFO - 2020-10-27 14:32:46 --> Output Class Initialized
+INFO - 2020-10-27 14:32:46 --> Security Class Initialized
+DEBUG - 2020-10-27 14:32:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 14:32:47 --> Input Class Initialized
+INFO - 2020-10-27 14:32:47 --> Language Class Initialized
+ERROR - 2020-10-27 14:32:47 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 14:33:51 --> Config Class Initialized
+INFO - 2020-10-27 14:33:51 --> Hooks Class Initialized
+DEBUG - 2020-10-27 14:33:51 --> UTF-8 Support Enabled
+INFO - 2020-10-27 14:33:51 --> Utf8 Class Initialized
+INFO - 2020-10-27 14:33:51 --> URI Class Initialized
+INFO - 2020-10-27 14:33:51 --> Router Class Initialized
+INFO - 2020-10-27 14:33:51 --> Output Class Initialized
+INFO - 2020-10-27 14:33:51 --> Security Class Initialized
+DEBUG - 2020-10-27 14:33:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 14:33:52 --> Input Class Initialized
+INFO - 2020-10-27 14:33:52 --> Language Class Initialized
+INFO - 2020-10-27 14:33:52 --> Loader Class Initialized
+INFO - 2020-10-27 14:33:52 --> Helper loaded: url_helper
+INFO - 2020-10-27 14:33:52 --> Helper loaded: file_helper
+INFO - 2020-10-27 14:33:52 --> Helper loaded: utility_helper
+INFO - 2020-10-27 14:33:52 --> Helper loaded: unit_helper
+INFO - 2020-10-27 14:33:52 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 14:33:52 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 14:33:52 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 14:33:52 --> Helper loaded: site_helper
+INFO - 2020-10-27 14:33:52 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 14:33:52 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 14:33:52 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:33:52 --> Email Class Initialized
+DEBUG - 2020-10-27 14:33:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 14:33:52 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 14:33:52 --> Helper loaded: form_helper
+INFO - 2020-10-27 14:33:52 --> Form Validation Class Initialized
+INFO - 2020-10-27 14:33:52 --> Controller Class Initialized
+INFO - 2020-10-27 14:33:52 --> Model "Common_model" initialized
+INFO - 2020-10-27 14:33:52 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 14:33:52 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 14:33:52 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 14:33:52 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:33:52 --> Helper loaded: language_helper
+INFO - 2020-10-27 14:33:52 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Reference_no"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Price"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Price"
+INFO - 2020-10-27 14:33:52 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 14:33:52 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 14:33:53 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 14:33:53 --> Could not find the language line "2019"
+ERROR - 2020-10-27 14:33:53 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:33:53 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 14:33:53 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 14:33:53 --> Final output sent to browser
+DEBUG - 2020-10-27 14:33:53 --> Total execution time: 1.1961
+INFO - 2020-10-27 14:33:54 --> Config Class Initialized
+INFO - 2020-10-27 14:33:54 --> Hooks Class Initialized
+DEBUG - 2020-10-27 14:33:55 --> UTF-8 Support Enabled
+INFO - 2020-10-27 14:33:55 --> Utf8 Class Initialized
+INFO - 2020-10-27 14:33:55 --> URI Class Initialized
+INFO - 2020-10-27 14:33:55 --> Router Class Initialized
+INFO - 2020-10-27 14:33:55 --> Output Class Initialized
+INFO - 2020-10-27 14:33:55 --> Security Class Initialized
+DEBUG - 2020-10-27 14:33:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 14:33:55 --> Input Class Initialized
+INFO - 2020-10-27 14:33:55 --> Language Class Initialized
+ERROR - 2020-10-27 14:33:55 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 14:37:06 --> Config Class Initialized
+INFO - 2020-10-27 14:37:06 --> Hooks Class Initialized
+DEBUG - 2020-10-27 14:37:06 --> UTF-8 Support Enabled
+INFO - 2020-10-27 14:37:06 --> Utf8 Class Initialized
+INFO - 2020-10-27 14:37:06 --> URI Class Initialized
+INFO - 2020-10-27 14:37:06 --> Router Class Initialized
+INFO - 2020-10-27 14:37:06 --> Output Class Initialized
+INFO - 2020-10-27 14:37:06 --> Security Class Initialized
+DEBUG - 2020-10-27 14:37:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 14:37:06 --> Input Class Initialized
+INFO - 2020-10-27 14:37:06 --> Language Class Initialized
+INFO - 2020-10-27 14:37:06 --> Loader Class Initialized
+INFO - 2020-10-27 14:37:06 --> Helper loaded: url_helper
+INFO - 2020-10-27 14:37:06 --> Helper loaded: file_helper
+INFO - 2020-10-27 14:37:06 --> Helper loaded: utility_helper
+INFO - 2020-10-27 14:37:06 --> Helper loaded: unit_helper
+INFO - 2020-10-27 14:37:06 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 14:37:06 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 14:37:06 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 14:37:06 --> Helper loaded: site_helper
+INFO - 2020-10-27 14:37:06 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 14:37:06 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 14:37:06 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:37:06 --> Email Class Initialized
+DEBUG - 2020-10-27 14:37:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 14:37:06 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 14:37:06 --> Helper loaded: form_helper
+INFO - 2020-10-27 14:37:06 --> Form Validation Class Initialized
+INFO - 2020-10-27 14:37:06 --> Controller Class Initialized
+INFO - 2020-10-27 14:37:06 --> Model "Common_model" initialized
+INFO - 2020-10-27 14:37:06 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 14:37:06 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 14:37:06 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 14:37:06 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:37:06 --> Helper loaded: language_helper
+INFO - 2020-10-27 14:37:06 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 14:37:06 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 14:37:06 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Reference_no"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Price"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Price"
+INFO - 2020-10-27 14:37:07 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "2019"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:37:07 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 14:37:07 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 14:37:07 --> Final output sent to browser
+DEBUG - 2020-10-27 14:37:07 --> Total execution time: 1.1705
+INFO - 2020-10-27 14:37:09 --> Config Class Initialized
+INFO - 2020-10-27 14:37:09 --> Hooks Class Initialized
+DEBUG - 2020-10-27 14:37:09 --> UTF-8 Support Enabled
+INFO - 2020-10-27 14:37:09 --> Utf8 Class Initialized
+INFO - 2020-10-27 14:37:10 --> URI Class Initialized
+INFO - 2020-10-27 14:37:10 --> Router Class Initialized
+INFO - 2020-10-27 14:37:10 --> Output Class Initialized
+INFO - 2020-10-27 14:37:10 --> Security Class Initialized
+DEBUG - 2020-10-27 14:37:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 14:37:10 --> Input Class Initialized
+INFO - 2020-10-27 14:37:10 --> Language Class Initialized
+ERROR - 2020-10-27 14:37:10 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 14:37:35 --> Config Class Initialized
+INFO - 2020-10-27 14:37:35 --> Hooks Class Initialized
+DEBUG - 2020-10-27 14:37:35 --> UTF-8 Support Enabled
+INFO - 2020-10-27 14:37:35 --> Utf8 Class Initialized
+INFO - 2020-10-27 14:37:35 --> URI Class Initialized
+INFO - 2020-10-27 14:37:35 --> Router Class Initialized
+INFO - 2020-10-27 14:37:35 --> Output Class Initialized
+INFO - 2020-10-27 14:37:35 --> Security Class Initialized
+DEBUG - 2020-10-27 14:37:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 14:37:35 --> Input Class Initialized
+INFO - 2020-10-27 14:37:35 --> Language Class Initialized
+INFO - 2020-10-27 14:37:35 --> Loader Class Initialized
+INFO - 2020-10-27 14:37:35 --> Helper loaded: url_helper
+INFO - 2020-10-27 14:37:35 --> Helper loaded: file_helper
+INFO - 2020-10-27 14:37:35 --> Helper loaded: utility_helper
+INFO - 2020-10-27 14:37:35 --> Helper loaded: unit_helper
+INFO - 2020-10-27 14:37:35 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 14:37:35 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 14:37:35 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 14:37:35 --> Helper loaded: site_helper
+INFO - 2020-10-27 14:37:35 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 14:37:35 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 14:37:35 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:37:35 --> Email Class Initialized
+DEBUG - 2020-10-27 14:37:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 14:37:35 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 14:37:35 --> Helper loaded: form_helper
+INFO - 2020-10-27 14:37:35 --> Form Validation Class Initialized
+INFO - 2020-10-27 14:37:35 --> Controller Class Initialized
+INFO - 2020-10-27 14:37:35 --> Model "Common_model" initialized
+INFO - 2020-10-27 14:37:35 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 14:37:35 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 14:37:35 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 14:37:35 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:37:35 --> Helper loaded: language_helper
+INFO - 2020-10-27 14:37:35 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 14:37:35 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 14:37:35 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 14:37:35 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 14:37:35 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 14:37:35 --> Could not find the language line "Reference_no"
+ERROR - 2020-10-27 14:37:35 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 14:37:35 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 14:37:35 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Price"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Price"
+INFO - 2020-10-27 14:37:36 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 14:37:36 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 14:37:37 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 14:37:37 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 14:37:37 --> Could not find the language line "2019"
+ERROR - 2020-10-27 14:37:37 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:37:37 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 14:37:37 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 14:37:37 --> Final output sent to browser
+DEBUG - 2020-10-27 14:37:37 --> Total execution time: 1.7384
+INFO - 2020-10-27 14:39:13 --> Config Class Initialized
+INFO - 2020-10-27 14:39:13 --> Hooks Class Initialized
+DEBUG - 2020-10-27 14:39:13 --> UTF-8 Support Enabled
+INFO - 2020-10-27 14:39:13 --> Utf8 Class Initialized
+INFO - 2020-10-27 14:39:13 --> URI Class Initialized
+INFO - 2020-10-27 14:39:13 --> Router Class Initialized
+INFO - 2020-10-27 14:39:13 --> Output Class Initialized
+INFO - 2020-10-27 14:39:13 --> Security Class Initialized
+DEBUG - 2020-10-27 14:39:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 14:39:13 --> Input Class Initialized
+INFO - 2020-10-27 14:39:13 --> Language Class Initialized
+INFO - 2020-10-27 14:39:13 --> Loader Class Initialized
+INFO - 2020-10-27 14:39:13 --> Helper loaded: url_helper
+INFO - 2020-10-27 14:39:13 --> Helper loaded: file_helper
+INFO - 2020-10-27 14:39:13 --> Helper loaded: utility_helper
+INFO - 2020-10-27 14:39:13 --> Helper loaded: unit_helper
+INFO - 2020-10-27 14:39:13 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 14:39:13 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 14:39:13 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 14:39:13 --> Helper loaded: site_helper
+INFO - 2020-10-27 14:39:13 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 14:39:13 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 14:39:13 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:39:13 --> Email Class Initialized
+DEBUG - 2020-10-27 14:39:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 14:39:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 14:39:13 --> Helper loaded: form_helper
+INFO - 2020-10-27 14:39:13 --> Form Validation Class Initialized
+INFO - 2020-10-27 14:39:13 --> Controller Class Initialized
+INFO - 2020-10-27 14:39:13 --> Model "Common_model" initialized
+INFO - 2020-10-27 14:39:13 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 14:39:13 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 14:39:13 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 14:39:13 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:39:13 --> Helper loaded: language_helper
+INFO - 2020-10-27 14:39:13 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 14:39:13 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 14:39:13 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 14:39:13 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 14:39:13 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 14:39:13 --> Could not find the language line "Reference_order_no"
+ERROR - 2020-10-27 14:39:13 --> Could not find the language line "Manufactur_No"
+ERROR - 2020-10-27 14:39:13 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 14:39:13 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 14:39:13 --> Could not find the language line "Price"
+ERROR - 2020-10-27 14:39:13 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 14:39:13 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 14:39:13 --> Could not find the language line "Price"
+INFO - 2020-10-27 14:39:14 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "2019"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:39:14 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 14:39:14 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 14:39:14 --> Final output sent to browser
+DEBUG - 2020-10-27 14:39:14 --> Total execution time: 1.4541
+INFO - 2020-10-27 14:39:25 --> Config Class Initialized
+INFO - 2020-10-27 14:39:25 --> Hooks Class Initialized
+DEBUG - 2020-10-27 14:39:25 --> UTF-8 Support Enabled
+INFO - 2020-10-27 14:39:25 --> Utf8 Class Initialized
+INFO - 2020-10-27 14:39:25 --> URI Class Initialized
+INFO - 2020-10-27 14:39:25 --> Router Class Initialized
+INFO - 2020-10-27 14:39:25 --> Output Class Initialized
+INFO - 2020-10-27 14:39:25 --> Security Class Initialized
+DEBUG - 2020-10-27 14:39:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 14:39:25 --> Input Class Initialized
+INFO - 2020-10-27 14:39:25 --> Language Class Initialized
+ERROR - 2020-10-27 14:39:25 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 14:40:54 --> Config Class Initialized
+INFO - 2020-10-27 14:40:54 --> Hooks Class Initialized
+DEBUG - 2020-10-27 14:40:54 --> UTF-8 Support Enabled
+INFO - 2020-10-27 14:40:54 --> Utf8 Class Initialized
+INFO - 2020-10-27 14:40:54 --> URI Class Initialized
+INFO - 2020-10-27 14:40:54 --> Router Class Initialized
+INFO - 2020-10-27 14:40:54 --> Output Class Initialized
+INFO - 2020-10-27 14:40:54 --> Security Class Initialized
+DEBUG - 2020-10-27 14:40:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 14:40:54 --> Input Class Initialized
+INFO - 2020-10-27 14:40:54 --> Language Class Initialized
+INFO - 2020-10-27 14:40:54 --> Loader Class Initialized
+INFO - 2020-10-27 14:40:54 --> Helper loaded: url_helper
+INFO - 2020-10-27 14:40:54 --> Helper loaded: file_helper
+INFO - 2020-10-27 14:40:54 --> Helper loaded: utility_helper
+INFO - 2020-10-27 14:40:54 --> Helper loaded: unit_helper
+INFO - 2020-10-27 14:40:54 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 14:40:54 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 14:40:54 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 14:40:54 --> Helper loaded: site_helper
+INFO - 2020-10-27 14:40:54 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 14:40:54 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 14:40:54 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:40:54 --> Email Class Initialized
+DEBUG - 2020-10-27 14:40:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 14:40:54 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 14:40:54 --> Helper loaded: form_helper
+INFO - 2020-10-27 14:40:54 --> Form Validation Class Initialized
+INFO - 2020-10-27 14:40:54 --> Controller Class Initialized
+INFO - 2020-10-27 14:40:54 --> Model "Common_model" initialized
+INFO - 2020-10-27 14:40:54 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 14:40:54 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 14:40:54 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 14:40:54 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:40:54 --> Helper loaded: language_helper
+INFO - 2020-10-27 14:40:54 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Reference_order_no"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Manufactur_No"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Price"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Price"
+INFO - 2020-10-27 14:40:54 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 14:40:54 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 14:40:55 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 14:40:55 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:40:55 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 14:40:55 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 14:40:55 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 14:40:55 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 14:40:55 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 14:40:55 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 14:40:55 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 14:40:55 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 14:40:55 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 14:40:55 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:40:55 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 14:40:55 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 14:40:55 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 14:40:55 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:40:55 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 14:40:55 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 14:40:55 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 14:40:55 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 14:40:55 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 14:40:55 --> Could not find the language line "2019"
+ERROR - 2020-10-27 14:40:55 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:40:55 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 14:40:55 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 14:40:55 --> Final output sent to browser
+DEBUG - 2020-10-27 14:40:55 --> Total execution time: 1.2350
+INFO - 2020-10-27 14:40:56 --> Config Class Initialized
+INFO - 2020-10-27 14:40:57 --> Hooks Class Initialized
+DEBUG - 2020-10-27 14:40:57 --> UTF-8 Support Enabled
+INFO - 2020-10-27 14:40:57 --> Utf8 Class Initialized
+INFO - 2020-10-27 14:40:57 --> URI Class Initialized
+INFO - 2020-10-27 14:40:57 --> Router Class Initialized
+INFO - 2020-10-27 14:40:57 --> Output Class Initialized
+INFO - 2020-10-27 14:40:57 --> Security Class Initialized
+DEBUG - 2020-10-27 14:40:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 14:40:57 --> Input Class Initialized
+INFO - 2020-10-27 14:40:57 --> Language Class Initialized
+ERROR - 2020-10-27 14:40:57 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 14:42:47 --> Config Class Initialized
+INFO - 2020-10-27 14:42:47 --> Hooks Class Initialized
+DEBUG - 2020-10-27 14:42:47 --> UTF-8 Support Enabled
+INFO - 2020-10-27 14:42:47 --> Utf8 Class Initialized
+INFO - 2020-10-27 14:42:47 --> URI Class Initialized
+INFO - 2020-10-27 14:42:47 --> Router Class Initialized
+INFO - 2020-10-27 14:42:47 --> Output Class Initialized
+INFO - 2020-10-27 14:42:47 --> Security Class Initialized
+DEBUG - 2020-10-27 14:42:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 14:42:47 --> Input Class Initialized
+INFO - 2020-10-27 14:42:47 --> Language Class Initialized
+INFO - 2020-10-27 14:42:47 --> Loader Class Initialized
+INFO - 2020-10-27 14:42:47 --> Helper loaded: url_helper
+INFO - 2020-10-27 14:42:47 --> Helper loaded: file_helper
+INFO - 2020-10-27 14:42:47 --> Helper loaded: utility_helper
+INFO - 2020-10-27 14:42:47 --> Helper loaded: unit_helper
+INFO - 2020-10-27 14:42:47 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 14:42:47 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 14:42:47 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 14:42:47 --> Helper loaded: site_helper
+INFO - 2020-10-27 14:42:47 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 14:42:47 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 14:42:47 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:42:47 --> Email Class Initialized
+DEBUG - 2020-10-27 14:42:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 14:42:47 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 14:42:48 --> Helper loaded: form_helper
+INFO - 2020-10-27 14:42:48 --> Form Validation Class Initialized
+INFO - 2020-10-27 14:42:48 --> Controller Class Initialized
+INFO - 2020-10-27 14:42:48 --> Model "Common_model" initialized
+INFO - 2020-10-27 14:42:48 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 14:42:48 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 14:42:48 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 14:42:48 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:42:48 --> Helper loaded: language_helper
+INFO - 2020-10-27 14:42:48 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Reference_order_no"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Manufactur_No"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Price"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Price"
+INFO - 2020-10-27 14:42:48 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "2019"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:42:48 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 14:42:48 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 14:42:48 --> Final output sent to browser
+DEBUG - 2020-10-27 14:42:48 --> Total execution time: 1.1802
+INFO - 2020-10-27 14:42:50 --> Config Class Initialized
+INFO - 2020-10-27 14:42:50 --> Hooks Class Initialized
+DEBUG - 2020-10-27 14:42:50 --> UTF-8 Support Enabled
+INFO - 2020-10-27 14:42:50 --> Utf8 Class Initialized
+INFO - 2020-10-27 14:42:51 --> URI Class Initialized
+INFO - 2020-10-27 14:42:51 --> Router Class Initialized
+INFO - 2020-10-27 14:42:51 --> Output Class Initialized
+INFO - 2020-10-27 14:42:51 --> Security Class Initialized
+DEBUG - 2020-10-27 14:42:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 14:42:51 --> Input Class Initialized
+INFO - 2020-10-27 14:42:51 --> Language Class Initialized
+ERROR - 2020-10-27 14:42:51 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 14:43:43 --> Config Class Initialized
+INFO - 2020-10-27 14:43:43 --> Hooks Class Initialized
+DEBUG - 2020-10-27 14:43:43 --> UTF-8 Support Enabled
+INFO - 2020-10-27 14:43:43 --> Utf8 Class Initialized
+INFO - 2020-10-27 14:43:43 --> URI Class Initialized
+INFO - 2020-10-27 14:43:43 --> Router Class Initialized
+INFO - 2020-10-27 14:43:43 --> Output Class Initialized
+INFO - 2020-10-27 14:43:43 --> Security Class Initialized
+DEBUG - 2020-10-27 14:43:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 14:43:43 --> Input Class Initialized
+INFO - 2020-10-27 14:43:43 --> Language Class Initialized
+INFO - 2020-10-27 14:43:43 --> Loader Class Initialized
+INFO - 2020-10-27 14:43:43 --> Helper loaded: url_helper
+INFO - 2020-10-27 14:43:43 --> Helper loaded: file_helper
+INFO - 2020-10-27 14:43:43 --> Helper loaded: utility_helper
+INFO - 2020-10-27 14:43:43 --> Helper loaded: unit_helper
+INFO - 2020-10-27 14:43:43 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 14:43:43 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 14:43:43 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 14:43:43 --> Helper loaded: site_helper
+INFO - 2020-10-27 14:43:43 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 14:43:43 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 14:43:43 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:43:43 --> Email Class Initialized
+DEBUG - 2020-10-27 14:43:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 14:43:43 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 14:43:43 --> Helper loaded: form_helper
+INFO - 2020-10-27 14:43:43 --> Form Validation Class Initialized
+INFO - 2020-10-27 14:43:43 --> Controller Class Initialized
+INFO - 2020-10-27 14:43:43 --> Model "Common_model" initialized
+INFO - 2020-10-27 14:43:43 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 14:43:43 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 14:43:43 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 14:43:43 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:43:43 --> Helper loaded: language_helper
+INFO - 2020-10-27 14:43:43 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 14:43:43 --> Could not find the language line "Manufacturing_View"
+ERROR - 2020-10-27 14:43:43 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 14:43:43 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 14:43:43 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 14:43:43 --> Could not find the language line "Reference_order_no"
+ERROR - 2020-10-27 14:43:43 --> Could not find the language line "Manufactur_No"
+ERROR - 2020-10-27 14:43:43 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 14:43:43 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 14:43:43 --> Could not find the language line "Price"
+ERROR - 2020-10-27 14:43:43 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 14:43:43 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 14:43:43 --> Could not find the language line "Price"
+INFO - 2020-10-27 14:43:43 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingShow.php
+ERROR - 2020-10-27 14:43:43 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 14:43:43 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 14:43:43 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 14:43:43 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 14:43:43 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 14:43:43 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:43:43 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 14:43:43 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "2019"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:43:44 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 14:43:44 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 14:43:44 --> Final output sent to browser
+DEBUG - 2020-10-27 14:43:44 --> Total execution time: 1.3278
+INFO - 2020-10-27 14:43:46 --> Config Class Initialized
+INFO - 2020-10-27 14:43:46 --> Hooks Class Initialized
+DEBUG - 2020-10-27 14:43:46 --> UTF-8 Support Enabled
+INFO - 2020-10-27 14:43:46 --> Utf8 Class Initialized
+INFO - 2020-10-27 14:43:46 --> URI Class Initialized
+INFO - 2020-10-27 14:43:46 --> Router Class Initialized
+INFO - 2020-10-27 14:43:46 --> Output Class Initialized
+INFO - 2020-10-27 14:43:46 --> Security Class Initialized
+DEBUG - 2020-10-27 14:43:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 14:43:46 --> Input Class Initialized
+INFO - 2020-10-27 14:43:46 --> Language Class Initialized
+ERROR - 2020-10-27 14:43:46 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 14:44:39 --> Config Class Initialized
+INFO - 2020-10-27 14:44:39 --> Hooks Class Initialized
+DEBUG - 2020-10-27 14:44:39 --> UTF-8 Support Enabled
+INFO - 2020-10-27 14:44:39 --> Utf8 Class Initialized
+INFO - 2020-10-27 14:44:39 --> URI Class Initialized
+INFO - 2020-10-27 14:44:39 --> Router Class Initialized
+INFO - 2020-10-27 14:44:39 --> Output Class Initialized
+INFO - 2020-10-27 14:44:39 --> Security Class Initialized
+DEBUG - 2020-10-27 14:44:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 14:44:39 --> Input Class Initialized
+INFO - 2020-10-27 14:44:39 --> Language Class Initialized
+INFO - 2020-10-27 14:44:39 --> Loader Class Initialized
+INFO - 2020-10-27 14:44:39 --> Helper loaded: url_helper
+INFO - 2020-10-27 14:44:39 --> Helper loaded: file_helper
+INFO - 2020-10-27 14:44:39 --> Helper loaded: utility_helper
+INFO - 2020-10-27 14:44:39 --> Helper loaded: unit_helper
+INFO - 2020-10-27 14:44:39 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 14:44:39 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 14:44:39 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 14:44:39 --> Helper loaded: site_helper
+INFO - 2020-10-27 14:44:39 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 14:44:39 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 14:44:39 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:44:39 --> Email Class Initialized
+DEBUG - 2020-10-27 14:44:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 14:44:39 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 14:44:39 --> Helper loaded: form_helper
+INFO - 2020-10-27 14:44:39 --> Form Validation Class Initialized
+INFO - 2020-10-27 14:44:39 --> Controller Class Initialized
+INFO - 2020-10-27 14:44:39 --> Model "Common_model" initialized
+INFO - 2020-10-27 14:44:39 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 14:44:39 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 14:44:39 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 14:44:39 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:44:39 --> Helper loaded: language_helper
+INFO - 2020-10-27 14:44:39 --> Language file loaded: language/english/content_lang.php
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Manufacturing_Add"
+INFO - 2020-10-27 14:44:40 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingList.php
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "2019"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:44:40 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 14:44:40 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 14:44:40 --> Final output sent to browser
+DEBUG - 2020-10-27 14:44:40 --> Total execution time: 1.2333
+INFO - 2020-10-27 14:44:43 --> Config Class Initialized
+INFO - 2020-10-27 14:44:43 --> Hooks Class Initialized
+DEBUG - 2020-10-27 14:44:43 --> UTF-8 Support Enabled
+INFO - 2020-10-27 14:44:43 --> Utf8 Class Initialized
+INFO - 2020-10-27 14:44:43 --> URI Class Initialized
+INFO - 2020-10-27 14:44:43 --> Router Class Initialized
+INFO - 2020-10-27 14:44:43 --> Output Class Initialized
+INFO - 2020-10-27 14:44:43 --> Security Class Initialized
+DEBUG - 2020-10-27 14:44:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 14:44:44 --> Input Class Initialized
+INFO - 2020-10-27 14:44:44 --> Language Class Initialized
+INFO - 2020-10-27 14:44:44 --> Loader Class Initialized
+INFO - 2020-10-27 14:44:44 --> Helper loaded: url_helper
+INFO - 2020-10-27 14:44:44 --> Helper loaded: file_helper
+INFO - 2020-10-27 14:44:44 --> Helper loaded: utility_helper
+INFO - 2020-10-27 14:44:44 --> Helper loaded: unit_helper
+INFO - 2020-10-27 14:44:44 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 14:44:44 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 14:44:44 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 14:44:44 --> Helper loaded: site_helper
+INFO - 2020-10-27 14:44:44 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 14:44:44 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 14:44:44 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:44:44 --> Email Class Initialized
+DEBUG - 2020-10-27 14:44:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 14:44:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 14:44:44 --> Helper loaded: form_helper
+INFO - 2020-10-27 14:44:44 --> Form Validation Class Initialized
+INFO - 2020-10-27 14:44:44 --> Controller Class Initialized
+INFO - 2020-10-27 14:44:44 --> Model "Common_model" initialized
+INFO - 2020-10-27 14:44:44 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 14:44:44 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 14:44:44 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 14:44:44 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:44:44 --> Helper loaded: language_helper
+INFO - 2020-10-27 14:44:44 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 14:44:44 --> Helper loaded: manufacturing_no_helper
+ERROR - 2020-10-27 14:44:44 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 14:44:44 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Order_No"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Reference_No"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Price"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Price"
+INFO - 2020-10-27 14:44:45 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "2019"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:44:45 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 14:44:45 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 14:44:45 --> Final output sent to browser
+DEBUG - 2020-10-27 14:44:45 --> Total execution time: 2.3257
+INFO - 2020-10-27 14:45:05 --> Config Class Initialized
+INFO - 2020-10-27 14:45:05 --> Hooks Class Initialized
+DEBUG - 2020-10-27 14:45:05 --> UTF-8 Support Enabled
+INFO - 2020-10-27 14:45:05 --> Utf8 Class Initialized
+INFO - 2020-10-27 14:45:05 --> URI Class Initialized
+INFO - 2020-10-27 14:45:05 --> Router Class Initialized
+INFO - 2020-10-27 14:45:05 --> Output Class Initialized
+INFO - 2020-10-27 14:45:05 --> Security Class Initialized
+DEBUG - 2020-10-27 14:45:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 14:45:05 --> Input Class Initialized
+INFO - 2020-10-27 14:45:05 --> Language Class Initialized
+ERROR - 2020-10-27 14:45:05 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 14:46:21 --> Config Class Initialized
+INFO - 2020-10-27 14:46:21 --> Hooks Class Initialized
+DEBUG - 2020-10-27 14:46:21 --> UTF-8 Support Enabled
+INFO - 2020-10-27 14:46:21 --> Utf8 Class Initialized
+INFO - 2020-10-27 14:46:21 --> URI Class Initialized
+INFO - 2020-10-27 14:46:21 --> Router Class Initialized
+INFO - 2020-10-27 14:46:21 --> Output Class Initialized
+INFO - 2020-10-27 14:46:21 --> Security Class Initialized
+DEBUG - 2020-10-27 14:46:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 14:46:21 --> Input Class Initialized
+INFO - 2020-10-27 14:46:21 --> Language Class Initialized
+INFO - 2020-10-27 14:46:21 --> Loader Class Initialized
+INFO - 2020-10-27 14:46:21 --> Helper loaded: url_helper
+INFO - 2020-10-27 14:46:21 --> Helper loaded: file_helper
+INFO - 2020-10-27 14:46:21 --> Helper loaded: utility_helper
+INFO - 2020-10-27 14:46:21 --> Helper loaded: unit_helper
+INFO - 2020-10-27 14:46:22 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 14:46:22 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 14:46:22 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 14:46:22 --> Helper loaded: site_helper
+INFO - 2020-10-27 14:46:22 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 14:46:22 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 14:46:22 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:46:22 --> Email Class Initialized
+DEBUG - 2020-10-27 14:46:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 14:46:22 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 14:46:22 --> Helper loaded: form_helper
+INFO - 2020-10-27 14:46:22 --> Form Validation Class Initialized
+INFO - 2020-10-27 14:46:22 --> Controller Class Initialized
+INFO - 2020-10-27 14:46:22 --> Model "Common_model" initialized
+INFO - 2020-10-27 14:46:22 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 14:46:22 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 14:46:22 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 14:46:22 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:46:22 --> Helper loaded: language_helper
+INFO - 2020-10-27 14:46:22 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 14:46:22 --> Helper loaded: manufacturing_no_helper
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Manufactur_No"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Reference_order_No"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Price"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Price"
+INFO - 2020-10-27 14:46:22 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "2019"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:46:22 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 14:46:22 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 14:46:23 --> Final output sent to browser
+DEBUG - 2020-10-27 14:46:23 --> Total execution time: 1.2269
+INFO - 2020-10-27 14:46:24 --> Config Class Initialized
+INFO - 2020-10-27 14:46:24 --> Hooks Class Initialized
+DEBUG - 2020-10-27 14:46:24 --> UTF-8 Support Enabled
+INFO - 2020-10-27 14:46:24 --> Utf8 Class Initialized
+INFO - 2020-10-27 14:46:25 --> URI Class Initialized
+INFO - 2020-10-27 14:46:25 --> Router Class Initialized
+INFO - 2020-10-27 14:46:25 --> Output Class Initialized
+INFO - 2020-10-27 14:46:25 --> Security Class Initialized
+DEBUG - 2020-10-27 14:46:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 14:46:25 --> Input Class Initialized
+INFO - 2020-10-27 14:46:25 --> Language Class Initialized
+ERROR - 2020-10-27 14:46:25 --> 404 Page Not Found: Assets/global
+INFO - 2020-10-27 14:47:30 --> Config Class Initialized
+INFO - 2020-10-27 14:47:30 --> Hooks Class Initialized
+DEBUG - 2020-10-27 14:47:30 --> UTF-8 Support Enabled
+INFO - 2020-10-27 14:47:30 --> Utf8 Class Initialized
+INFO - 2020-10-27 14:47:30 --> URI Class Initialized
+INFO - 2020-10-27 14:47:30 --> Router Class Initialized
+INFO - 2020-10-27 14:47:30 --> Output Class Initialized
+INFO - 2020-10-27 14:47:30 --> Security Class Initialized
+DEBUG - 2020-10-27 14:47:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 14:47:30 --> Input Class Initialized
+INFO - 2020-10-27 14:47:30 --> Language Class Initialized
+INFO - 2020-10-27 14:47:30 --> Loader Class Initialized
+INFO - 2020-10-27 14:47:30 --> Helper loaded: url_helper
+INFO - 2020-10-27 14:47:30 --> Helper loaded: file_helper
+INFO - 2020-10-27 14:47:30 --> Helper loaded: utility_helper
+INFO - 2020-10-27 14:47:30 --> Helper loaded: unit_helper
+INFO - 2020-10-27 14:47:30 --> Helper loaded: multi_language_helper
+INFO - 2020-10-27 14:47:30 --> Helper loaded: db_dinamic_helper
+INFO - 2020-10-27 14:47:30 --> Helper loaded: create_voucher_no_helper
+INFO - 2020-10-27 14:47:30 --> Helper loaded: site_helper
+INFO - 2020-10-27 14:47:30 --> Helper loaded: branch_dropdown_helper
+INFO - 2020-10-27 14:47:30 --> Helper loaded: account_ledger_dropdown_helper
+INFO - 2020-10-27 14:47:30 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:47:30 --> Email Class Initialized
+DEBUG - 2020-10-27 14:47:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2020-10-27 14:47:30 --> Session: Class initialized using 'files' driver.
+INFO - 2020-10-27 14:47:30 --> Helper loaded: form_helper
+INFO - 2020-10-27 14:47:30 --> Form Validation Class Initialized
+INFO - 2020-10-27 14:47:30 --> Controller Class Initialized
+INFO - 2020-10-27 14:47:30 --> Model "Common_model" initialized
+INFO - 2020-10-27 14:47:30 --> Model "Finane_Model" initialized
+INFO - 2020-10-27 14:47:30 --> Model "Inventory_Model" initialized
+INFO - 2020-10-27 14:47:30 --> Model "Sales_Model" initialized
+INFO - 2020-10-27 14:47:30 --> Database Driver Class Initialized
+INFO - 2020-10-27 14:47:30 --> Helper loaded: language_helper
+INFO - 2020-10-27 14:47:30 --> Language file loaded: language/english/content_lang.php
+INFO - 2020-10-27 14:47:30 --> Helper loaded: manufacturing_no_helper
+ERROR - 2020-10-27 14:47:30 --> Could not find the language line "Manufacturing_Add"
+ERROR - 2020-10-27 14:47:30 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 14:47:30 --> Could not find the language line "Manufacturing_List"
+ERROR - 2020-10-27 14:47:30 --> Could not find the language line "Branch"
+ERROR - 2020-10-27 14:47:30 --> Could not find the language line "Manufactur_No"
+ERROR - 2020-10-27 14:47:30 --> Could not find the language line "Reference_order_No"
+ERROR - 2020-10-27 14:47:30 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 14:47:30 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 14:47:30 --> Could not find the language line "Price"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Inventory_Category"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Inventory_Item"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Price"
+INFO - 2020-10-27 14:47:31 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/inventory/manufacturing/manufacturingAdd.php
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Warranty_Claim_Voucher"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Warranty_Receipt_Voucher"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Purchase_Return"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Purchase_Order"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Material_Received_Note"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Sales_Return"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Sales_Order"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Sales_Delivery_Challan"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Product_Wise_Sales"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "HR_&_Payroll"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Employee_Add"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Employee_Salary_Add"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Employee_Voucher_Add"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Festival_Bonus_Voucher_Add"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Performance_Bonus_Add"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Leave_Payment_Add"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Over_Time_Payment_Add"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Employee_Attendance_Add"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Designation_Add"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Department_Add"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Employee_Configuration"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Employee_Salary_Configuration"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Employee_Bonus_Configuration"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Employee_Over_Time_Configuration"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Employee_Import"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Employee_Working_Day"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Employee_Holidays"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Employee_Leave_Category"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Salary_Statements(Salary_Voucher)"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Salary_as_Per_Department_Total_Report"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Attendence_Report"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "HR_Data_Base_Report"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Festival_Bonus_Report"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Performance_Bonus_Report"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Leave_Payment_Report"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Over_Time_Payment_Report"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "HR_Performance_Appraisal_Report"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Day_Book_Report"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Branch_Info"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Bank_Account_Info"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Product_Property_Set"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Employee"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Purchases_Import"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Sales_Import"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Finance_Import"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Purchases_lpg_add"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "2019"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Report"
+ERROR - 2020-10-27 14:47:31 --> Could not find the language line "Purchases_Invoice"
+INFO - 2020-10-27 14:47:31 --> File loaded: D:\xampp\htdocs\kpc\application\views\distributor/masterTemplate.php
+INFO - 2020-10-27 14:47:31 --> Final output sent to browser
+DEBUG - 2020-10-27 14:47:31 --> Total execution time: 1.3315
+INFO - 2020-10-27 14:47:33 --> Config Class Initialized
+INFO - 2020-10-27 14:47:33 --> Hooks Class Initialized
+DEBUG - 2020-10-27 14:47:33 --> UTF-8 Support Enabled
+INFO - 2020-10-27 14:47:33 --> Utf8 Class Initialized
+INFO - 2020-10-27 14:47:33 --> URI Class Initialized
+INFO - 2020-10-27 14:47:33 --> Router Class Initialized
+INFO - 2020-10-27 14:47:33 --> Output Class Initialized
+INFO - 2020-10-27 14:47:33 --> Security Class Initialized
+DEBUG - 2020-10-27 14:47:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-10-27 14:47:34 --> Input Class Initialized
+INFO - 2020-10-27 14:47:34 --> Language Class Initialized
+ERROR - 2020-10-27 14:47:34 --> 404 Page Not Found: Assets/global

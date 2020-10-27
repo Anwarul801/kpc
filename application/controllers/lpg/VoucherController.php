@@ -69,8 +69,17 @@ class VoucherController extends CI_Controller
         $data['link_page_url'] = $this->project . '/receiveVoucherAdd';
         $data['link_icon'] = "<i class='fa fa-plus'></i>";
         /*page navbar details*/
-        $data['mainContent'] = $this->load->view('distributor/account/receiv_voucher/receiveVoucher', $data, true);
-        $this->load->view('distributor/masterTemplate', $data);
+        $this->load->helper('site_helper');
+        $menu  = check_parmission_by_user_role(24);
+
+        if($menu == 0){
+            $data['mainContent'] = $this->load->view('distributor/not_permisson_page', $data, true);
+            $this->load->view('distributor/masterTemplate', $data);
+        } else{
+            $data['mainContent'] = $this->load->view('distributor/account/receiv_voucher/receiveVoucher', $data, true);
+            $this->load->view('distributor/masterTemplate', $data);
+        }
+        
     }
 
     function receiveVoucherView($voucherID)
@@ -1265,8 +1274,18 @@ class VoucherController extends CI_Controller
         $data['link_page_url'] = $this->project . '/journalVoucherAdd';
         $data['link_icon'] = "<i class='fa fa-plus'></i>";
         /*page navbar details*/
-        $data['mainContent'] = $this->load->view('distributor/account/journal/journalVoucher', $data, true);
+        $this->load->helper('site_helper');
+        $menu  = check_parmission_by_user_role(25);
+
+        if($menu == 0){
+            $data['mainContent'] = $this->load->view('distributor/not_permisson_page', $data, true);
+            $this->load->view('distributor/masterTemplate', $data);
+        } else{
+            $data['mainContent'] = $this->load->view('distributor/account/journal/journalVoucher', $data, true);
         $this->load->view('distributor/masterTemplate', $data);
+        }
+
+        
     }
 
     function journalVoucherView($voucherID)
