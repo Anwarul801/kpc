@@ -148,6 +148,7 @@ $property_5 = get_property_list_for_show_hide(5);
                         }
                         ?>
                         <th><?php echo get_phrase('Narration') ?></th>
+                        <th><?php echo get_phrase('User Name') ?></th>
                         <!-- <th>GP Amount</th>-->
                         <th><?php echo get_phrase('Action') ?></th>
                     </tr>

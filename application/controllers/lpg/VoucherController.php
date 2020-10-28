@@ -69,8 +69,17 @@ class VoucherController extends CI_Controller
         $data['link_page_url'] = $this->project . '/receiveVoucherAdd';
         $data['link_icon'] = "<i class='fa fa-plus'></i>";
         /*page navbar details*/
-        $data['mainContent'] = $this->load->view('distributor/account/receiv_voucher/receiveVoucher', $data, true);
-        $this->load->view('distributor/masterTemplate', $data);
+        $this->load->helper('site_helper');
+        $menu  = check_parmission_by_user_role(24);
+
+        if($menu == 0){
+            $data['mainContent'] = $this->load->view('distributor/not_permisson_page', $data, true);
+            $this->load->view('distributor/masterTemplate', $data);
+        } else{
+            $data['mainContent'] = $this->load->view('distributor/account/receiv_voucher/receiveVoucher', $data, true);
+            $this->load->view('distributor/masterTemplate', $data);
+        }
+        
     }
 
     function receiveVoucherView($voucherID)
@@ -313,147 +322,7 @@ class VoucherController extends CI_Controller
         }
         
     }
-    public function receiveVoucherAdd_v2($postingId = null)
-    {
-        $this->load->helper('create_receive_voucher_no_helper');
-        if (isPostBack()) {
-//validation rules set here.
-            $this->form_validation->set_rules('date', 'Payment Date', 'required');
-            $this->form_validation->set_rules('voucherid', 'Voucher Id', 'required');
-            // $this->form_validation->set_rules('payType', 'Payment Type', 'required');
-            $this->form_validation->set_rules('accountDr', 'Payment Account', 'required');
-            $this->form_validation->set_rules('accountCr[]', 'Account Debit', 'required');
-            $this->form_validation->set_rules('amountCr[]', 'Amount Debit', 'required');
-            if ($this->form_validation->run() == FALSE) {
-                exception("Required field can't be empty.");
-                redirect(site_url($this->project . '/receiveVoucherAdd'));
-            } else {
 
-                $this->db->trans_start();
-
-
-                $voucherCondition = array(
-                    'AccouVoucherType_AutoID' => 1,
-                    //'BranchAutoId' => $this->dist_id,
-                );
-                /*$totalPurchases = $this->Common_model->get_data_list_by_many_columns('ac_accounts_vouchermst', $voucherCondition);
-                $voucherID = "RV" . date('y') . date('m') . str_pad(count($totalPurchases) + 1, 4, "0", STR_PAD_LEFT);*/
-
-                $voucherID = create_receive_voucher_no();
-                $data['Accounts_Voucher_Date'] = date('Y-m-d', strtotime($this->input->post('date')));
-                $data['Accounts_Voucher_No'] = $voucherID;
-                $data['Narration'] = $this->input->post('narration');
-                $data['CompanyId'] = $this->dist_id;
-                $data['BranchAutoId'] = $this->input->post('BranchAutoId');
-                $data['Reference'] = 0;
-                $data['AccouVoucherType_AutoID'] = 1;
-                $data['IsActive'] = 1;
-                $data['Created_By'] = $this->admin_id;
-                $data['Created_Date'] = $this->timestamp;
-
-
-                /* Pay account DR */
-
-
-                $cust = $this->input->post('customer_id');
-                if (!empty($cust)):
-                    $data['customer_id'] = $cust;
-                endif;
-                $miscellaneous = $this->input->post('miscellaneous');
-                if (!empty($miscellaneous)):
-                    $data['miscellaneous'] = $this->input->post('miscellaneous');
-                endif;
-                $supid = $this->input->post('supplier_id');
-                if (!empty($supid)):
-                    $data['supplier_id'] = $supid;
-                endif;
-
-                $general_id = $this->Common_model->insert_data('ac_accounts_vouchermst', $data);
-
-                $acountCr = $this->input->post('accountCr');
-                $accountDr = $this->input->post('accountDr');
-
-                /* Pay account DR */
-                $dr['Accounts_VoucherMst_AutoID'] = $general_id;
-                $dr['TypeID'] = 1;
-                $dr['CHILD_ID'] = $accountDr;
-                //$dr['CHILD_ID'] = $acountCr;
-                $dr['GR_CREDIT'] = 0;
-                //$dr['GR_CREDIT'] = array_sum($this->input->post('amountDr'));
-                $dr['GR_DEBIT'] = array_sum($this->input->post('amountCr'));
-                // $dr['GR_DEBIT'] = 0;
-                $dr['IsActive'] = 1;
-                $dr['Created_By'] = $this->dist_id;
-                $dr['Created_Date'] = $this->timestamp;
-                $dr['BranchAutoId'] = $this->input->post('BranchAutoId');
-                $dr['date'] = date('Y-m-d', strtotime($this->input->post('date')));
-                $this->Common_model->insert_data('ac_tb_accounts_voucherdtl', $dr);
-
-
-                $allCr = array();
-                foreach ($acountCr as $key => $value) {
-                    unset($cr);
-                    $cr['Accounts_VoucherMst_AutoID'] = $general_id;
-                    $cr['TypeID'] = 2;
-                    $cr['CHILD_ID'] = $this->input->post('accountCr')[$key];
-                    $cr['GR_CREDIT'] = $this->input->post('amountCr')[$key];
-                    $cr['Reference'] = $this->input->post('memoCr')[$key];;
-                    $cr['GR_DEBIT'] = 0;
-                    $cr['IsActive'] = 1;
-                    $cr['Created_By'] = $this->dist_id;
-                    $cr['Created_Date'] = $this->timestamp;
-                    $cr['BranchAutoId'] = $this->input->post('BranchAutoId');
-                    $cr['date'] = date('Y-m-d', strtotime($this->input->post('date')));
-                    $allCr[] = $cr;
-                }
-                $this->db->insert_batch('ac_tb_accounts_voucherdtl', $allCr);
-                $this->db->trans_complete();
-                if ($this->db->trans_status() === FALSE) {
-                    $msg = $this->config->item("save_error_message");
-                    $this->session->set_flashdata('error', $msg);
-                    redirect(site_url($this->project . '/receiveVoucherAdd/'));
-                } else {
-                    $msg = $this->config->item("save_success_message");
-                    $this->session->set_flashdata('success', $msg);
-                    redirect(site_url($this->project . '/receiveVoucherView/' . $general_id));
-                }
-
-
-                /* Pay account Credit */
-            }
-        }
-        //$data['accountHeadList'] = $this->Common_model->getAccountHead();
-
-
-        $data['accountHeadList'] = $this->Common_model->getAccountHeadNew();
-
-        $voucherCondition = array(
-            'AccouVoucherType_AutoID' => 2,
-            'BranchAutoId' => $this->dist_id,
-        );
-
-        $data['voucherID'] = create_receive_voucher_no();
-        //$totalPurchases = $this->Common_model->get_data_list_by_many_columns('ac_accounts_vouchermst', $voucherCondition);
-        //$data['voucherID'] = "RV" . date("y") . date("m") . str_pad(count($totalPurchases) + 1, 4, "0", STR_PAD_LEFT);
-
-
-        $branchCondition = array(
-            'is_active' => 1
-        );
-        $data['branch'] = $this->Common_model->get_data_list_by_many_columns('branch', $branchCondition);
-
-
-        $data['title'] = 'Add Receive Voucher';
-        /*page navbar details*/
-        $data['title'] = 'Add Receive Voucher';
-        $data['page_type'] = $this->page_type;
-        $data['link_page_name'] = 'Receive Voucher List';
-        $data['link_page_url'] = $this->project . '/receiveVoucher';
-        $data['link_icon'] = "<i class='fa fa-list'></i>";
-        /*page navbar details*/
-        $data['mainContent'] = $this->load->view('distributor/account/receiv_voucher/receiveVoucherAdd_v2', $data, true);
-        $this->load->view('distributor/masterTemplate', $data);
-    }
     public function receiveVoucherEdit($invoiceId)
     {
 
@@ -655,197 +524,7 @@ class VoucherController extends CI_Controller
         
         
     }
-    public function receiveVoucherEdit_v2($invoiceId)
-    {
 
-
-        if (isPostBack()) {
-            $this->form_validation->set_rules('date', 'Payment Date', 'required');
-            $this->form_validation->set_rules('voucherid', 'Voucher Id', 'required');
-            //$this->form_validation->set_rules('payType', 'Payment Type', 'required');
-            $this->form_validation->set_rules('accountDr', 'Payment Account', 'required');
-            $this->form_validation->set_rules('accountCr[]', 'Account Debit', 'required');
-            $this->form_validation->set_rules('amountCr[]', 'Amount Debit', 'required');
-            if ($this->form_validation->run() == FALSE) {
-                exception("Required field can't be empty.");
-                redirect(site_url($this->project . '/receiveVoucherAdd'));
-            } else {
-
-                $this->_save_data_to_accounting_history_table($invoiceId, 'edit', 'Receive Voucher', 'receiveVoucherEdit');
-                $this->db->trans_start();
-
-                $data['AccouVoucherType_AutoID'] = 1;
-                $data['BranchAutoId'] = $this->input->post('BranchAutoId');
-                $data['Accounts_Voucher_Date'] = date('Y-m-d', strtotime($this->input->post('date')));
-                $data['Accounts_Voucher_No'] = $this->input->post('voucherid');
-                // $data['AccouVoucherType_AutoID'] = $this->input->post('payType');
-                $data['Narration'] = $this->input->post('narration');
-
-
-                $cust = $this->input->post('customer_id');
-                $miscellaneous = $this->input->post('miscellaneous');
-                $supid = $this->input->post('supplier_id');
-
-                if (!empty($cust)):
-                    $data['customer_id'] = $cust;
-                    $data['supplier_id'] = 0;
-                    $data['miscellaneous'] = null;
-                endif;
-
-                if (!empty($miscellaneous)):
-                    $data['miscellaneous'] = $this->input->post('miscellaneous');
-                    $data['supplier_id'] = 0;
-                    $data['customer_id'] = null;
-                endif;
-
-                if (!empty($supid)):
-                    $data['supplier_id'] = $this->input->post('supplier_id');
-                    $data['customer_id'] = 0;
-                    $data['miscellaneous'] = null;
-                endif;
-
-                // $data['debit'] = array_sum($this->input->post('amountCr'));
-
-                $data['IsActive'] = 1;
-                $data['CompanyId'] = $this->dist_id;
-                $data['Changed_By'] = $this->admin_id;
-                $data['Changed_Date'] = $this->timestamp;
-
-
-                $this->Common_model->update_data('ac_accounts_vouchermst', $data, 'Accounts_VoucherMst_AutoID', $invoiceId);
-
-                $acountCr = $this->input->post('accountCr');
-                $accountDr = $this->input->post('accountDr');
-                $allDataUpdate = array();
-                $allDatainsert = array();
-
-
-                /*$Delete['Changed_By'] = $this->admin_id;
-                $this->db->where('Accounts_VoucherMst_AutoID', $invoiceId);
-                $this->db->update('ac_tb_accounts_voucherdtl', $Delete);
-
-                $this->db->where('Accounts_VoucherMst_AutoID', $invoiceId);
-                $del = $this->db->delete('ac_tb_accounts_voucherdtl');*/
-
-
-                $paymentCrCondition = array(
-                    'TypeID' => 1,
-                    'Accounts_VoucherMst_AutoID' => $invoiceId,
-                    'CHILD_ID' => $this->input->post('accountDr')
-                );
-
-                $dr['Accounts_VoucherMst_AutoID'] = $invoiceId;
-                $dr['CHILD_ID'] = $this->input->post('accountDr');
-                $dr['GR_DEBIT'] = array_sum($this->input->post('amountCr'));
-                $dr['TypeID'] = 1;
-                $dr['GR_CREDIT'] = 0;
-                $dr['date'] = date('Y-m-d', strtotime($this->input->post('date')));
-                $dr['Reference'] = '';
-                $dr['IsActive'] = 1;
-                $dr['Changed_By'] = $this->admin_id;
-                $dr['Changed_Date'] = $this->timestamp;
-                $dr['BranchAutoId'] = $this->input->post('BranchAutoId');
-
-                $this->Common_model->save_and_check('ac_tb_accounts_voucherdtl', $dr, $paymentCrCondition);
-
-
-                foreach ($acountCr as $key => $value) {
-                    $costCondition = array(
-                        'Accounts_VoucherMst_AutoID' => $invoiceId,
-                        'CHILD_ID' => $value,
-                    );
-                    $checkArray = $this->Common_model->get_single_data_by_many_columns('ac_tb_accounts_voucherdtl', $costCondition);
-
-                    if (!empty($checkArray)) {
-                        $jv['Accounts_VoucherMst_AutoID'] = $invoiceId;
-                        $jv['CHILD_ID'] = $value;
-                        $jv['GR_DEBIT'] = 0;
-                        $jv['GR_CREDIT'] = $this->input->post('amountCr')[$key];
-                        $jv['date'] = date('Y-m-d', strtotime($this->input->post('date')));
-                        $jv['Reference'] = $this->input->post('memoCr')[$key];
-                        $jv['IsActive'] = 1;
-                        $jv['Created_By'] = $this->dist_id;
-                        $jv['Changed_By'] = $this->admin_id;
-                        $jv['Changed_Date'] = $this->timestamp;
-                        $jv['TypeID'] = 2;
-                        $jv['BranchAutoId'] = $this->input->post('BranchAutoId');
-                        $allDataUpdate[] = $jv;
-                        unset($jv);
-                    } else {
-                        $jv['Accounts_VoucherMst_AutoID'] = $invoiceId;
-                        $jv['CHILD_ID'] = $value;
-                        $jv['GR_DEBIT'] = 0;
-                        $jv['GR_CREDIT'] = $this->input->post('amountCr')[$key];
-                        $jv['date'] = date('Y-m-d', strtotime($this->input->post('date')));
-                        $jv['Reference'] = $this->input->post('memoCr')[$key];
-                        $jv['IsActive'] = 1;
-                        $jv['Created_By'] = $this->dist_id;
-                        $jv['Changed_By'] = $this->admin_id;
-                        $jv['Changed_Date'] = $this->timestamp;
-                        $jv['BranchAutoId'] = $this->input->post('BranchAutoId');
-                        $jv['TypeID'] = 2;
-                        $allDatainsert[] = $jv;
-                        unset($jv);
-                    }
-                }
-                $this->db->where('Accounts_VoucherMst_AutoID', $invoiceId);
-                $this->db->update_batch('ac_tb_accounts_voucherdtl', $allDataUpdate, 'CHILD_ID');
-
-                if (!empty($allDatainsert)) {
-                    $this->db->insert_batch('ac_tb_accounts_voucherdtl', $allDatainsert);
-                }
-
-
-                $this->db->trans_complete();
-                if ($this->db->trans_status() === FALSE) {
-                    $msg = $this->config->item("update_error_message");
-                    $this->session->set_flashdata('error', $msg);
-                    redirect(site_url($this->project . '/receiveVoucherAdd/'));
-                } else {
-
-                    $msg = $this->config->item("update_success_message");
-                    $this->session->set_flashdata('success', $msg);
-                    redirect(site_url($this->project . '/receiveVoucherView/' . $invoiceId));
-
-                }
-            }
-        }
-
-        $data['receiveVoucher'] = $this->Common_model->get_single_data_by_single_column('ac_accounts_vouchermst', 'Accounts_VoucherMst_AutoID', $invoiceId);
-        $data['accountHeadList'] = $this->Common_model->getAccountHeadNew();
-
-//payment voucher Credit Account
-        $data['getDebitAccountId'] = $this->Finane_Model->getDebitAccountIdReceiveVoucherNew($this->dist_id, $invoiceId);
-
-
-//payment voucher debit account
-        $data['getCreditAccountId'] = $this->Finane_Model->getCreditAccountIdRecieveVoucherNew($this->dist_id, $invoiceId);
-
-        $branchCondition = array(
-            'is_active' => 1
-        );
-        $data['branch'] = $this->Common_model->get_data_list_by_many_columns('branch', $branchCondition);
-
-
-        /*page navbar details*/
-        $data['title'] = get_phrase('Edit Receive Voucher');
-        $data['page_type'] = get_phrase($this->page_type);
-        $data['link_page_name'] = get_phrase('Add Payment Voucher');
-        $data['link_page_url'] = $this->project . '/paymentVoucherAdd';
-        $data['link_icon'] = $this->link_icon_add;
-
-        $data['second_link_page_name'] = get_phrase(' Receive Voucher');
-        $data['second_link_page_url'] = $this->project . '/receiveVoucher';
-        $data['second_link_icon'] = $this->link_icon_list;
-        $data['therd_link_icon'] = '<i class="fa fa-list"></i>';
-        $data['third_link_page_name'] = get_phrase('View Recive Voucher');
-        $data['third_link_page_url'] = $this->project . '/receiveVoucherView/' . $invoiceId;
-        $data['third_link_icon'] = '<i class="fa fa-edit"></i>';
-        /*page navbar details*/
-
-        $data['mainContent'] = $this->load->view('distributor/account/receiv_voucher/receiveVoucherEdit_v2', $data, true);
-        $this->load->view('distributor/masterTemplate', $data);
-    }
     public function paymentVoucherAdd($postingId = null)
     {
         $this->load->helper('create_payment_voucher_no');
@@ -1012,132 +691,7 @@ class VoucherController extends CI_Controller
         
     }
 
-    public function paymentVoucherAdd_v2($postingId = null)
-    {
-        $this->load->helper('create_payment_voucher_no');
-        if (isPostBack()) {
-            //set some validation for input fields
-            $this->form_validation->set_rules('date', 'Payment Date', 'required');
-            $this->form_validation->set_rules('voucherid', 'Voucher Id', 'required');
-            //$this->form_validation->set_rules('payType', 'Payment Type', 'required');
-            $this->form_validation->set_rules('accountCr', 'Payment Account', 'required');
-            $this->form_validation->set_rules('accountDr[]', 'Account Debit', 'required');
-            $this->form_validation->set_rules('amountDr[]', 'Amount Debit', 'required');
 
-            if ($this->form_validation->run() == FALSE) {
-                $msg = "Required field can't be empty";
-                $this->session->set_flashdata('error', $msg);
-                redirect(site_url($this->project . '/paymentVoucherAdd'));
-            } else {
-                $this->db->trans_start();
-                $voucherCondition = array(
-                    'AccouVoucherType_AutoID' => 2,
-                    'BranchAutoId' => $this->dist_id,
-                );
-
-
-                // $totalPurchases = $this->Common_model->get_data_list_by_many_columns('ac_accounts_vouchermst', $voucherCondition);
-                //$voucherID = "PV" . date('y') . date('m') . str_pad(count($totalPurchases) + 1, 4, "0", STR_PAD_LEFT);
-
-                $voucherID = create_payment_voucher_no();
-
-                $data['Accounts_Voucher_Date'] = date('Y-m-d', strtotime($this->input->post('date')));
-                $data['Accounts_Voucher_No'] = $voucherID;
-                $data['Narration'] = $this->input->post('narration');
-                $data['CompanyId'] = $this->dist_id;
-                $data['BranchAutoId'] = $this->input->post('BranchAutoId');
-                $data['Reference'] = 0;
-                $data['AccouVoucherType_AutoID'] = 2;
-                $data['IsActive'] = 1;
-                $data['Created_By'] = $this->admin_id;
-                $data['Created_Date'] = $this->timestamp;
-
-                $cust = $this->input->post('customer_id');
-                $supid = $this->input->post('supplier_id');
-
-                if (!empty($cust)):
-                    $data['customer_id'] = $cust;
-                endif;
-                if (!empty($supid)):
-                    $data['supplier_id'] = $this->input->post('supplier_id');
-                endif;
-                $miscellaneous = $this->input->post('miscellaneous');
-                if (!empty($miscellaneous)):
-                    $data['miscellaneous'] = $this->input->post('miscellaneous');
-                endif;
-
-
-                $general_id = $this->Common_model->insert_data('ac_accounts_vouchermst', $data);
-
-
-                $acountCr = $this->input->post('accountCr');
-                $accountDr = $this->input->post('accountDr');
-                /* Pay account credit */
-                $dr['Accounts_VoucherMst_AutoID'] = $general_id;
-                $dr['TypeID'] = 2;
-                $dr['CHILD_ID'] = $acountCr;
-                $dr['GR_CREDIT'] = array_sum($this->input->post('amountDr'));
-                $dr['GR_DEBIT'] = 0;
-                $dr['IsActive'] = 1;
-                $dr['Created_By'] = $this->dist_id;
-                $dr['Created_Date'] = $this->timestamp;
-                $dr['BranchAutoId'] = $this->input->post('BranchAutoId');
-                $dr['date'] = date('Y-m-d', strtotime($this->input->post('date')));
-                $this->Common_model->insert_data('ac_tb_accounts_voucherdtl', $dr);
-
-                $allCr = array();
-                foreach ($accountDr as $key => $value) {
-                    unset($cr);
-                    $cr['Accounts_VoucherMst_AutoID'] = $general_id;
-                    $cr['TypeID'] = 1;
-                    $cr['CHILD_ID'] = $this->input->post('accountDr')[$key];
-                    $cr['GR_CREDIT'] = 0;
-                    $cr['Reference'] = $this->input->post('memoDr')[$key];
-                    $cr['GR_DEBIT'] = $this->input->post('amountDr')[$key];
-                    $cr['IsActive'] = 1;
-                    $cr['Created_By'] = $this->dist_id;
-                    $cr['Created_Date'] = $this->timestamp;
-                    $cr['BranchAutoId'] = $this->input->post('BranchAutoId');
-                    $cr['date'] = date('Y-m-d', strtotime($this->input->post('date')));
-                    $allCr[] = $cr;
-                }
-                $this->db->insert_batch('ac_tb_accounts_voucherdtl', $allCr);
-
-
-
-
-
-                $this->db->trans_complete();
-                if ($this->db->trans_status() === FALSE) {
-                    $msg = "Your data can't be inserted";
-                    $this->session->set_flashdata('error', $msg);
-                    redirect(site_url($this->project . '/paymentVoucherAdd'));
-                } else {
-                    $msg = "Your data successfully inserted into database";
-                    $this->session->set_flashdata('success', $msg);
-                    redirect(site_url($this->project . '/paymentVoucherView/' . $general_id));
-
-                }
-            }
-            /* Pay account Credit */
-        }
-        $condition = array(
-            'status' => '1',
-            'posted' => '1'
-        );
-        $data['accountHeadList'] = $this->Common_model->getAccountHeadUpdate();
-
-
-        /*page navbar details*/
-        $data['title'] = get_phrase('Add Payment Voucher');
-        $data['page_type'] = $this->page_type;
-        $data['link_page_name'] = get_phrase('Payment Voucher List');
-        $data['link_page_url'] = $this->project . '/paymentVoucher';
-        $data['link_icon'] = "<i class='fa fa-list'></i>";
-        /*page navbar details*/
-        $data['mainContent'] = $this->load->view('distributor/account/payment_voucher/paymentVoucherAdd_v2', $data, true);
-        $this->load->view('distributor/masterTemplate', $data);
-    }
     public function paymentVoucher()
     {
         /*page navbar details*/
@@ -1147,8 +701,18 @@ class VoucherController extends CI_Controller
         $data['link_page_url'] = $this->project . '/paymentVoucherAdd';
         $data['link_icon'] = "<i class='fa fa-plus'></i>";
         /*page navbar details*/
-        $data['mainContent'] = $this->load->view('distributor/account/payment_voucher/paymentVoucher', $data, true);
-        $this->load->view('distributor/masterTemplate', $data);
+        $this->load->helper('site_helper');
+        $menu  = check_parmission_by_user_role(23);
+
+        if($menu == 0){
+            $data['mainContent'] = $this->load->view('distributor/not_permisson_page', $data, true);
+            $this->load->view('distributor/masterTemplate', $data);
+        } else{
+            $data['mainContent'] = $this->load->view('distributor/account/payment_voucher/paymentVoucher', $data, true);
+            $this->load->view('distributor/masterTemplate', $data);
+        }
+
+       
     }
 
     function paymentVoucherView($voucherID)
@@ -1439,199 +1003,7 @@ class VoucherController extends CI_Controller
         
         $this->load->view('distributor/masterTemplate', $data);
     }
-    function paymentVoucherEdit_v2($invoiceId)
-    {
 
-
-        if (isPostBack()) {
-            $this->form_validation->set_rules('date', 'Payment Date', 'required');
-            $this->form_validation->set_rules('voucherid', 'Voucher Id', 'required');
-            //$this->form_validation->set_rules('payType', 'Payment Type', 'required');
-            $this->form_validation->set_rules('accountCr', 'Payment Account', 'required');
-            $this->form_validation->set_rules('accountDr[]', 'Account Debit', 'required');
-            $this->form_validation->set_rules('amountDr[]', 'Amount Debit', 'required');
-            if ($this->form_validation->run() == FALSE) {
-
-                exception("Required field can't be empty.");
-                redirect(site_url($this->project . '/paymentVoucherAdd'));
-            } else {
-                $this->_save_data_to_accounting_history_table($invoiceId, 'edit', 'Payment  Voucher', 'paymentVoucherEdit');
-
-                $this->db->trans_start();
-                $data['AccouVoucherType_AutoID'] = 2;
-                $data['BranchAutoId'] = $this->input->post('BranchAutoId');
-                $data['Accounts_Voucher_Date'] = date('Y-m-d', strtotime($this->input->post('date')));
-                $data['Accounts_Voucher_No'] = $this->input->post('voucherid');
-                // $data['AccouVoucherType_AutoID'] = $this->input->post('payType');
-                $data['Narration'] = $this->input->post('narration');
-                $cust = $this->input->post('customer_id');
-                $supid = $this->input->post('supplier_id');
-                if (!empty($cust)):
-                    $data['customer_id'] = $cust;
-                    $data['supplier_id'] = 0;
-                    $data['miscellaneous'] = null;
-                endif;
-                if (!empty($supid)):
-                    $data['supplier_id'] = $this->input->post('supplier_id');
-                    $data['customer_id'] = 0;
-                    $data['miscellaneous'] = null;
-                endif;
-                $miscellaneous = $this->input->post('miscellaneous');
-                if (!empty($miscellaneous)):
-                    $data['miscellaneous'] = $this->input->post('miscellaneous');
-                    $data['supplier_id'] = 0;
-                    $data['customer_id'] = null;
-                endif;
-                //$data['debit'] = array_sum($this->input->post('amountDr'));
-                $data['IsActive'] = 1;
-                $data['CompanyId'] = $this->dist_id;
-                $data['Changed_By'] = $this->admin_id;
-                $data['Changed_Date'] = $this->timestamp;
-
-
-                $this->Common_model->update_data('ac_accounts_vouchermst', $data, 'Accounts_VoucherMst_AutoID', $invoiceId);
-
-                $acountCr = $this->input->post('accountCr');
-                $accountDr = $this->input->post('accountDr');
-                /* Pay account credit */
-
-                $allDataUpdate = array();
-                $allDatainsert = array();
-
-                /* $Delete['Changed_By'] = $this->admin_id;
-                 $this->db->where('Accounts_VoucherMst_AutoID', $invoiceId);
-                 $this->db->update('ac_tb_accounts_voucherdtl', $Delete);
-
-
-                 $this->db->where('Accounts_VoucherMst_AutoID', $invoiceId);
-                 $this->db->delete('ac_tb_accounts_voucherdtl');*/
-
-
-                /*$Delete['IsActive'] = 0;
-                $this->db->where('Accounts_VoucherMst_AutoID', $invoiceId);
-                $this->db->update('ac_tb_accounts_voucherdtl', $Delete);*/
-                $paymentCrCondition = array(
-                    'TypeID' => 2,
-                    'Accounts_VoucherMst_AutoID' => $invoiceId,
-                    'CHILD_ID' => $this->input->post('accountCr')
-                );
-                $cr['Accounts_VoucherMst_AutoID'] = $invoiceId;
-                $cr['CHILD_ID'] = $this->input->post('accountCr');
-                $cr['GR_DEBIT'] = 0;
-                $cr['TypeID'] = 2;
-                $cr['GR_CREDIT'] = array_sum($this->input->post('amountDr'));
-                $cr['date'] = date('Y-m-d', strtotime($this->input->post('date')));
-                $cr['Reference'] = 'Cr';
-                $cr['IsActive'] = 1;
-                $cr['Changed_By'] = $this->admin_id;
-                $cr['BranchAutoId'] = $this->input->post('BranchAutoId');
-                $cr['Changed_Date'] = $this->timestamp;
-
-                $this->Common_model->save_and_check('ac_tb_accounts_voucherdtl', $cr, $paymentCrCondition);
-
-
-                foreach ($accountDr as $key => $value) {
-                    $costCondition = array(
-                        'Accounts_VoucherMst_AutoID' => $invoiceId,
-                        'CHILD_ID' => $value,
-                    );
-                    $checkArray = $this->Common_model->get_single_data_by_many_columns('ac_tb_accounts_voucherdtl', $costCondition);
-                    if (!empty($checkArray)) {
-                        $jv['Accounts_VoucherMst_AutoID'] = $invoiceId;
-                        $jv['CHILD_ID'] = $value;
-                        $jv['GR_DEBIT'] = $this->input->post('amountDr')[$key];
-                        $jv['GR_CREDIT'] = 0;
-                        $jv['date'] = date('Y-m-d', strtotime($this->input->post('date')));
-                        $jv['Reference'] = $this->input->post('memoDr')[$key];
-                        $jv['IsActive'] = 1;
-                        $jv['Created_By'] = $this->dist_id;
-                        $jv['Changed_By'] = $this->admin_id;
-                        $jv['Changed_Date'] = $this->timestamp;
-                        $jv['TypeID'] = 1;
-                        $jv['BranchAutoId'] = $this->input->post('BranchAutoId');
-                        $allDataUpdate[] = $jv;
-                        unset($jv);
-                    } else {
-                        $jv['Accounts_VoucherMst_AutoID'] = $invoiceId;
-                        $jv['CHILD_ID'] = $value;
-                        $jv['GR_DEBIT'] = $this->input->post('amountDr')[$key];
-                        $jv['GR_CREDIT'] = 0;
-                        $jv['date'] = date('Y-m-d', strtotime($this->input->post('date')));
-                        $jv['Reference'] = $this->input->post('memoDr')[$key];
-                        $jv['IsActive'] = 1;
-                        $jv['Created_By'] = $this->dist_id;
-                        $jv['Changed_By'] = $this->admin_id;
-                        $jv['Changed_Date'] = $this->timestamp;
-                        $jv['BranchAutoId'] = $this->input->post('BranchAutoId');
-                        $jv['TypeID'] = 1;
-                        $allDatainsert[] = $jv;
-                        unset($jv);
-                    }
-                }
-
-                $this->db->where('Accounts_VoucherMst_AutoID', $invoiceId);
-                $this->db->update_batch('ac_tb_accounts_voucherdtl', $allDataUpdate, 'CHILD_ID');
-
-
-                $this->db->insert_batch('ac_tb_accounts_voucherdtl', $allDatainsert);
-
-
-
-
-
-
-                $this->db->trans_complete();
-                if ($this->db->trans_status() === FALSE) {
-                    $msg = 'Payment Voucher ' . ' ' . $this->config->item("update_error_message");
-                    $this->session->set_flashdata('error', $msg);
-                    redirect(site_url($this->project . '/paymentVoucherPosting/' . $invoiceId));
-                } else {
-                    $msg = 'Payment Voucher ' . ' ' . $this->config->item("update_success_message");
-                    $this->session->set_flashdata('success', $msg);
-                    redirect(site_url($this->project . '/paymentVoucherView/' . $invoiceId));
-                }
-
-
-            }
-        }
-        $data['accountHeadList'] = $this->Common_model->getAccountHeadUpdate();
-
-        $data['editVoucher'] = $this->Common_model->get_single_data_by_single_column('ac_accounts_vouchermst', 'Accounts_VoucherMst_AutoID', $invoiceId);
-
-
-//payment voucher Credit Account
-        $data['getCreditAccountId'] = $this->Finane_Model->getCreditAccountIdNew($this->dist_id, $invoiceId);
-
-
-//payment voucher debit account
-        $data['getDebitAccountId'] = $this->Finane_Model->getDebitAccountIdNew($this->dist_id, $invoiceId);
-
-        /* echo '<pre>';
-         print_r($data['getDebitAccountId']);
-         exit();*/
-
-        $branchCondition = array(
-            'is_active' => 1
-        );
-        $data['branch'] = $this->Common_model->get_data_list_by_many_columns('branch', $branchCondition);
-
-        /*page navbar details*/
-        $data['title'] = get_phrase('Edit Payment Voucher');
-        $data['page_type'] = get_phrase($this->page_type);
-        $data['link_page_name'] = get_phrase('Payment Voucher Add');
-        $data['link_page_url'] = $this->project . '/paymentVoucherAdd';
-        $data['link_icon'] = "<i class='fa fa-plus'></i>";
-        $data['second_link_page_name'] = get_phrase('Payment Voucher List');
-        $data['second_link_page_url'] = $this->project . '/paymentVoucher';
-        $data['second_link_icon'] = $this->link_icon_list;
-        $data['third_link_page_name'] = get_phrase('Payment Voucher');
-        $data['third_link_page_url'] = $this->project . '/paymentVoucherView/' . $invoiceId;
-        $data['third_link_icon'] = $this->link_icon_edit;
-        /*page navbar details*/
-
-        $data['mainContent'] = $this->load->view('distributor/account/payment_voucher/paymentVoucherEdit_v2', $data, true);
-        $this->load->view('distributor/masterTemplate', $data);
-    }
     function paymentVoucherEdit__old($invoiceId)
     {
         if (is_numeric($invoiceId)) {
@@ -1902,8 +1274,18 @@ class VoucherController extends CI_Controller
         $data['link_page_url'] = $this->project . '/journalVoucherAdd';
         $data['link_icon'] = "<i class='fa fa-plus'></i>";
         /*page navbar details*/
-        $data['mainContent'] = $this->load->view('distributor/account/journal/journalVoucher', $data, true);
+        $this->load->helper('site_helper');
+        $menu  = check_parmission_by_user_role(25);
+
+        if($menu == 0){
+            $data['mainContent'] = $this->load->view('distributor/not_permisson_page', $data, true);
+            $this->load->view('distributor/masterTemplate', $data);
+        } else{
+            $data['mainContent'] = $this->load->view('distributor/account/journal/journalVoucher', $data, true);
         $this->load->view('distributor/masterTemplate', $data);
+        }
+
+        
     }
 
     function journalVoucherView($voucherID)

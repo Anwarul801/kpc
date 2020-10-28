@@ -25,6 +25,7 @@
                                 <th><?php echo get_phrase('Memo')?></th>
 
                                 <th><?php echo get_phrase('Amount')?></th>
+                                <th><?php echo get_phrase('user name')?></th>
 
                                 <th><?php echo get_phrase('Action')?></th>
 

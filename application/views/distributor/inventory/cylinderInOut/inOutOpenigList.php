@@ -20,6 +20,7 @@
                         <th><?php echo get_phrase('PV_No') ?></th>
 
                         <th><?php echo get_phrase('Narration') ?></th>
+                        <th><?php echo get_phrase('User name') ?></th>
 
                         <th><?php echo get_phrase('Action') ?></th>
 
@@ -44,6 +45,13 @@
                             <td><?php echo $value->voucher_no; ?></td>
 
                             <td><?php echo $value->narration; ?></td>
+                            <td><?php $user_id=  $value->updated_by;
+                                            $this->db->select("admin.name");
+                                            $this->db->where('admin.admin_id', $user_id);
+                                            
+                                            $query = $this->db->get('admin')->row_array();
+                                            echo $query['name'];
+                                ?></td>
 
                             <td>
 

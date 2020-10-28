@@ -130,6 +130,7 @@ class ServerFilterController extends CI_Controller
             $row = array();
             $row[] = $no;
             $row[] = $brands->brandName;
+            $row[] = $brands->name;
             if ($brands->dist_id != 1):
                 if($edit == 0 && $delete == 0){
                     $row[] = '';
@@ -182,6 +183,7 @@ class ServerFilterController extends CI_Controller
             $row = array();
             $row[] = $no;
             $row[] = $productCat->title;
+            $row[] = $productCat->name;
 
             if ($productCat->category_id != 1 && $productCat->category_id != 2):
                 if($edit == 0 && $delete == 0){
@@ -294,6 +296,7 @@ class ServerFilterController extends CI_Controller
             $row[] = $supplier->supEmail;
             $row[] = $supplier->supPhone;
             $row[] = $supplier->supAddress;
+            $row[] = $supplier->name;
             if ($supplier->status == 1):
                 $row[] = '<a href="javascript:void(0)" onclick="supplierStatusChange(' . $supplier->sup_id . ',2)" class="label label-danger arrowed">
                     <i class="fa fa-ban"></i>
@@ -356,6 +359,7 @@ class ServerFilterController extends CI_Controller
             $row[] = $customer->customerPhone;
             $row[] = $customer->customerEmail;
             $row[] = $customer->customerAddress;
+            $row[] = $customer->name;
             $row[] = $this->Common_model->tableRow('root_info', 'root_id', $customer->root_id)->name;
 
             if ($customer->status == 1):
@@ -428,6 +432,7 @@ class ServerFilterController extends CI_Controller
             $row[] = $products->purchases_price;
             $row[] = $products->retailPrice;
             $row[] = $products->salesPrice;
+            $row[] = $products->name;
             if ($products->dist_id != 1):
                 if ($products->status == 1):
                     $row[] = '<a href="javascript:void(0)" onclick="productStatusChange(' . $products->product_id . ',2)" class="label label-danger arrowed">
@@ -586,6 +591,7 @@ class ServerFilterController extends CI_Controller
 
 
             $row[] = $sale->narration;
+            $row[] = $sale->name;
             /*$row[] = number_format((float) $this->Sales_Model->getGpAmountByInvoiceId($this->dist_id, $sale->sales_invoice_id), 2, '.', ',');*/
             if($edit == 0 && $delete == 0){
                 $row[] = '<a class="btn btn-icon-only blue" href="' . site_url($this->project . '/viewLpgCylinder/' . $sale->sales_invoice_id) . '">
@@ -678,6 +684,7 @@ class ServerFilterController extends CI_Controller
 
 
             $row[] = $sale->narration;
+            $row[] = $sale->name;
             if ($this->input->post('invoice_type') == 5) {
                 $row[] = '<a class="btn btn-icon-only blue" href="' . site_url($this->project . '/viewSalesReturn/' . $sale->id) . '">
     <i class="fa fa-search-plus bigger-130"></i></a>
@@ -756,6 +763,7 @@ class ServerFilterController extends CI_Controller
 
 
             $row[] = $sale->narration;
+            $row[] = $sale->name;
             /*$row[] = number_format((float) $this->Sales_Model->getGpAmountByInvoiceId($this->dist_id, $sale->sales_invoice_id), 2, '.', ',');*/
             $row[] = '<a class="btn btn-icon-only blue" href="' . site_url($this->project . '/warranty_claim_voucher_view/' . $sale->sales_invoice_id) . '">
     <i class="fa fa-search-plus bigger-130"></i></a>
@@ -898,6 +906,7 @@ class ServerFilterController extends CI_Controller
                 $row[] = $purchases->property_5;
             }
             $row[] = $purchases->narration;
+            $row[] = $purchases->name;
             $row[] = '<a class="btn btn-icon-only blue" href="' . site_url($this->project . '/viewPurchasesCylinder/' . $purchases->purchase_invoice_id) . '">
     <i class="fa fa-search-plus bigger-130"></i></a>
     <i class="fa fa-pencil bigger-130"></i></a>
@@ -1007,14 +1016,13 @@ class ServerFilterController extends CI_Controller
         $data = array();
         $no = $_POST['start'];
         foreach ($list as $payment) {
-            $name=$payment->name;
-            /*if ($payment->customerName != '') {
+            if ($payment->customerName != '') {
                 $name = $payment->customerName . ' [' . $payment->customerID . " ]";
             } else if ($payment->supName != '') {
                 $name = $payment->supName . ' [' . $payment->supID . " ]";
             } else {
                 $name = $payment->miscellaneous;
-            }*/
+            }
 
             if ($payment->for == 0) {
                 if($edit == 0 && $delete == 0){
@@ -1064,7 +1072,9 @@ class ServerFilterController extends CI_Controller
             $row[] = $payment->branch_name;
             $row[] = $name;
             $row[] = $Narration;
+            
             $row[] = number_format((float)$payment->amount, 2, '.', ',');
+            $row[] = $payment->name;
             //$row[] = number_format((float)$payment->debit, 2, '.', ',');
             //if (!empty($financeEditPermition)) {
             $row[] = $action;
@@ -1195,14 +1205,13 @@ class ServerFilterController extends CI_Controller
         $data = array();
         $no = $_POST['start'];
         foreach ($list as $receive) {
-            $name=$receive->name;
-            /*if ($receive->customerName != '') {
+            if ($receive->customerName != '') {
                 $name = $receive->customerName . ' [' . $receive->customerID . " ]";
             } else if ($receive->supName != '') {
                 $name = $receive->supName . ' [' . $receive->supID . " ]";
             } else {
                 $name = $receive->miscellaneous;
-            }*/
+            }
             if ($receive->for == 0) {
                 $action = '<a class="btn btn-icon-only blue" href="' . site_url($this->project . '/receiveVoucherView/' . $receive->Accounts_VoucherMst_AutoID) . '">
     <i class="ace-icon fa fa-search-plus bigger-130"></i></a>
@@ -1228,6 +1237,7 @@ class ServerFilterController extends CI_Controller
             $row[] = $name;
             $row[] = $Narration;
             $row[] = number_format((float)$receive->amount, 2, '.', ',');
+            $row[] = $receive->name;
             $row[] = $action;
             $data[] = $row;
         }
@@ -1391,6 +1401,7 @@ class ServerFilterController extends CI_Controller
             $row[] = $journal->Accounts_VoucherType;
             $row[] = $Narration;
             $row[] = $journal->total_amount;
+            $row[] = $journal->name;
             $row[] = $action;
             $data[] = $row;
         }
@@ -1517,6 +1528,7 @@ class ServerFilterController extends CI_Controller
                 endif;
             endif;
             $row[] = number_format((float)$supPay->totalPayment, 2, '.', ',');
+            $row[] = $name;
             $row[] = '<a class="btn btn-icon-only blue" href="' . site_url($this->project . '/viewMoneryReceiptSup/' . $supPay->moneyReceitid) . '">
     <i class="fa fa-search-plus bigger-130"></i></a>';
             $data[] = $row;
@@ -1700,6 +1712,7 @@ class ServerFilterController extends CI_Controller
 
 
             $row[] = $so_pos_list->narration;
+            $row[] = $so_pos_list->name;
             /*$row[] = number_format((float) $this->Sales_Model->getGpAmountByInvoiceId($this->dist_id, $sale->sales_invoice_id), 2, '.', ',');*/
             $this->load->helper('site_helper');
             $addP  = check_parmission_by_user_role(2110);
@@ -1929,6 +1942,7 @@ class ServerFilterController extends CI_Controller
 
 
             $row[] = $mrn_sdc_list->narration;
+            $row[] = $mrn_sdc_list->name;
             /*$row[] = number_format((float) $this->Sales_Model->getGpAmountByInvoiceId($this->dist_id, $sale->sales_invoice_id), 2, '.', ',');*/
             $this->load->helper('site_helper');
             
@@ -2050,6 +2064,7 @@ class ServerFilterController extends CI_Controller
 
 
             $row[] = $mrn_sdc_list->narration;
+            $row[] = $mrn_sdc_list->name;
             /*$row[] = number_format((float) $this->Sales_Model->getGpAmountByInvoiceId($this->dist_id, $sale->sales_invoice_id), 2, '.', ',');*/
             $row[] = '<a class="btn btn-icon-only blue" href="' . site_url($this->project . '/sdc_view/' . $mrn_sdc_list->id) . '">
     <i class="fa fa-search-plus bigger-130"></i></a>' . $edit . $delete . $make_bill . $view_bill;

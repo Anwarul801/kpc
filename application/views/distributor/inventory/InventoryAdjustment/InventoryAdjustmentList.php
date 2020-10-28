@@ -19,6 +19,7 @@
                             <th>Serial No</th>
 
                             <th>Invoice Adjustment No</th>
+                            <th>User Name</th>
                             <th>Action</th>
 
                         </tr>
@@ -38,6 +39,7 @@
                                 <td><?php echo $key + 1; ?></td>
 
                                 <td><?php echo  $value->inv_adjustment_no; ?></td>
+                                <td><?php echo  $value->name; ?></td>
 
                                 <td>
                                     <a class="btn btn-icon-only red" href="<?php echo site_url($this->project . '/invoiceAdjustmentShow/' . $value->id) ?>">
