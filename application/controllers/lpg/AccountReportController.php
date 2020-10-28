@@ -94,7 +94,7 @@ class AccountReportController extends CI_Controller
         /*page navbar details*/
         $data['pageTitle'] = 'General Ledger';
         $data['mainContent'] = $this->load->view('distributor/account/report/generalLedger', $data, true);
-        $this->load->view('distributor/masterTemplateSmeMobile', $data);
+        $this->load->view('distributor/masterTemplate', $data);
     }
 
 

@@ -1689,8 +1689,19 @@ class SalesLpgController extends CI_Controller
         $data['link_page_url'] = $this->project . '/salesLpgInvoice_add';
         $data['link_icon'] = "<i class='ace-icon fa fa-plus'></i>";
         /*page navbar details*/
-        $data['mainContent'] = $this->load->view('distributor/sales/salesInvoiceLpg/saleList', $data, true);
-        $this->load->view('distributor/masterTemplate', $data);
+        $this->load->helper('site_helper');
+        $add  = check_parmission_by_user_role(38);
+
+        if($add == 0){
+            $data['mainContent'] = $this->load->view('distributor/not_permisson_page', $data, true);
+            $this->load->view('distributor/masterTemplate', $data);
+        } else{
+            $data['mainContent'] = $this->load->view('distributor/sales/salesInvoiceLpg/saleList', $data, true);
+            $this->load->view('distributor/masterTemplate', $data);
+        }
+
+
+       
     }
 
     function getCustomerCurrentBalance($customerId = null)

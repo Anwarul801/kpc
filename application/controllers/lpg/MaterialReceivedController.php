@@ -404,8 +404,9 @@ class MaterialReceivedController extends CI_Controller
         $data['productCat'] = $this->Common_model->getPublicProductCat($this->dist_id);
         $this->load->helper('site_helper');
         $add  = check_parmission_by_user_role(2116);
+        $menu  = check_parmission_by_user_role(131);
 
-        if($add == 0){
+        if($add == 0 || $menu == 0){
             $data['mainContent'] = $this->load->view('distributor/not_permisson_page', $data, true);
             $this->load->view('distributor/masterTemplate', $data);
         } else{

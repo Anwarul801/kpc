@@ -1958,8 +1958,9 @@ UNION ALL
     }
 
     function getAllAdjustmentbrand(){
-        $this->db->select("inventory_adjustment_info.*");
+        $this->db->select("inventory_adjustment_info.*,admin.name");
         $this->db->from("inventory_adjustment_info");
+        $this->db->join('admin', 'admin.admin_id=inventory_adjustment_info.insert_by');
         $result = $this->db->get()->result();
         return $result;
     }
@@ -1969,7 +1970,7 @@ UNION ALL
 
         $this->db->select("inventory_adjustment_details.*,
         product.productName,brand.brandName,
-        productcategory.title,branch.branch_name,
+        productcategory.title,branch.branch_name,inventory_adjustment_info.inv_adjustment_no,inventory_adjustment_info.order_no,
         inventory_adjustment_info.date");
         //$this->db->select("*");
         $this->db->from("inventory_adjustment_details");

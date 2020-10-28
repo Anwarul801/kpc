@@ -199,8 +199,7 @@ $route['(:any)/getAllMessage'] = 'lpg/SetupController/getAllMessage';
 $route['(:any)/incentiveList'] = 'lpg/SetupController/incentiveList';
 $route['(:any)/userList'] = 'lpg/UserController/userList';
 $route['(:any)/addUser'] = 'lpg/UserController/addUser';
-$route['(:any)/editUser/(:any)'] = 'lpg/UserController/editUser/$2';
-$route['(:any)/update_password'] = 'lpg/UserController/update_password';
+$route['(:any)/editUser/(:any)'] = 'lpg/SetupController/editUser/$2';
 $route['(:any)/decision'] = 'lpg/SetupController/decision_tools';
 $route['(:any)/save_decision'] = 'lpg/SetupController/save_decision_tools';
 $route['(:any)/compare_decision'] = 'lpg/SetupController/compare_decision';
@@ -356,11 +355,9 @@ $route['(:any)/billInvoice_edit/(:any)'] = 'lpg/FinaneController/billInvoice_edi
 $route['(:any)/receiveVoucher'] = 'lpg/VoucherController/receiveVoucher';
 
 $route['(:any)/ServerFilterReceiveVoucher'] = 'lpg/ServerFilterController/receiveList';
-//$route['(:any)/receiveVoucherAdd'] = 'lpg/VoucherController/receiveVoucherAdd';
-$route['(:any)/receiveVoucherAdd'] = 'lpg/VoucherController/receiveVoucherAdd_v2';
+$route['(:any)/receiveVoucherAdd'] = 'lpg/VoucherController/receiveVoucherAdd';
 $route['(:any)/receiveVoucherAdd/(:any)'] = 'lpg/VoucherController/receiveVoucherAdd/$2';
-//$route['(:any)/receiveVoucherEdit/(:any)'] = 'lpg/VoucherController/receiveVoucherEdit/$2';
-$route['(:any)/receiveVoucherEdit/(:any)'] = 'lpg/VoucherController/receiveVoucherEdit_v2/$2';
+$route['(:any)/receiveVoucherEdit/(:any)'] = 'lpg/VoucherController/receiveVoucherEdit/$2';
 $route['(:any)/receiveVoucherView/(:any)'] = 'lpg/VoucherController/receiveVoucherView/$2';
 //Journal Voucher
 
@@ -419,11 +416,9 @@ $route['(:any)/day_book_report'] = 'lpg/AccountReportController/day_book_report_
 
 $route['(:any)/ServerFilterPaymentVoucher'] = 'lpg/ServerFilterController/paymentList';
 $route['(:any)/paymentVoucherAdd'] = 'lpg/VoucherController/paymentVoucherAdd';
-//$route['(:any)/paymentVoucherEdit/(:any)'] = 'lpg/VoucherController/paymentVoucherEdit/$2';
-$route['(:any)/paymentVoucherEdit/(:any)'] = 'lpg/VoucherController/paymentVoucherEdit_v2/$2';
+$route['(:any)/paymentVoucherEdit/(:any)'] = 'lpg/VoucherController/paymentVoucherEdit/$2';
 
-//$route['(:any)/paymentVoucherAdd/(:any)'] = 'lpg/FinaneController/paymentVoucherAdd/$2';
-$route['(:any)/paymentVoucherAdd'] = 'lpg/VoucherController/paymentVoucherAdd_v2';
+$route['(:any)/paymentVoucherAdd/(:any)'] = 'lpg/FinaneController/paymentVoucherAdd/$2';
 
 $route['(:any)/paymentVoucherView/(:any)'] = 'lpg/VoucherController/paymentVoucherView/$2';
 
@@ -480,6 +475,12 @@ $route['(:any)/invoiceAdjustmentDelete/(:any)'] = 'lpg/InventoryAdjustmentContro
 $route['(:any)/InventoryAdjustmentEdit/(:any)'] = 'lpg/InventoryAdjustmentController/InventoryAdjustmentEdit/$2';
 $route['(:any)/cylinderTypeReport'] = 'lpg/InventoryController/cylinderTypeReport';
 $route['(:any)/cylinderTypeReport/(:any)'] = 'lpg/InventoryController/cylinderTypeReport2/$2';
+
+$route['(:any)/manufacturingAdd'] = 'lpg/ManufacturingController/manufacturingAdd';
+$route['(:any)/manufacturingList'] = 'lpg/ManufacturingController/manufacturingList';
+$route['(:any)/manufacturingShow/(:any)'] = 'lpg/ManufacturingController/manufacturingShow/$2';
+$route['(:any)/manufacturingDelete/(:any)'] = 'lpg/ManufacturingController/manufacturingDelete/$2';
+$route['(:any)/manufacturingEdit/(:any)'] = 'lpg/ManufacturingController/manufacturingEdit/$2';
 
 
 $route['(:any)/route_info'] = 'lpg/CustomerRoute/route_info';

@@ -752,8 +752,9 @@ ENGINE=InnoDB
         $data['companyInfo'] = $this->Common_model->get_single_data_by_single_column('system_config', 'dist_id', $this->dist_id);
         $this->load->helper('site_helper');
         $add  = check_parmission_by_user_role(2110);
+        $menu  = check_parmission_by_user_role(109);
 
-        if($add = 0){
+        if($add = 0 || $menu == 0){
             $data['mainContent'] = $this->load->view('distributor/not_permisson_page', $data, true);
             $this->load->view('distributor/masterTemplate', $data);
         } else{
@@ -1022,8 +1023,9 @@ ENGINE=InnoDB
         $data['companyInfo'] = $this->Common_model->get_single_data_by_single_column('system_config', 'dist_id', $this->dist_id);
         $this->load->helper('site_helper');
         $add  = check_parmission_by_user_role(2116);
+        $menu  = check_parmission_by_user_role(127);
 
-        if($add == 0){
+        if($add == 0 || $menu ==0){
             $data['mainContent'] = $this->load->view('distributor/not_permisson_page', $data, true);
             $this->load->view('distributor/masterTemplate', $data);
         } else{
